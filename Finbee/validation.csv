@@ -1,0 +1,1539 @@
+listing_category,loan_period,gender,credit_score,age,marital_status,age_group,monthly_income,education,quarter,employ_how_long,effective_rate,week_number,loan_amount,credit_score_gender,employment_status,year,credit_score_marital_status,is_holiday,dependants,monthly_installment
+Car,24,Male,D,44,Married,40 to 50,1123,High school,1,12,0.1265,9,770,D_Male,Employed,2017,D_Married,0,1,641.62
+Other Purposes,12,Male,B,26,Single,23 to 30,757,Vocational education,1,3,0.13,13,1500,B_Male,Employed,2019,B_Single,0,0,138.84
+Other Purposes,12,Female,A,48,Divorced,40 to 50,678,Post graduate,3,12,0.12,28,1655,A_Female,Employed,2018,A_Divorced,0,1,150.5
+Consolidation of Other Loans,48,Male,C,30,Single,30 to 40,736,High school,1,12,0.23,2,4820,C_Male,Employed,2019,C_Single,0,1,173.44
+Consolidation of Other Loans,24,Male,D,21,Single,19 to 23,498,High school,2,6,0.2468,26,1150,D_Male,Employed,2017,D_Single,0,0,66.14
+Home Improvements,58,Female,C,48,Married,40 to 50,1358,Vocational education,1,60,0.22,13,5600,C_Female,Employed,2019,C_Married,0,2,183.24
+Other Purposes,12,Female,B,53,Divorced,40 to 50,482,High school,1,72,0.14,7,1195,B_Female,Employed,2018,B_Divorced,0,0,110.56
+Other Purposes,24,Female,C,32,Divorced,30 to 40,404,Vocational education,2,24,0.21,23,300,C_Female,Employed,2018,C_Divorced,0,1,16.46
+Consolidation of Other Loans,24,Male,B,29,Single,23 to 30,856,Vocational education,4,36,0.21,40,4435,B_Male,Employed,2017,B_Single,0,0,1379.42
+Consolidation of Other Loans,45,Female,D,56,Married,40 to 50,455,Graduate,3,18,0.2958,31,2300,D_Female,Employed,2016,D_Married,0,1,96.55
+Consolidation of Other Loans,27,Male,B,32,Single,30 to 40,252,Vocational education,4,15,0.15,49,2130,B_Male,Employed,2017,B_Single,0,2,99.41
+Other Purposes,12,Female,B,52,Married,40 to 50,1188,Vocational education,2,12,0.14,25,500,B_Female,Employed,2018,B_Married,0,1,46.26
+Holidays/Travelling,60,Female,B,36,Married,30 to 40,1435,Graduate,2,3,0.17,19,9015,B_Female,Employed,2019,B_Married,0,2,258.51
+Other Purposes,36,Male,B,49,Married,40 to 50,1411,Graduate,2,72,0.222,26,2930,B_Male,Employed,2016,B_Married,0,1,121.38
+Other Purposes,24,Female,B,33,Married,30 to 40,401,Vocational education,1,72,0.14,13,1090,B_Female,Employed,2018,B_Married,0,2,55.35
+Other Purposes,36,Female,C,55,Married,40 to 50,545,Graduate,2,72,0.1963,20,1320,C_Female,Employed,2017,C_Married,0,0,1246.33
+Home Improvements,18,Female,D,41,Married,40 to 50,449,Graduate,3,12,0.26,34,1110,D_Female,Employed,2018,D_Married,0,2,79.8
+Consolidation of Other Loans,12,Female,D,21,Single,19 to 23,418,High school,2,3,0.26,24,890,D_Female,Employed,2018,D_Single,0,0,88.7
+Other Purposes,12,Male,B,31,Single,30 to 40,798,High school,3,24,0.14,38,660,B_Male,Employed,2017,B_Single,0,0,61.06
+Other Purposes,24,Female,B,34,Married,30 to 40,339,High school,4,3,0.14,51,770,B_Female,Employed,2017,B_Married,0,2,39.1
+Car,50,Male,D,36,Single,30 to 40,417,High school,4,6,0.26,47,2205,D_Male,Employed,2017,D_Single,0,1,83.54
+Consolidation of Other Loans,36,Female,C,46,Divorced,40 to 50,623,Vocational education,4,24,0.22,40,2600,C_Female,Employed,2017,C_Divorced,0,2,108.9
+Home Improvements,45,Male,D,32,Single,30 to 40,395,High school,1,12,0.28,7,2205,D_Male,Employed,2018,D_Single,0,0,90.46
+Other Purposes,24,Female,D,21,Single,19 to 23,519,High school,4,3,0.26,47,2205,D_Female,Employed,2018,D_Single,0,0,128.34
+Other Purposes,12,Male,D,24,Single,23 to 30,251,Graduate,1,3,0.26,6,910,D_Male,Employed,2018,D_Single,0,0,90.69
+Consolidation of Other Loans,36,Female,C,22,Married,19 to 23,428,High school,3,6,0.22,39,680,C_Female,Employed,2017,C_Married,0,1,28.48
+Home Improvements,60,Female,B,50,Divorced,40 to 50,439,Vocational education,2,72,0.18,16,4900,B_Female,Employed,2018,B_Divorced,0,0,140.28
+Other Purposes,58,Female,C,40,Married,40 to 50,509,High school,2,6,0.22,18,1000,C_Female,Employed,2019,C_Married,0,1,1024.83
+Other Purposes,12,Female,B,27,Single,23 to 30,496,Graduate,4,18,0.14,49,440,B_Female,Employed,2018,B_Single,0,0,40.71
+Other Purposes,24,Female,D,49,Divorced,40 to 50,373,Vocational education,4,9,0.24,50,1105,D_Female,Employed,2017,D_Divorced,0,0,63.16
+Consolidation of Other Loans,47,Female,D,27,Married,23 to 30,696,High school,1,6,0.28,4,2870,D_Female,Employed,2019,D_Married,0,2,115.38
+Home Improvements,36,Female,B,56,Divorced,40 to 50,464,High school,4,24,0.15,50,1400,B_Female,Employed,2017,B_Divorced,0,1,781.89
+Car,28,Male,B,27,Single,23 to 30,500,High school,3,36,0.15,28,1630,B_Male,Employed,2018,B_Single,0,0,73.94
+Other Purposes,15,Female,C,25,Single,23 to 30,430,Graduate,1,3,0.21,4,450,C_Female,Employed,2018,C_Single,0,1,405.85
+Other Purposes,36,Female,B,48,Married,40 to 50,1067,High school,2,72,0.14,14,3265,B_Female,Employed,2019,B_Married,0,0,122.74
+Car,24,Male,B,37,Married,30 to 40,1181,Vocational education,2,24,0.14,23,3470,B_Male,Employed,2018,B_Married,0,2,176.2
+Other Purposes,15,Male,B,41,Married,40 to 50,333,Graduate,3,48,0.1358,27,440,B_Male,Employed,2016,B_Married,0,1,393.58
+Consolidation of Other Loans,47,Female,D,27,Single,23 to 30,492,Vocational education,1,6,0.27,9,3300,D_Female,Employed,2019,D_Single,0,1,3332.81
+Other Purposes,36,Female,B,47,Married,40 to 50,1574,High school,2,72,0.15,18,3250,B_Female,Employed,2018,B_Married,0,1,122.04
+Car,12,Female,D,24,Single,23 to 30,263,High school,4,3,0.26,42,555,D_Female,Employed,2018,D_Single,0,2,55.31
+Home Improvements,12,Female,B,53,Divorced,40 to 50,506,Post graduate,1,72,0.11699999999999999,7,1090,B_Female,Employed,2017,B_Divorced,0,1,99.65
+Car,60,Male,B,58,Married,40 to 50,1397,Graduate,2,18,0.17,20,6525,B_Male,Employed,2019,B_Married,0,0,187.11
+Other Purposes,27,Male,D,24,Single,23 to 30,546,High school,1,3,0.27,8,3310,D_Male,Employed,2018,D_Single,0,0,2330.6
+Other Purposes,30,Female,D,38,Single,30 to 40,554,High school,4,12,0.25,49,780,D_Female,Employed,2017,D_Single,0,3,38.69
+Other Purposes,50,Male,D,21,Single,19 to 23,360,High school,4,15,0.26,43,2980,D_Male,Employed,2017,D_Single,0,0,112.9
+Consolidation of Other Loans,26,Male,C,42,Married,40 to 50,1486,Vocational education,4,72,0.27,42,5380,C_Male,Employed,2018,C_Married,0,2,3608.19
+Consolidation of Other Loans,36,Female,B,33,Married,30 to 40,1921,Graduate,1,60,0.2675,2,3170,B_Female,Employed,2016,B_Married,0,0,135.07
+Other Purposes,12,Female,B,38,Divorced,30 to 40,709,Graduate,4,24,0.19,45,995,B_Female,Employed,2017,B_Divorced,0,2,95.03
+Home Improvements,36,Female,D,31,Single,30 to 40,598,Vocational education,3,6,0.27,38,3305,D_Female,Employed,2018,D_Single,0,0,150.25
+Consolidation of Other Loans,49,Male,C,26,Single,23 to 30,366,High school,2,12,0.23,19,4070,C_Male,Employed,2018,C_Single,0,0,144.89
+Other Purposes,36,Female,B,55,Married,40 to 50,667,Post graduate,1,72,0.14,6,875,B_Female,Employed,2019,B_Married,0,0,32.89
+Consolidation of Other Loans,24,Male,C,33,Married,30 to 40,1222,Post graduate,2,72,0.1785,26,750,C_Male,Employed,2016,C_Married,0,0,765.65
+Car,21,Male,B,49,Divorced,40 to 50,898,Vocational education,1,48,0.1457,11,1090,B_Male,Employed,2017,B_Divorced,0,0,62.12
+Car,24,Male,B,44,Divorced,40 to 50,271,High school,4,3,0.14,41,1630,B_Male,Employed,2018,B_Divorced,0,1,82.77
+Other Purposes,60,Female,A,61,Married,60+,854,Graduate,2,72,0.14,15,2180,A_Female,Employed,2018,A_Married,0,0,55.88
+Consolidation of Other Loans,36,Female,C,31,Married,30 to 40,1407,High school,3,9,0.22,32,7000,C_Female,Employed,2018,C_Married,0,2,6777.9
+Car,24,Male,C,30,Single,30 to 40,447,High school,3,12,0.21,36,1650,C_Male,Employed,2017,C_Single,0,1,90.53
+Other Purposes,60,Male,B,25,Single,23 to 30,197,Graduate,1,48,0.17,10,2725,B_Male,Self-Employed,2019,B_Single,0,0,78.14
+Other Purposes,47,Male,D,54,Married,40 to 50,1278,Post graduate,2,72,0.27,22,2755,D_Male,Employed,2019,D_Married,0,0,111.09
+Home Improvements,12,Female,C,37,Divorced,30 to 40,994,Graduate,1,6,0.1744,9,1430,C_Female,Employed,2016,C_Divorced,0,1,135.65
+Consolidation of Other Loans,30,Female,D,37,Married,30 to 40,929,Vocational education,1,3,0.2867,8,1260,D_Female,Employed,2016,D_Married,0,0,65.26
+Car,36,Male,A,47,Married,40 to 50,731,Vocational education,3,18,0.13,35,3620,A_Male,Employed,2018,A_Married,0,2,129.86
+Consolidation of Other Loans,58,Female,C,30,Married,30 to 40,506,High school,4,3,0.23,41,2070,C_Female,Employed,2017,C_Married,0,2,67.93
+Car,50,Female,D,26,Single,23 to 30,1672,Post graduate,4,72,0.26,40,6610,D_Female,Employed,2017,D_Single,0,0,6006.8
+Other Purposes,47,Male,D,45,Married,40 to 50,529,Vocational education,1,24,0.28,11,1660,D_Male,Employed,2018,D_Married,0,2,66.74
+Home Improvements,27,Male,B,43,Married,40 to 50,1336,Graduate,4,72,0.15,50,6175,B_Male,Employed,2017,B_Married,0,3,939.98
+Other Purposes,24,Male,B,29,Single,23 to 30,669,High school,1,18,0.14,6,330,B_Male,Employed,2018,B_Single,0,0,16.76
+Other Purposes,60,Female,B,46,Married,40 to 50,982,Graduate,4,24,0.18,51,4920,B_Female,Employed,2017,B_Married,0,1,140.85
+Other Purposes,12,Female,D,33,Divorced,30 to 40,505,Vocational education,1,24,0.26,3,340,D_Female,Employed,2018,D_Divorced,0,2,324.91
+Consolidation of Other Loans,18,Male,D,38,Single,30 to 40,461,High school,4,24,0.188,47,1770,D_Male,Employed,2016,D_Single,0,2,786.17
+Car,30,Male,B,48,Divorced,40 to 50,368,High school,4,6,0.15,41,3170,B_Male,Employed,2018,B_Divorced,0,1,136.34
+Consolidation of Other Loans,45,Female,D,35,Single,30 to 40,625,Post graduate,1,24,0.2261,9,2120,D_Female,Employed,2017,D_Single,0,0,80.24
+Home Improvements,48,Female,B,51,Divorced,40 to 50,352,High school,4,6,0.16,40,3480,B_Female,Employed,2017,B_Divorced,0,0,109.19
+Other Purposes,12,Male,D,30,Married,30 to 40,440,Vocational education,2,18,0.19,25,335,D_Male,Employed,2018,D_Married,0,1,237.79
+Other Purposes,12,Female,C,38,Married,30 to 40,4370,Post graduate,3,72,0.19,33,560,C_Female,Employed,2017,C_Married,0,2,53.49
+Consolidation of Other Loans,48,Male,D,32,Single,30 to 40,331,Vocational education,3,36,0.2851,35,2500,D_Male,Employed,2016,D_Single,0,0,2527.83
+Consolidation of Other Loans,58,Female,C,58,Other,40 to 50,805,Graduate,1,72,0.23,7,1830,C_Female,Employed,2018,C_Other,0,0,1798.29
+Home Improvements,36,Female,A,56,Married,40 to 50,1135,Graduate,2,72,0.13,25,1200,A_Female,Employed,2018,A_Married,0,0,43.05
+Car,30,Female,A,58,Married,40 to 50,6735,Graduate,3,72,0.13,32,5160,A_Female,Employed,2018,A_Married,0,0,5000.2
+Other Purposes,12,Male,A,65,Divorced,60+,426,Graduate,4,36,0.12,47,1140,A_Male,Employed,2017,A_Divorced,0,0,103.67
+Car,47,Male,D,53,Divorced,40 to 50,635,Vocational education,3,3,0.28,29,4960,D_Male,Employed,2018,D_Divorced,0,1,199.41
+Other Purposes,30,Male,D,19,Single,to 19,461,High school,1,3,0.26,12,670,D_Male,Employed,2019,D_Single,0,0,34.04
+Medical expenses,12,Male,A,54,Divorced,40 to 50,356,Vocational education,4,6,0.12,50,830,A_Male,Employed,2017,A_Divorced,0,0,75.48
+Home Improvements,58,Male,C,28,Single,23 to 30,790,High school,3,15,0.23,36,8400,C_Male,Employed,2017,C_Single,0,0,275.67
+Consolidation of Other Loans,12,Male,D,34,Single,30 to 40,641,High school,1,72,0.2239,5,600,D_Male,Employed,2016,D_Single,0,1,58.82
+Other Purposes,12,Female,B,57,Married,40 to 50,600,Vocational education,2,72,0.14,24,700,B_Female,Employed,2018,B_Married,0,0,191.15
+Home Improvements,60,Male,B,55,Married,40 to 50,1045,Graduate,2,72,0.2168,19,9200,B_Male,Self-Employed,2017,B_Married,0,1,9335.72
+Other Purposes,12,Male,C,24,Single,23 to 30,615,Vocational education,3,24,0.19,34,890,C_Male,Employed,2018,C_Single,0,0,85.0
+Other Purposes,12,Female,B,50,Divorced,40 to 50,774,Graduate,3,72,0.14,31,660,B_Female,Employed,2017,B_Divorced,0,0,61.06
+Other Purposes,30,Female,B,24,Single,23 to 30,348,High school,1,3,0.1848,5,2170,B_Female,Employed,2017,B_Single,0,0,97.16
+Car,60,Female,B,36,Married,30 to 40,1144,Vocational education,3,18,0.2013,27,5420,B_Female,Employed,2017,B_Married,0,1,5396.06
+Other Purposes,54,Female,B,55,Married,40 to 50,374,High school,3,48,0.2349,29,3250,B_Female,Employed,2016,B_Married,0,0,108.88
+Consolidation of Other Loans,49,Female,B,50,Divorced,40 to 50,575,Graduate,4,72,0.18,41,5250,B_Female,Employed,2017,B_Divorced,0,0,4390.67
+Consolidation of Other Loans,48,Female,D,48,Married,40 to 50,1136,Graduate,2,24,0.3362,16,5100,D_Female,Employed,2016,D_Married,0,2,222.0
+Other Purposes,36,Male,C,22,Single,19 to 23,507,High school,3,6,0.22,32,2100,C_Male,Employed,2018,C_Single,0,0,87.96
+Other Purposes,30,Female,D,20,Single,19 to 23,370,High school,4,6,0.27,45,2000,D_Female,Employed,2018,D_Single,0,1,101.38
+Home Improvements,12,Female,B,36,Married,30 to 40,849,Graduate,1,72,0.14,12,1090,B_Female,Employed,2018,B_Married,0,2,100.85
+Consolidation of Other Loans,15,Male,C,25,Single,23 to 30,321,Graduate,3,9,0.2064,28,1440,C_Male,Employed,2017,C_Single,0,0,1473.12
+Other Purposes,48,Female,C,44,Married,40 to 50,1119,High school,4,36,0.23,44,1105,C_Female,Employed,2018,C_Married,0,2,39.76
+Other Purposes,15,Male,C,51,Married,40 to 50,409,High school,4,12,0.21,45,560,C_Male,Employed,2017,C_Married,0,1,44.67
+Consolidation of Other Loans,36,Female,B,36,Single,30 to 40,580,High school,3,36,0.15,31,670,B_Female,Employed,2018,B_Single,0,1,25.16
+Home Improvements,12,Female,B,51,Married,40 to 50,393,High school,4,9,0.14,47,330,B_Female,Employed,2017,B_Married,0,0,30.53
+Car,30,Female,D,35,Married,30 to 40,1032,Vocational education,3,60,0.27,37,2755,D_Female,Employed,2018,D_Married,0,2,139.65
+Consolidation of Other Loans,60,Male,B,49,Divorced,40 to 50,323,Vocational education,4,3,0.18,42,4500,B_Male,Employed,2017,B_Divorced,0,1,4378.33
+Home Improvements,60,Female,B,53,Single,40 to 50,878,Post graduate,4,72,0.18,50,1955,B_Female,Employed,2017,B_Single,0,0,55.97
+Other Purposes,60,Female,B,47,Married,40 to 50,364,Vocational education,4,15,0.18,49,2710,B_Female,Employed,2018,B_Married,0,0,77.58
+Consolidation of Other Loans,36,Male,C,33,Married,30 to 40,1300,Vocational education,1,18,0.21,12,8755,C_Male,Self-Employed,2019,C_Married,0,1,365.93
+Home Improvements,30,Male,B,34,Single,30 to 40,566,High school,4,15,0.15,46,2170,B_Male,Employed,2018,B_Single,0,0,93.33
+Consolidation of Other Loans,18,Female,C,33,Married,30 to 40,567,High school,2,9,0.21,17,780,C_Female,Employed,2018,C_Married,0,1,567.92
+Car,36,Male,B,47,Divorced,40 to 50,346,Vocational education,2,9,0.1809,22,2170,B_Male,Employed,2017,B_Divorced,0,1,84.96
+Consolidation of Other Loans,27,Male,D,33,Married,30 to 40,650,Vocational education,4,12,0.2669,52,2200,D_Male,Employed,2015,D_Married,0,2,1118.62
+Car,36,Male,C,28,Single,23 to 30,505,Vocational education,4,12,0.22,50,3300,C_Male,Employed,2017,C_Single,0,0,138.22
+Other Purposes,60,Male,C,49,Married,40 to 50,374,Post graduate,3,12,0.2576,27,3080,C_Male,Employed,2017,C_Married,0,1,1165.8
+Consolidation of Other Loans,39,Male,D,25,Single,23 to 30,348,High school,3,36,0.28,38,2480,D_Male,Employed,2018,D_Single,0,0,109.31
+Other Purposes,24,Female,B,61,Divorced,60+,1029,Vocational education,4,36,0.14,47,1650,B_Female,Employed,2018,B_Divorced,0,0,83.78
+Consolidation of Other Loans,45,Male,B,31,Single,30 to 40,408,Graduate,1,6,0.16,5,4830,B_Male,Employed,2019,B_Single,0,0,4773.03
+Other Purposes,18,Male,B,64,Divorced,60+,404,High school,4,72,0.14,46,1630,B_Male,Employed,2017,B_Divorced,0,0,1069.66
+Other Purposes,24,Male,C,37,Single,30 to 40,629,High school,2,60,0.2,17,2380,C_Male,Employed,2019,C_Single,0,0,2279.35
+Home Improvements,60,Male,B,54,Married,40 to 50,865,Post graduate,4,9,0.18,50,550,B_Male,Employed,2017,B_Married,0,0,15.75
+Other Purposes,12,Male,B,29,Single,23 to 30,1086,Vocational education,2,36,0.14,24,330,B_Male,Employed,2018,B_Single,0,0,30.73
+Consolidation of Other Loans,24,Female,B,58,Divorced,40 to 50,604,Graduate,1,72,0.1419,3,2100,B_Female,Employed,2017,B_Divorced,0,0,106.83
+Car,24,Male,C,32,Married,30 to 40,290,Vocational education,3,48,0.2312,38,500,C_Male,Employed,2015,C_Married,0,2,27.17
+Other Purposes,36,Female,D,34,Married,30 to 40,790,High school,1,6,0.27,6,1660,D_Female,Employed,2018,D_Married,0,2,1681.68
+Car,47,Male,D,26,Single,23 to 30,1118,Vocational education,3,6,0.28,38,1655,D_Male,Employed,2018,D_Single,0,0,1634.76
+Other Purposes,60,Male,B,34,Divorced,30 to 40,793,Post graduate,1,60,0.18,4,5415,B_Male,Employed,2019,B_Divorced,0,1,155.03
+Other Purposes,24,Male,B,37,Married,30 to 40,2038,Graduate,1,18,0.13,11,2000,B_Male,Employed,2019,B_Married,0,2,101.64
+Car,24,Female,B,60,Married,60+,343,Vocational education,3,72,0.14,30,660,B_Female,Employed,2017,B_Married,0,0,33.51
+Other Purposes,36,Male,C,46,Married,40 to 50,700,Vocational education,4,24,0.1941,41,1200,C_Male,Employed,2015,C_Married,0,1,778.32
+Consolidation of Other Loans,39,Female,C,55,Married,40 to 50,471,High school,4,18,0.2083,48,1500,C_Female,Employed,2016,C_Married,0,0,755.39
+Other Purposes,24,Female,C,46,Other,40 to 50,316,High school,3,3,0.21,39,340,C_Female,Employed,2017,C_Other,0,0,265.46
+Other Purposes,39,Female,C,22,Single,19 to 23,403,Vocational education,3,9,0.2775,28,3840,C_Female,Employed,2017,C_Single,0,0,165.5
+Medical expenses,40,Female,C,43,Married,40 to 50,601,High school,2,12,0.22,17,760,C_Female,Employed,2019,C_Married,0,0,30.19
+Consolidation of Other Loans,48,Female,B,58,Divorced,40 to 50,559,Graduate,3,72,0.2231,35,1800,B_Female,Employed,2016,B_Divorced,0,0,62.81
+Other Purposes,47,Male,D,30,Single,30 to 40,463,Vocational education,1,15,0.28,2,995,D_Male,Employed,2018,D_Single,0,0,40.0
+Other Purposes,58,Female,C,42,Divorced,40 to 50,430,Graduate,4,24,0.23,46,5100,C_Female,Employed,2018,C_Divorced,0,1,4818.83
+Home Improvements,12,Male,B,25,Single,23 to 30,735,Vocational education,3,15,0.14,36,330,B_Male,Employed,2017,B_Single,0,0,30.53
+Car,60,Female,B,51,Married,40 to 50,493,Vocational education,2,36,0.18,23,3465,B_Female,Employed,2018,B_Married,0,0,99.2
+Other Purposes,30,Male,D,33,Married,30 to 40,955,Vocational education,2,24,0.27,21,2210,D_Male,Employed,2018,D_Married,0,3,112.03
+Home Improvements,30,Female,B,52,Divorced,40 to 50,489,Graduate,4,72,0.15,49,1090,B_Female,Employed,2017,B_Divorced,0,1,1021.85
+Consolidation of Other Loans,58,Female,C,38,Single,30 to 40,366,High school,4,6,0.23,49,4000,C_Female,Employed,2017,C_Single,0,0,131.27
+Car,24,Female,D,28,Single,23 to 30,239,High school,2,3,0.2607,21,1500,D_Female,Employed,2017,D_Single,0,2,87.36
+Consolidation of Other Loans,36,Male,D,24,Single,23 to 30,460,Vocational education,1,3,0.358,5,1200,D_Male,Employed,2016,D_Single,0,0,60.95
+Other Purposes,48,Male,C,51,Married,40 to 50,423,High school,4,12,0.2485,43,3950,C_Male,Employed,2016,C_Married,0,1,146.41
+Other Purposes,12,Female,B,48,Married,40 to 50,362,High school,2,12,0.1306,19,500,B_Female,Employed,2017,B_Married,0,0,46.04
+Other Purposes,24,Male,B,39,Married,30 to 40,700,High school,4,72,0.1881,41,300,B_Male,Employed,2015,B_Married,0,2,15.56
+Other Purposes,24,Male,D,25,Single,23 to 30,585,Vocational education,4,9,0.24,52,300,D_Male,Employed,2017,D_Single,0,0,298.81
+Consolidation of Other Loans,15,Male,D,23,Single,23 to 30,181,High school,4,3,0.2816,50,750,D_Male,Employed,2016,D_Single,0,0,63.04
+Other Purposes,18,Female,B,24,Single,23 to 30,425,High school,2,6,0.14,24,1000,B_Female,Employed,2018,B_Single,0,0,64.65
+Consolidation of Other Loans,51,Male,C,45,Married,40 to 50,829,High school,1,72,0.22,12,1450,C_Male,Employed,2019,C_Married,0,3,50.45
+Consolidation of Other Loans,51,Male,C,32,Single,30 to 40,378,High school,1,48,0.2878,12,3850,C_Male,Employed,2016,C_Single,0,0,3621.35
+Home Improvements,60,Female,A,47,Married,40 to 50,1198,High school,4,72,0.14,44,1250,A_Female,Employed,2017,A_Married,0,0,32.04
+Car,30,Male,D,24,Single,23 to 30,692,High school,2,9,0.27,19,1660,D_Male,Employed,2018,D_Single,0,1,1145.17
+Other Purposes,36,Male,C,27,Single,23 to 30,329,Graduate,1,9,0.2075,4,1110,C_Male,Employed Part Time,2017,C_Single,0,0,299.32
+Other Purposes,36,Female,C,25,Single,23 to 30,548,Graduate,1,6,0.1746,4,1000,C_Female,Employed,2017,C_Single,0,0,455.81
+Other Purposes,12,Male,D,27,Married,23 to 30,507,Vocational education,3,15,0.26,36,340,D_Male,Employed,2018,D_Married,0,1,33.89
+Car,30,Male,D,20,Single,19 to 23,269,High school,1,3,0.27,7,780,D_Male,Employed,2018,D_Single,0,0,434.26
+Medical expenses,12,Male,C,28,Single,23 to 30,649,Graduate,2,3,0.19,22,450,C_Male,Employed,2018,C_Single,0,0,391.08
+Consolidation of Other Loans,18,Female,D,31,Single,30 to 40,757,Graduate,4,12,0.2352,42,2000,D_Female,Employed,2016,D_Single,0,0,1774.68
+Other Purposes,42,Female,B,45,Married,40 to 50,636,Vocational education,1,72,0.1683,5,3250,B_Female,Employed,2017,B_Married,0,1,112.65
+Consolidation of Other Loans,36,Male,B,51,Divorced,40 to 50,396,Vocational education,2,72,0.1974,21,2150,B_Male,Employed,2016,B_Divorced,0,1,86.23
+Consolidation of Other Loans,36,Male,C,49,Divorced,40 to 50,422,High school,4,72,0.2278,40,2100,C_Male,Employed,2016,C_Divorced,0,0,260.16
+Other Purposes,24,Female,C,27,Single,23 to 30,351,Vocational education,1,12,0.1472,12,1280,C_Female,Employed,2017,C_Single,0,1,65.45
+Other Purposes,12,Male,B,38,Married,30 to 40,1297,Vocational education,1,48,0.14,1,330,B_Male,Employed,2018,B_Married,0,2,147.8
+Other Purposes,24,Male,B,26,Single,23 to 30,657,High school,3,9,0.14,30,2300,B_Male,Employed,2018,B_Single,0,0,116.79
+Car,24,Male,C,23,Single,23 to 30,345,High school,2,3,0.21,17,1110,C_Male,Employed,2018,C_Single,0,0,60.9
+Consolidation of Other Loans,36,Male,B,52,Married,40 to 50,4553,Vocational education,3,72,0.15,37,5230,B_Male,Self-Employed,2017,B_Married,0,0,196.4
+Other Purposes,60,Male,B,28,Single,23 to 30,747,Graduate,2,48,0.18,22,2930,B_Male,Employed,2018,B_Single,0,0,2567.18
+Consolidation of Other Loans,45,Male,C,50,Married,40 to 50,1261,Vocational education,2,48,0.2942,15,5300,C_Male,Employed,2016,C_Married,0,1,218.09
+Car,18,Male,B,25,Married,23 to 30,958,Vocational education,3,9,0.14,38,1250,B_Male,Employed,2018,B_Married,0,1,681.9
+Car,24,Female,B,31,Married,30 to 40,737,Vocational education,4,36,0.1272,45,550,B_Female,Employed,2016,B_Married,0,2,184.55
+Other Purposes,47,Male,D,34,Married,30 to 40,376,Vocational education,2,3,0.27,15,1765,D_Male,Employed,2019,D_Married,0,3,1818.83
+Other Purposes,24,Female,C,34,Divorced,30 to 40,602,Graduate,3,15,0.21,34,550,C_Female,Employed,2018,C_Divorced,0,2,30.18
+Other Purposes,36,Male,D,25,Single,23 to 30,786,Vocational education,1,18,0.27,9,3310,D_Male,Employed,2018,D_Single,0,0,150.48
+Home Improvements,24,Female,C,48,Divorced,40 to 50,720,High school,4,18,0.2629,45,400,C_Female,Employed,2015,C_Divorced,0,0,184.91
+Medical expenses,36,Female,C,43,Single,40 to 50,417,High school,4,72,0.22,51,2200,C_Female,Employed,2017,C_Single,0,1,92.14
+Other Purposes,12,Female,A,47,Divorced,40 to 50,403,Post graduate,4,24,0.12,46,500,A_Female,Employed,2018,A_Divorced,0,0,305.67
+Other Purposes,24,Female,B,39,Divorced,30 to 40,365,High school,1,6,0.14,6,550,B_Female,Employed,2018,B_Divorced,0,1,211.14
+Other Purposes,24,Male,B,51,Married,40 to 50,1260,Post graduate,2,72,0.124,22,660,B_Male,Employed,2017,B_Married,0,0,33.0
+Other Purposes,36,Female,B,46,Divorced,40 to 50,654,Vocational education,3,15,0.15,29,1000,B_Female,Employed,2018,B_Divorced,0,0,37.55
+Other Purposes,48,Female,C,32,Married,30 to 40,456,Post graduate,4,6,0.2281,44,2200,C_Female,Employed,2016,C_Married,0,2,78.92
+Car,24,Female,B,67,Divorced,60+,1400,Graduate,2,36,0.1519,13,3250,B_Female,Employed,2017,B_Divorced,0,0,166.92
+Consolidation of Other Loans,12,Female,B,27,Single,23 to 30,164,High school,1,24,0.0991,2,600,B_Female,Employed,2016,B_Single,0,0,53.72
+Home Improvements,54,Female,B,29,Married,23 to 30,730,Graduate,3,24,0.2628,29,6540,B_Female,Employed,2017,B_Married,0,0,234.87
+Consolidation of Other Loans,36,Female,D,39,Single,30 to 40,518,High school,3,6,0.27,35,1890,D_Female,Employed,2018,D_Single,0,4,85.92
+Other Purposes,47,Male,D,37,Single,30 to 40,388,High school,3,24,0.28,28,3750,D_Male,Employed,2018,D_Single,0,0,150.76
+Other Purposes,47,Female,D,22,Single,19 to 23,765,Vocational education,2,6,0.28,16,1105,D_Female,Employed,2018,D_Single,0,0,44.42
+Consolidation of Other Loans,12,Male,B,23,Single,23 to 30,628,High school,4,36,0.26,40,515,B_Male,Employed,2018,B_Single,0,0,51.33
+Other Purposes,36,Male,B,30,Married,30 to 40,1180,High school,1,72,0.15,5,1090,B_Male,Employed,2018,B_Married,0,0,40.93
+Home Improvements,24,Male,A,41,Married,40 to 50,1132,Vocational education,2,72,0.12,22,3100,A_Male,Employed,2018,A_Married,0,2,152.44
+Other Purposes,51,Female,C,38,Divorced,30 to 40,381,High school,3,3,0.2711,28,3730,C_Female,Employed,2016,C_Divorced,0,0,3766.21
+Home Improvements,24,Male,A,51,Divorced,40 to 50,464,Vocational education,3,15,0.12,38,1760,A_Male,Employed,2018,A_Divorced,0,0,86.55
+Other Purposes,36,Male,B,32,Single,30 to 40,795,Graduate,3,60,0.15,39,2600,B_Male,Employed,2018,B_Single,0,0,97.64
+Other Purposes,60,Male,C,23,Single,23 to 30,460,High school,1,9,0.2327,1,5490,C_Male,Employed,2017,C_Single,0,0,5218.82
+Car,12,Female,C,39,Single,30 to 40,260,High school,1,72,0.1293,4,560,C_Female,Employed,2017,C_Single,0,0,51.85
+Consolidation of Other Loans,48,Female,C,24,Single,23 to 30,465,High school,2,15,0.2347,25,1700,C_Female,Employed,2016,C_Single,0,0,61.86
+Car,47,Male,D,28,Married,23 to 30,1027,High school,3,6,0.28,28,560,D_Male,Employed,2018,D_Married,0,0,22.51
+Other Purposes,30,Male,B,56,Married,40 to 50,216,Vocational education,4,36,0.22,48,1110,B_Male,Employed,2017,B_Married,0,0,52.42
+Consolidation of Other Loans,12,Male,C,28,Single,23 to 30,367,High school,1,60,0.1752,3,960,C_Male,Employed,2016,C_Single,0,0,90.4
+Home Improvements,30,Female,B,36,Married,30 to 40,1426,High school,4,36,0.15,43,1630,B_Female,Employed,2017,B_Married,0,3,1146.51
+Medical expenses,36,Female,C,44,Single,40 to 50,255,Vocational education,2,3,0.1923,22,1620,C_Female,Employed,2017,C_Single,0,1,1425.6
+Consolidation of Other Loans,45,Female,D,43,Single,40 to 50,512,High school,4,12,0.2455,48,3850,D_Female,Employed,2016,D_Single,0,1,150.06
+Consolidation of Other Loans,36,Female,C,55,Single,40 to 50,572,Vocational education,1,18,0.22,7,2700,C_Female,Employed,2018,C_Single,0,0,2155.15
+Consolidation of Other Loans,48,Male,C,35,Married,30 to 40,465,Vocational education,1,6,0.23,3,2700,C_Male,Employed,2019,C_Married,0,1,97.15
+Other Purposes,47,Male,D,21,Single,19 to 23,326,High school,3,3,0.28,38,3195,D_Male,Employed,2018,D_Single,0,0,3259.42
+Other Purposes,58,Male,C,20,Single,19 to 23,277,High school,1,3,0.23,4,1430,C_Male,Employed,2019,C_Single,0,0,46.93
+Consolidation of Other Loans,12,Female,B,29,Single,23 to 30,780,Graduate,3,18,0.18,30,935,B_Female,Employed,2018,B_Single,0,0,811.29
+Home Improvements,24,Female,B,26,Single,23 to 30,427,Vocational education,3,24,0.14,32,1090,B_Female,Employed,2017,B_Single,0,0,55.35
+Other Purposes,15,Female,C,21,Single,19 to 23,297,High school,2,3,0.21,19,780,C_Female,Employed,2018,C_Single,0,0,511.55
+Consolidation of Other Loans,21,Female,B,48,Married,40 to 50,1498,Graduate,1,72,0.1943,5,2500,B_Female,Employed,2016,B_Married,0,1,840.14
+Other Purposes,36,Male,B,28,Single,23 to 30,788,Vocational education,3,9,0.15,31,4330,B_Male,Employed,2018,B_Single,0,0,4404.91
+Other Purposes,24,Male,B,60,Married,60+,650,High school,4,18,0.1846,46,2170,B_Male,Employed,2016,B_Married,0,0,114.97
+Home Improvements,48,Female,B,33,Single,30 to 40,427,Graduate,2,24,0.15,20,1530,B_Female,Employed,2019,B_Single,0,0,48.07
+Consolidation of Other Loans,36,Female,B,46,Married,40 to 50,1332,Graduate,3,72,0.15,34,4850,B_Female,Employed,2018,B_Married,0,1,4416.71
+Other Purposes,15,Male,D,21,Single,19 to 23,307,High school,2,3,0.26,20,800,D_Male,Employed,2018,D_Single,0,0,313.85
+Consolidation of Other Loans,15,Female,B,53,Divorced,40 to 50,406,Vocational education,2,24,0.14,26,1100,B_Female,Employed,2018,B_Divorced,0,0,846.21
+Other Purposes,24,Female,B,46,Divorced,40 to 50,473,Graduate,1,24,0.14,5,1200,B_Female,Employed,2018,B_Divorced,0,0,1092.14
+Other Purposes,24,Female,C,59,Divorced,40 to 50,397,Vocational education,2,6,0.2,17,1000,C_Female,Employed,2019,C_Divorced,0,0,54.79
+Medical expenses,58,Female,C,54,Married,40 to 50,728,Post graduate,3,18,0.23,30,4390,C_Female,Employed,2017,C_Married,0,0,144.07
+Other Purposes,30,Male,D,29,Single,23 to 30,876,High school,3,36,0.2269,28,1110,D_Male,Employed,2017,D_Single,0,0,1086.97
+Home Improvements,24,Female,C,33,Married,30 to 40,1579,High school,1,72,0.1451,9,560,C_Female,Employed,2017,C_Married,0,1,28.91
+Other Purposes,24,Male,B,31,Married,30 to 40,2479,Vocational education,4,9,0.1454,51,1630,B_Male,Self-Employed,2016,B_Married,0,2,165.0
+Consolidation of Other Loans,36,Female,D,22,Single,19 to 23,487,Vocational education,2,9,0.26,22,1035,D_Female,Employed,2019,D_Single,0,0,47.17
+Home Improvements,32,Female,A,46,Single,40 to 50,464,High school,2,15,0.13,19,3100,A_Female,Employed,2018,A_Single,0,1,121.83
+Consolidation of Other Loans,36,Female,C,51,Single,40 to 50,656,High school,4,18,0.22,46,3230,C_Female,Employed,2017,C_Single,0,1,2933.68
+Other Purposes,36,Male,B,41,Married,40 to 50,1021,Graduate,3,18,0.15,31,1090,B_Male,Employed,2018,B_Married,0,2,812.19
+Home Improvements,47,Female,D,28,Married,23 to 30,721,High school,4,9,0.28,49,2210,D_Female,Employed,2018,D_Married,0,1,2157.64
+Other Purposes,18,Male,C,33,Married,30 to 40,325,Vocational education,1,9,0.2,13,745,C_Male,Employed,2019,C_Married,0,1,51.09
+Other Purposes,24,Female,C,32,Married,30 to 40,752,High school,3,18,0.21,35,340,C_Female,Employed,2018,C_Married,0,2,18.66
+Other Purposes,46,Female,C,24,Single,23 to 30,358,Graduate,1,6,0.22,13,3850,C_Female,Employed,2019,C_Single,0,0,141.34
+Other Purposes,30,Male,D,20,Single,19 to 23,364,High school,2,6,0.26,18,560,D_Male,Employed,2019,D_Single,1,0,28.45
+Consolidation of Other Loans,18,Female,B,61,Married,60+,311,Vocational education,2,12,0.1587,22,700,B_Female,Employed Part Time,2016,B_Married,0,0,45.94
+Other Purposes,18,Male,C,19,Single,to 19,514,High school,4,3,0.21,44,2750,C_Male,Employed,2018,C_Single,0,0,188.8
+Consolidation of Other Loans,24,Female,B,37,Single,30 to 40,691,Graduate,3,60,0.14,33,860,B_Female,Employed,2018,B_Single,0,1,43.67
+Home Improvements,36,Female,B,41,Divorced,40 to 50,1974,Graduate,3,12,0.15,36,3040,B_Female,Employed,2017,B_Divorced,0,2,2700.17
+Home Improvements,54,Male,C,32,Single,30 to 40,577,Graduate,2,15,0.1973,24,1020,C_Male,Employed,2016,C_Single,0,0,32.77
+Consolidation of Other Loans,36,Female,D,31,Married,30 to 40,315,Graduate,1,9,0.27,6,1200,D_Female,Employed,2018,D_Married,0,1,1215.68
+Consolidation of Other Loans,48,Female,B,64,Divorced,60+,652,Graduate,3,72,0.2543,28,5200,B_Female,Employed,2016,B_Divorced,0,0,190.85
+Other Purposes,24,Male,D,45,Single,40 to 50,528,Vocational education,1,36,0.2354,8,560,D_Male,Employed,2016,D_Single,0,1,31.97
+Other Purposes,36,Male,B,34,Married,30 to 40,702,Graduate,1,48,0.172,6,4000,B_Male,Employed,2017,B_Married,0,0,1800.11
+Consolidation of Other Loans,30,Female,B,60,Other,60+,380,High school,3,72,0.2412,37,1400,B_Female,Employed,2015,B_Other,0,0,64.89
+Consolidation of Other Loans,33,Male,C,34,Single,30 to 40,589,Vocational education,3,72,0.22,27,4100,C_Male,Employed,2018,C_Single,0,0,181.63
+Consolidation of Other Loans,12,Female,C,43,Married,40 to 50,935,Vocational education,2,72,0.19,22,1130,C_Female,Employed,2018,C_Married,0,3,107.93
+Car,45,Female,B,61,Divorced,60+,1197,Post graduate,4,72,0.16,47,2390,B_Female,Employed,2017,B_Divorced,0,0,2325.07
+Home Improvements,30,Female,D,49,Single,40 to 50,457,High school,4,15,0.27,50,335,D_Female,Employed,2018,D_Single,0,0,16.98
+Home Improvements,45,Female,B,48,Married,40 to 50,822,High school,4,12,0.16,48,5850,B_Female,Employed,2017,B_Married,0,0,191.29
+Consolidation of Other Loans,48,Female,D,41,Divorced,40 to 50,402,High school,3,9,0.2746,29,1400,D_Female,Employed,2016,D_Divorced,0,2,1413.71
+Business Purposes,36,Female,B,29,Single,23 to 30,403,Graduate,2,6,0.15,20,1090,B_Female,Employed,2018,B_Single,0,0,40.93
+Other Purposes,24,Female,B,28,Single,23 to 30,478,Vocational education,3,36,0.14,27,600,B_Female,Employed,2018,B_Single,0,0,30.47
+Other Purposes,12,Female,B,62,Single,60+,231,Vocational education,4,24,0.1757,50,400,B_Female,Employed,2015,B_Single,0,0,37.27
+Other Purposes,36,Male,C,53,Married,40 to 50,839,Post graduate,3,12,0.22,33,3840,C_Male,Employed,2017,C_Married,0,0,160.83
+Car,20,Male,B,34,Married,30 to 40,569,Vocational education,2,12,0.13,18,985,B_Male,Employed,2019,B_Married,0,2,58.24
+Home Improvements,60,Female,A,42,Married,40 to 50,466,High school,3,72,0.14,36,7225,A_Female,Employed,2018,A_Married,0,2,185.2
+Home Improvements,60,Male,B,36,Married,30 to 40,2326,Graduate,4,36,0.18,40,3000,B_Male,Employed,2018,B_Married,0,0,2918.88
+Holidays/Travelling,3,Male,D,32,Married,30 to 40,1622,Graduate,4,72,0.2703,52,300,D_Male,Employed,2015,D_Married,0,2,106.0
+Other Purposes,30,Female,D,39,Married,30 to 40,1144,High school,1,12,0.27,4,1000,D_Female,Employed,2019,D_Married,0,4,962.1
+Home Improvements,47,Male,D,21,Single,19 to 23,446,High school,2,6,0.28,21,2980,D_Male,Employed,2018,D_Single,0,0,119.81
+Consolidation of Other Loans,54,Male,C,56,Married,40 to 50,538,High school,2,12,0.2693,22,3650,C_Male,Employed,2016,C_Married,0,0,3628.08
+Other Purposes,36,Female,C,34,Divorced,30 to 40,445,High school,3,24,0.2424,33,1210,C_Female,Employed,2016,C_Divorced,0,2,52.16
+Other Purposes,48,Female,D,31,Married,30 to 40,1091,Graduate,3,24,0.26,30,3090,D_Female,Employed,2017,D_Married,0,1,119.3
+Consolidation of Other Loans,12,Female,C,41,Divorced,40 to 50,731,Graduate,4,72,0.19,48,600,C_Female,Employed,2017,C_Divorced,0,1,57.31
+Holidays/Travelling,12,Male,C,28,Single,23 to 30,593,High school,2,6,0.19,25,335,C_Male,Employed,2018,C_Single,0,0,32.0
+Other Purposes,24,Female,D,33,Divorced,30 to 40,518,Graduate,1,9,0.26,2,950,D_Female,Employed,2018,D_Divorced,0,1,977.23
+Other Purposes,24,Female,B,56,Married,40 to 50,1170,High school,1,72,0.13,8,1095,B_Female,Employed,2019,B_Married,0,0,55.65
+Other Purposes,12,Male,D,38,Divorced,30 to 40,377,High school,2,36,0.25,19,665,D_Male,Employed,2019,D_Divorced,0,1,66.34
+Consolidation of Other Loans,16,Female,A,46,Married,40 to 50,1236,Post graduate,3,72,0.12,27,2135,A_Female,Employed,2018,A_Married,0,0,1666.52
+Car,54,Female,B,40,Single,40 to 50,323,Vocational education,4,24,0.1884,44,1000,B_Female,Employed,2016,B_Single,0,0,988.35
+Consolidation of Other Loans,12,Male,D,27,Single,23 to 30,457,Vocational education,1,3,0.26,7,830,D_Male,Employed,2018,D_Single,0,0,82.72
+Other Purposes,48,Male,C,37,Single,30 to 40,478,High school,2,15,0.23,19,1110,C_Male,Employed,2018,C_Single,0,0,39.94
+Consolidation of Other Loans,18,Female,B,58,Married,40 to 50,1252,Graduate,2,72,0.1306,15,900,B_Female,Employed,2016,B_Married,0,0,226.02
+Consolidation of Other Loans,58,Male,C,25,Single,23 to 30,1889,High school,2,36,0.22,14,5325,C_Male,Employed,2019,C_Single,0,0,174.24
+Car,47,Male,D,36,Single,30 to 40,362,High school,3,9,0.28,31,3310,D_Male,Employed,2018,D_Single,0,1,133.07
+Other Purposes,30,Male,C,34,Single,30 to 40,468,High school,4,3,0.2077,44,1430,C_Male,Employed,2016,C_Single,0,0,66.61
+Other Purposes,12,Male,C,46,Divorced,40 to 50,444,High school,4,3,0.19,42,340,C_Male,Employed,2017,C_Divorced,0,1,32.47
+Other Purposes,12,Male,C,29,Single,23 to 30,780,Vocational education,2,24,0.19,26,340,C_Male,Employed,2018,C_Single,0,0,32.47
+Consolidation of Other Loans,48,Male,C,25,Single,23 to 30,487,Vocational education,2,18,0.23,18,4300,C_Male,Employed,2018,C_Single,0,0,154.73
+Home Improvements,30,Female,D,44,Divorced,40 to 50,544,High school,1,6,0.1834,3,1110,D_Female,Employed,2017,D_Divorced,0,0,51.13
+Home Improvements,18,Female,B,26,Single,23 to 30,572,Graduate,2,12,0.1772,15,3000,B_Female,Employed,2017,B_Single,0,0,199.34
+Home Improvements,24,Female,B,45,Married,40 to 50,443,High school,3,72,0.14,32,640,B_Female,Employed,2018,B_Married,0,0,486.36
+Other Purposes,21,Female,C,55,Married,40 to 50,1265,High school,4,24,0.21,43,1110,C_Female,Employed,2018,C_Married,0,0,67.44
+Home Improvements,24,Female,B,45,Divorced,40 to 50,671,Vocational education,2,18,0.12,25,2590,B_Female,Employed,2018,B_Divorced,0,0,127.36
+Car,58,Female,C,35,Married,30 to 40,1254,Vocational education,2,3,0.23,18,3300,C_Female,Employed,2018,C_Married,0,1,108.3
+Consolidation of Other Loans,12,Male,D,46,Single,40 to 50,568,Vocational education,3,15,0.24,37,650,D_Male,Employed,2017,D_Single,0,0,520.11
+Consolidation of Other Loans,36,Female,C,32,Married,30 to 40,1763,Vocational education,3,48,0.27,38,7700,C_Female,Employed,2018,C_Married,0,0,350.06
+Other Purposes,30,Female,D,26,Single,23 to 30,574,High school,4,72,0.25,43,600,D_Female,Employed,2017,D_Single,0,0,29.76
+Consolidation of Other Loans,36,Male,C,45,Married,40 to 50,408,High school,2,18,0.1859,14,2000,C_Male,Employed,2017,C_Married,0,1,80.1
+Consolidation of Other Loans,27,Female,C,26,Single,23 to 30,392,High school,1,6,0.2082,9,3000,C_Female,Employed,2017,C_Single,0,0,2248.41
+Medical expenses,60,Female,B,47,Divorced,40 to 50,481,High school,1,3,0.18,8,3250,B_Female,Employed,2018,B_Divorced,0,0,93.04
+Business Purposes,36,Female,B,43,Divorced,40 to 50,332,High school,3,9,0.1988,37,2850,B_Female,Self-Employed,2016,B_Divorced,0,4,114.28
+Home Improvements,24,Female,B,46,Married,40 to 50,721,Vocational education,1,48,0.14,5,1090,B_Female,Employed,2018,B_Married,0,1,55.35
+Other Purposes,12,Male,D,36,Single,30 to 40,373,High school,2,18,0.14,23,550,D_Male,Employed,2018,D_Single,0,1,50.89
+Other Purposes,48,Female,C,38,Married,30 to 40,1712,High school,3,36,0.2279,39,2860,C_Female,Employed,2016,C_Married,0,2,2851.82
+Other Purposes,24,Female,C,25,Single,23 to 30,578,High school,3,18,0.21,36,1210,C_Female,Employed,2018,C_Single,0,0,851.77
+Other Purposes,57,Female,B,31,Married,30 to 40,655,Vocational education,2,72,0.18,19,660,B_Female,Employed,2018,B_Married,0,0,19.42
+Other Purposes,24,Male,D,20,Single,19 to 23,230,Vocational education,3,3,0.26,27,300,D_Male,Employed,2018,D_Single,0,0,270.55
+Medical expenses,30,Female,A,47,Divorced,40 to 50,760,Post graduate,4,72,0.1959,45,2210,A_Female,Employed,2016,A_Divorced,0,0,486.38
+Other Purposes,43,Female,D,41,Married,40 to 50,1004,Post graduate,3,18,0.26,33,670,D_Female,Employed,2017,D_Married,0,2,27.31
+Consolidation of Other Loans,50,Male,D,36,Married,30 to 40,580,Vocational education,4,9,0.26,45,2930,D_Male,Employed,2017,D_Married,0,0,111.01
+Consolidation of Other Loans,45,Male,D,26,Single,23 to 30,696,Graduate,4,3,0.2772,46,5400,D_Male,Employed,2016,D_Single,0,0,5030.26
+Home Improvements,36,Female,A,55,Married,40 to 50,1344,Post graduate,2,72,0.12,20,2500,A_Female,Employed,2019,A_Married,0,0,90.08
+Other Purposes,18,Male,D,25,Single,23 to 30,900,Vocational education,4,36,0.26,41,1110,D_Male,Employed,2018,D_Single,0,0,79.8
+Consolidation of Other Loans,51,Male,C,40,Single,40 to 50,476,High school,2,6,0.23,24,5415,C_Male,Employed,2018,C_Single,0,3,188.9
+Medical expenses,36,Female,B,27,Single,23 to 30,683,Graduate,2,18,0.14,19,1310,B_Female,Employed,2019,B_Single,0,0,49.25
+Other Purposes,28,Male,B,43,Married,40 to 50,1818,Graduate,1,72,0.14,6,445,B_Male,Employed,2019,B_Married,0,3,20.2
+Car,24,Female,C,23,Single,23 to 30,344,Vocational education,4,6,0.2219,51,2200,C_Female,Employed,2016,C_Single,0,0,999.78
+Medical expenses,50,Male,D,40,Single,40 to 50,1172,High school,3,72,0.26,32,4955,D_Male,Employed,2017,D_Single,0,0,187.73
+Other Purposes,12,Female,B,54,Divorced,40 to 50,368,Vocational education,1,3,0.14,2,655,B_Female,Employed,2019,B_Divorced,0,0,615.15
+Medical expenses,18,Male,B,28,Single,23 to 30,381,Vocational education,3,72,0.14,37,300,B_Male,Employed,2017,B_Single,0,0,19.39
+Consolidation of Other Loans,42,Female,C,48,Married,40 to 50,2588,Graduate,2,36,0.2936,18,5240,C_Female,Employed,2016,C_Married,0,2,222.77
+Home Improvements,42,Female,C,37,Divorced,30 to 40,588,Graduate,4,48,0.2632,50,1600,C_Female,Employed,2015,C_Divorced,0,1,63.77
+Other Purposes,60,Female,B,46,Married,40 to 50,934,High school,4,24,0.18,44,2000,B_Female,Employed,2017,B_Married,0,1,57.26
+Consolidation of Other Loans,48,Male,D,23,Single,23 to 30,749,High school,2,15,0.2748,19,6700,D_Male,Employed,2017,D_Single,0,0,6311.19
+Other Purposes,30,Male,B,38,Married,30 to 40,927,Vocational education,1,9,0.15,4,1630,B_Male,Employed,2019,B_Married,0,0,70.11
+Other Purposes,24,Female,C,20,Single,19 to 23,211,High school,1,3,0.21,6,1110,C_Female,Employed,2018,C_Single,0,0,60.9
+Other Purposes,12,Male,D,23,Single,23 to 30,363,Vocational education,1,6,0.1331,8,340,D_Male,Employed,2017,D_Single,0,0,293.51
+Other Purposes,12,Male,B,47,Single,40 to 50,420,Graduate,2,6,0.1248,22,330,B_Male,Employed,2017,B_Single,0,2,30.29
+Other Purposes,47,Male,D,42,Single,40 to 50,354,High school,3,6,0.28,30,2205,D_Male,Employed,2018,D_Single,0,0,88.65
+Consolidation of Other Loans,42,Male,D,23,Single,23 to 30,578,High school,3,9,0.3312,28,4450,D_Male,Employed,2016,D_Single,0,0,202.5
+Consolidation of Other Loans,27,Female,C,37,Single,30 to 40,356,Vocational education,1,48,0.22,6,2650,C_Female,Employed,2018,C_Single,0,5,134.71
+Other Purposes,24,Female,D,31,Divorced,30 to 40,376,Vocational education,2,12,0.26,22,340,D_Female,Employed,2018,D_Divorced,0,2,19.79
+Home Improvements,58,Male,C,22,Married,19 to 23,740,High school,1,18,0.23,2,1320,C_Male,Employed,2018,C_Married,0,1,43.32
+Other Purposes,12,Male,C,33,Single,30 to 40,650,High school,4,12,0.19,43,340,C_Male,Employed,2017,C_Single,0,0,32.47
+Home Improvements,47,Male,D,21,Single,19 to 23,555,High school,2,6,0.27,18,5500,D_Male,Employed,2019,D_Single,1,0,221.79
+Home Improvements,60,Female,A,43,Married,40 to 50,1172,Graduate,2,72,0.14,21,2800,A_Female,Employed,2018,A_Married,0,1,2563.58
+Business Purposes,60,Male,B,32,Married,30 to 40,961,Graduate,4,12,0.18,40,5000,B_Male,Employed,2017,B_Married,0,1,143.14
+Consolidation of Other Loans,48,Female,C,52,Married,40 to 50,1763,Vocational education,2,72,0.2992,16,5600,C_Female,Employed,2016,C_Married,0,0,2456.94
+Home Improvements,30,Female,B,41,Other,40 to 50,269,Vocational education,4,12,0.1828,48,1750,B_Female,Employed,2016,B_Other,0,2,780.24
+Consolidation of Other Loans,47,Male,D,43,Married,40 to 50,1036,High school,1,72,0.28,1,4750,D_Male,Employed,2019,D_Married,0,1,4845.78
+Other Purposes,12,Male,B,48,Married,40 to 50,676,Vocational education,3,36,0.14,30,770,B_Male,Employed,2018,B_Married,0,2,71.24
+Home Improvements,24,Male,C,22,Single,19 to 23,383,Vocational education,3,9,0.21,37,2200,C_Male,Employed,2018,C_Single,0,0,120.71
+Other Purposes,24,Female,B,47,Married,40 to 50,475,Graduate,4,72,0.1263,49,770,B_Female,Employed,2016,B_Married,0,1,38.59
+Other Purposes,24,Male,B,38,Married,30 to 40,1758,Graduate,3,48,0.14,30,1500,B_Male,Employed,2018,B_Married,0,1,76.17
+Home Improvements,27,Female,B,60,Divorced,60+,318,High school,3,15,0.22,37,1320,B_Female,Employed,2017,B_Divorced,0,0,1162.44
+Consolidation of Other Loans,30,Male,C,23,Single,23 to 30,601,Vocational education,4,24,0.22,46,2150,C_Male,Employed,2017,C_Single,0,0,101.54
+Car,12,Male,D,38,Married,30 to 40,1458,High school,1,72,0.1274,11,340,D_Male,Employed,2017,D_Married,0,1,31.68
+Home Improvements,12,Female,C,48,Married,40 to 50,1663,High school,3,72,0.14,28,330,C_Female,Employed,2018,C_Married,0,1,30.53
+Consolidation of Other Loans,58,Male,B,54,Married,40 to 50,433,High school,1,72,0.18,2,3500,B_Male,Employed,2018,B_Married,0,1,102.02
+Car,30,Female,B,47,Divorced,40 to 50,775,High school,1,72,0.14,13,2505,B_Female,Employed,2019,B_Divorced,0,0,107.84
+Other Purposes,30,Female,C,22,Single,19 to 23,274,High school,1,3,0.1639,3,670,C_Female,Employed,2017,C_Single,0,0,29.69
+Other Purposes,24,Female,C,39,Married,30 to 40,812,High school,2,24,0.26,21,340,C_Female,Employed,2018,C_Married,0,2,19.79
+Other Purposes,60,Male,B,35,Married,30 to 40,909,Vocational education,1,24,0.18,4,4330,B_Male,Employed,2018,B_Married,0,2,123.96
+Holidays/Travelling,12,Male,D,20,Single,19 to 23,190,High school,1,3,0.26,6,340,D_Male,Employed,2018,D_Single,0,0,189.66
+Other Purposes,15,Female,D,21,Single,19 to 23,602,High school,1,6,0.25,9,1655,D_Female,Employed,2019,D_Single,0,0,137.47
+Other Purposes,60,Male,B,26,Single,23 to 30,506,Graduate,2,6,0.18,15,1630,B_Male,Employed,2018,B_Single,0,0,46.67
+Medical expenses,12,Female,B,37,Single,30 to 40,668,Vocational education,1,48,0.13,13,440,B_Female,Employed,2019,B_Single,0,1,40.73
+Home Improvements,27,Male,C,46,Married,40 to 50,2215,Graduate,2,24,0.1766,15,1650,C_Male,Employed,2017,C_Married,0,0,1047.61
+Home Improvements,60,Female,A,50,Single,40 to 50,783,Graduate,1,72,0.14,4,5160,A_Female,Employed,2019,A_Single,0,0,132.27
+Other Purposes,36,Male,D,26,Single,23 to 30,788,High school,1,24,0.1978,1,3400,D_Male,Employed,2017,D_Single,0,0,2783.82
+Consolidation of Other Loans,36,Male,B,61,Married,60+,360,Vocational education,1,72,0.15,4,1710,B_Male,Employed,2018,B_Married,0,0,1316.74
+Other Purposes,12,Female,B,35,Divorced,30 to 40,531,Graduate,1,72,0.08710000000000001,5,330,B_Female,Employed,2017,B_Divorced,0,2,29.7
+Other Purposes,12,Male,C,33,Married,30 to 40,335,Vocational education,3,9,0.19,38,555,C_Male,Employed,2018,C_Married,0,1,301.68
+Home Improvements,60,Male,B,41,Married,40 to 50,2917,Vocational education,3,72,0.18,32,5410,B_Male,Self-Employed,2017,B_Married,0,1,154.88
+Consolidation of Other Loans,42,Male,B,26,Single,23 to 30,968,High school,2,48,0.15,20,4510,B_Male,Employed,2019,B_Single,0,0,154.53
+Other Purposes,36,Male,B,48,Married,40 to 50,1756,Graduate,3,24,0.15,32,2170,B_Male,Employed,2018,B_Married,0,1,81.49
+Consolidation of Other Loans,36,Male,D,28,Single,23 to 30,369,Graduate,1,48,0.1919,3,1450,D_Male,Employed,2017,D_Single,0,0,58.54
+Consolidation of Other Loans,30,Male,D,29,Married,23 to 30,992,Graduate,4,12,0.25,40,1300,D_Male,Employed,2017,D_Married,0,1,64.48
+Home Improvements,12,Male,B,44,Married,40 to 50,576,Graduate,2,24,0.13,21,600,B_Male,Employed,2019,B_Married,0,2,55.53
+Other Purposes,12,Female,C,29,Married,23 to 30,338,Graduate,4,12,0.19,49,1000,C_Female,Employed,2017,C_Married,0,2,95.51
+Other Purposes,36,Female,B,57,Married,40 to 50,1196,High school,1,18,0.14,9,2505,B_Female,Employed,2019,B_Married,0,0,94.17
+Business Purposes,60,Male,B,26,Single,23 to 30,465,Vocational education,4,24,0.18,41,2170,B_Male,Employed,2017,B_Single,0,0,2153.18
+Car,36,Female,D,35,Married,30 to 40,358,Vocational education,2,12,0.27,19,2760,D_Female,Employed,2018,D_Married,0,1,125.48
+Medical expenses,30,Female,C,46,Other,40 to 50,1127,Vocational education,1,72,0.21,10,1435,C_Female,Employed,2019,C_Other,0,0,67.65
+Home Improvements,60,Female,A,44,Married,40 to 50,861,Vocational education,4,9,0.14,51,3310,A_Female,Employed,2018,A_Married,0,1,84.85
+Other Purposes,24,Female,B,41,Divorced,40 to 50,529,High school,2,9,0.13,21,1095,B_Female,Employed,2019,B_Divorced,0,0,55.65
+Other Purposes,12,Female,C,27,Single,23 to 30,774,High school,1,72,0.19,7,1090,C_Female,Employed,2018,C_Single,0,0,104.11
+Consolidation of Other Loans,18,Female,D,40,Married,40 to 50,420,Graduate,3,72,0.3156,34,2250,D_Female,Employed,2015,D_Married,0,2,158.52
+Home Improvements,24,Female,B,51,Divorced,40 to 50,367,High school,3,48,0.11900000000000001,27,730,B_Female,Employed,2017,B_Divorced,0,1,35.86
+Consolidation of Other Loans,58,Female,C,44,Divorced,40 to 50,473,Vocational education,2,18,0.23,14,5580,C_Female,Employed,2018,C_Divorced,0,1,183.12
+Other Purposes,47,Female,D,19,Single,to 19,610,High school,4,3,0.28,51,3530,D_Female,Employed,2018,D_Single,0,0,141.92
+Consolidation of Other Loans,30,Female,B,47,Married,40 to 50,808,Vocational education,2,48,0.14,20,2750,B_Female,Employed,2019,B_Married,0,0,118.39
+Other Purposes,36,Female,C,38,Single,30 to 40,350,Vocational education,4,9,0.15,50,1010,C_Female,Employed,2017,C_Single,0,1,37.93
+Consolidation of Other Loans,60,Male,B,46,Married,40 to 50,955,Vocational education,4,72,0.1858,51,2400,B_Male,Employed,2016,B_Married,0,2,69.52
+Home Improvements,48,Male,B,39,Married,30 to 40,2260,High school,2,72,0.15,18,6525,B_Male,Employed,2019,B_Married,0,1,205.01
+Other Purposes,60,Male,B,33,Single,30 to 40,769,Vocational education,1,72,0.18,6,5415,B_Male,Employed,2019,B_Single,0,0,155.03
+Consolidation of Other Loans,12,Female,B,54,Married,40 to 50,899,Post graduate,2,60,0.1454,24,1460,B_Female,Employed,2017,B_Married,0,0,528.45
+Home Improvements,36,Male,C,51,Married,40 to 50,909,High school,4,72,0.1947,45,1330,C_Male,Employed,2016,C_Married,0,0,489.55
+Home Improvements,60,Female,B,45,Divorced,40 to 50,1167,Graduate,2,72,0.17,16,3930,B_Female,Employed,2019,B_Divorced,0,0,112.69
+Consolidation of Other Loans,36,Male,B,51,Married,40 to 50,757,Vocational education,2,24,0.14,18,4400,B_Male,Employed,2019,B_Married,1,0,165.41
+Other Purposes,60,Male,B,46,Married,40 to 50,2826,Graduate,4,36,0.18,44,2170,B_Male,Employed,2018,B_Married,0,1,62.12
+Consolidation of Other Loans,36,Male,B,29,Single,23 to 30,631,Graduate,3,24,0.15,29,2550,B_Male,Employed,2018,B_Single,0,0,95.76
+Consolidation of Other Loans,30,Male,C,43,Single,40 to 50,481,High school,2,3,0.22,20,1170,C_Male,Employed,2018,C_Single,0,0,1063.21
+Other Purposes,22,Female,C,39,Divorced,30 to 40,361,High school,1,72,0.21,5,555,C_Female,Employed,2019,C_Divorced,0,0,32.53
+Home Improvements,47,Female,D,51,Single,40 to 50,474,Vocational education,2,9,0.28,16,450,D_Female,Employed,2018,D_Single,0,0,18.09
+Other Purposes,47,Female,D,41,Divorced,40 to 50,549,High school,2,60,0.27,21,1985,D_Female,Employed,2019,D_Divorced,0,1,80.04
+Home Improvements,12,Male,D,30,Single,30 to 40,530,Graduate,1,6,0.2768,8,790,D_Male,Employed,2016,D_Single,0,0,697.75
+Car,30,Female,B,50,Married,40 to 50,1362,Vocational education,4,72,0.22,52,1105,B_Female,Employed,2017,B_Married,0,0,872.44
+Other Purposes,18,Male,B,42,Married,40 to 50,833,High school,1,6,0.13,12,335,B_Male,Employed,2019,B_Married,0,1,21.67
+Other Purposes,60,Female,B,60,Divorced,60+,421,Vocational education,1,6,0.17,13,2180,B_Female,Employed,2019,B_Divorced,0,0,62.51
+Medical expenses,18,Female,A,57,Divorced,40 to 50,496,Vocational education,1,72,0.26,7,450,A_Female,Employed,2018,A_Divorced,0,0,32.35
+Home Improvements,18,Female,A,28,Single,23 to 30,1000,Graduate,3,18,0.1542,39,800,A_Female,Employed,2015,A_Single,0,0,689.95
+Other Purposes,12,Female,C,35,Married,30 to 40,392,High school,2,6,0.19,23,1210,C_Female,Employed,2018,C_Married,0,1,115.57
+Other Purposes,30,Female,D,26,Single,23 to 30,245,Vocational education,2,3,0.27,22,560,D_Female,Employed,2018,D_Single,0,0,551.72
+Home Improvements,30,Male,C,28,Single,23 to 30,431,High school,1,36,0.1631,7,340,C_Male,Employed,2017,C_Single,0,0,15.05
+Home Improvements,60,Female,B,32,Married,30 to 40,315,Vocational education,2,36,0.18,24,2100,B_Female,Employed,2018,B_Married,0,2,60.12
+Other Purposes,36,Female,D,22,Single,19 to 23,381,Vocational education,2,9,0.26,20,2205,D_Female,Employed,2019,D_Single,0,0,100.5
+Consolidation of Other Loans,18,Female,C,44,Married,40 to 50,1552,Vocational education,1,72,0.2556,3,2500,C_Female,Employed,2016,C_Married,0,0,175.71
+Consolidation of Other Loans,48,Female,C,26,Single,23 to 30,401,High school,2,6,0.22,17,4250,C_Female,Employed,2019,C_Single,0,0,152.53
+Other Purposes,24,Female,D,22,Single,19 to 23,600,High school,1,9,0.26,12,670,D_Female,Employed,2018,D_Single,0,0,39.0
+Consolidation of Other Loans,58,Female,C,55,Divorced,40 to 50,472,High school,4,12,0.23,41,2635,C_Female,Employed,2018,C_Divorced,0,0,86.48
+Other Purposes,12,Female,C,35,Married,30 to 40,1143,Vocational education,2,72,0.19,25,340,C_Female,Employed,2018,C_Married,0,2,295.48
+Other Purposes,12,Female,B,26,Single,23 to 30,464,Graduate,2,9,0.14,18,500,B_Female,Employed,2018,B_Single,0,0,46.26
+Other Purposes,60,Female,B,47,Married,40 to 50,1217,Vocational education,1,72,0.18,8,2170,B_Female,Employed,2018,B_Married,0,0,62.12
+Consolidation of Other Loans,36,Male,D,35,Married,30 to 40,957,Vocational education,1,15,0.27,5,2780,D_Male,Employed,2019,D_Married,0,1,2619.69
+Other Purposes,12,Female,D,23,Single,23 to 30,258,High school,1,3,0.26,2,560,D_Female,Employed,2018,D_Single,0,1,55.81
+Consolidation of Other Loans,60,Male,B,48,Married,40 to 50,368,Vocational education,3,15,0.18,31,5100,B_Male,Employed,2017,B_Married,0,0,4219.5
+Consolidation of Other Loans,24,Male,B,31,Married,30 to 40,619,High school,4,72,0.14,46,700,B_Male,Employed,2017,B_Married,0,2,35.55
+Other Purposes,60,Male,B,47,Divorced,40 to 50,422,Vocational education,4,6,0.18,50,4010,B_Male,Employed,2018,B_Divorced,0,0,4089.4
+Other Purposes,12,Male,D,31,Single,30 to 40,807,Vocational education,1,36,0.26,5,340,D_Male,Employed,2019,D_Single,0,2,218.27
+Other Purposes,36,Female,C,25,Single,23 to 30,419,High school,1,6,0.22,7,2200,C_Female,Employed,2018,C_Single,0,0,92.14
+Other Purposes,24,Female,B,34,Married,30 to 40,375,High school,3,36,0.14,35,550,B_Female,Employed,2018,B_Married,0,1,27.93
+Other Purposes,45,Female,D,26,Single,23 to 30,278,High school,4,3,0.26,47,1660,D_Female,Employed,2017,D_Single,0,1,1648.74
+Other Purposes,58,Male,C,27,Single,23 to 30,1750,Graduate,2,36,0.22,14,7695,C_Male,Self-Employed,2019,C_Single,0,0,251.79
+Car,36,Female,C,31,Divorced,30 to 40,486,Graduate,3,3,0.22,28,2200,C_Female,Employed,2018,C_Divorced,0,1,92.14
+Other Purposes,60,Female,B,40,Single,40 to 50,371,Graduate,4,48,0.18,48,2690,B_Female,Employed,2018,B_Single,0,0,77.01
+Other Purposes,36,Male,B,27,Single,23 to 30,638,Graduate,2,24,0.14,20,2615,B_Male,Employed,2019,B_Single,0,0,98.31
+Consolidation of Other Loans,12,Female,B,46,Married,40 to 50,470,High school,2,12,0.138,24,800,B_Female,Employed,2016,B_Married,0,0,74.0
+Car,14,Male,B,35,Single,30 to 40,365,High school,3,36,0.14,34,1630,B_Male,Employed,2018,B_Single,0,0,131.32
+Consolidation of Other Loans,36,Male,C,33,Single,30 to 40,1061,High school,4,6,0.22,50,4170,C_Male,Employed,2017,C_Single,0,0,174.66
+Other Purposes,12,Female,B,50,Single,40 to 50,620,High school,2,60,0.13,18,300,B_Female,Employed,2019,B_Single,0,1,27.77
+Home Improvements,36,Female,B,31,Single,30 to 40,739,Vocational education,2,60,0.15,21,3790,B_Female,Employed,2018,B_Single,0,0,142.32
+Other Purposes,24,Female,B,52,Divorced,40 to 50,1636,Graduate,1,15,0.1235,8,870,B_Female,Employed,2017,B_Divorced,0,0,481.16
+Home Improvements,30,Male,C,54,Married,40 to 50,1630,Graduate,3,6,0.2998,31,3300,C_Male,Employed,2016,C_Married,0,1,335.06
+Consolidation of Other Loans,15,Female,D,26,Married,23 to 30,867,Vocational education,3,3,0.2108,29,1100,D_Female,Employed,2016,D_Married,0,0,422.07
+Medical expenses,36,Female,C,48,Divorced,40 to 50,519,High school,1,12,0.2154,13,2620,C_Female,Employed,2017,C_Divorced,0,1,109.08
+Consolidation of Other Loans,36,Male,D,27,Single,23 to 30,529,High school,4,24,0.237,45,1900,D_Male,Employed,2016,D_Single,0,0,1884.17
+Consolidation of Other Loans,50,Male,D,28,Married,23 to 30,419,High school,4,18,0.26,52,3000,D_Male,Employed,2017,D_Married,0,1,2427.71
+Home Improvements,60,Male,B,25,Single,23 to 30,679,Graduate,2,15,0.18,23,2170,B_Male,Employed,2018,B_Single,0,0,62.12
+Consolidation of Other Loans,45,Female,C,44,Married,40 to 50,1392,High school,2,72,0.2618,19,3200,C_Female,Employed,2016,C_Married,0,0,125.51
+Home Improvements,12,Female,B,44,Married,40 to 50,808,High school,2,36,0.08839999999999999,15,550,B_Female,Employed,2017,B_Married,0,0,469.43
+Other Purposes,24,Female,D,36,Single,30 to 40,437,High school,1,60,0.26,3,340,D_Female,Employed,2019,D_Single,0,1,19.79
+Medical expenses,24,Female,B,49,Married,40 to 50,814,Graduate,4,72,0.14,42,4070,B_Female,Employed,2017,B_Married,0,1,1000.39
+Consolidation of Other Loans,27,Male,D,46,Single,40 to 50,400,Graduate,4,6,0.2401,49,2800,D_Male,Employed,2016,D_Single,0,1,147.41
+Consolidation of Other Loans,39,Male,D,26,Single,23 to 30,1500,High school,1,24,0.3178,8,1530,D_Male,Employed,2016,D_Single,0,0,71.14
+Medical expenses,12,Female,A,63,Married,60+,1255,Graduate,4,72,0.2393,45,2000,A_Female,Employed,2015,A_Married,0,0,191.17
+Other Purposes,12,Male,A,39,Married,30 to 40,952,High school,1,72,0.12,8,500,A_Male,Employed,2018,A_Married,0,2,305.67
+Other Purposes,60,Male,A,45,Married,40 to 50,968,Vocational education,4,60,0.14,46,2900,A_Male,Employed,2018,A_Married,0,1,74.34
+Medical expenses,24,Female,C,42,Married,40 to 50,607,Vocational education,1,72,0.25,10,1215,C_Female,Employed,2019,C_Married,0,0,70.84
+Other Purposes,60,Female,A,56,Divorced,40 to 50,731,Graduate,3,72,0.14,27,800,A_Female,Employed,2018,A_Divorced,0,0,20.51
+Consolidation of Other Loans,45,Male,D,28,Single,23 to 30,702,High school,4,24,0.2361,52,3900,D_Male,Employed,2016,D_Single,0,1,149.87
+Consolidation of Other Loans,36,Female,C,30,Single,30 to 40,577,Post graduate,1,9,0.22,6,2350,C_Female,Employed,2018,C_Single,0,0,1705.12
+Other Purposes,30,Female,C,22,Single,19 to 23,393,High school,4,9,0.22,49,560,C_Female,Employed,2017,C_Single,0,0,26.45
+Medical expenses,30,Male,B,29,Single,23 to 30,769,Graduate,1,60,0.15,8,2710,B_Male,Employed,2018,B_Single,0,0,2756.89
+Consolidation of Other Loans,24,Female,D,39,Married,30 to 40,908,Vocational education,3,72,0.2285,28,2580,D_Female,Employed,2017,D_Married,0,1,2129.82
+Other Purposes,57,Male,C,40,Divorced,40 to 50,401,High school,3,9,0.23,31,300,C_Male,Employed,2018,C_Divorced,0,2,297.14
+Home Improvements,36,Female,D,44,Married,40 to 50,516,Graduate,1,72,0.27,9,560,D_Female,Employed,2018,D_Married,0,0,25.46
+Other Purposes,12,Female,B,31,Single,30 to 40,334,Graduate,2,6,0.09210000000000003,22,330,B_Female,Employed,2017,B_Single,0,0,29.78
+Home Improvements,12,Male,C,37,Married,30 to 40,2502,Post graduate,4,6,0.1394,42,1430,C_Male,Employed,2016,C_Married,0,2,133.08
+Car,39,Male,B,36,Married,30 to 40,359,High school,3,36,0.2271,34,2000,B_Male,Employed,2016,B_Married,0,2,79.18
+Car,33,Male,B,37,Single,30 to 40,175,High school,1,24,0.1713,12,1630,B_Male,Employed Part Time,2017,B_Single,0,0,726.35
+Other Purposes,27,Female,C,48,Divorced,40 to 50,3167,Graduate,2,72,0.22,24,4390,C_Female,Self-Employed,2018,C_Divorced,0,1,3866.02
+Other Purposes,24,Male,C,32,Single,30 to 40,836,Vocational education,1,72,0.2487,4,1200,C_Male,Employed,2016,C_Single,0,1,259.84
+Other Purposes,12,Female,B,48,Divorced,40 to 50,532,Vocational education,2,6,0.14,26,300,B_Female,Employed,2018,B_Divorced,0,0,27.76
+Other Purposes,48,Female,B,35,Divorced,30 to 40,221,High school,3,3,0.16,32,660,B_Female,Employed,2018,B_Divorced,0,2,20.71
+Other Purposes,24,Male,C,35,Divorced,30 to 40,1200,Graduate,1,6,0.2,11,555,C_Male,Employed,2019,C_Divorced,0,1,30.41
+Other Purposes,60,Male,B,37,Divorced,30 to 40,481,Graduate,1,48,0.18,4,2600,B_Male,Employed,2019,B_Divorced,0,2,74.43
+Other Purposes,12,Female,D,28,Single,23 to 30,463,High school,4,6,0.26,42,340,D_Female,Employed,2018,D_Single,0,1,324.91
+Consolidation of Other Loans,45,Female,C,52,Other,40 to 50,2363,Graduate,4,48,0.2399,46,3630,C_Female,Employed,2016,C_Other,0,0,137.27
+Other Purposes,15,Female,C,52,Divorced,40 to 50,856,Post graduate,3,72,0.24,39,1190,C_Female,Employed,2017,C_Divorced,0,0,284.97
+Other Purposes,24,Male,C,46,Married,40 to 50,255,High school,3,3,0.21,28,340,C_Male,Employed,2018,C_Married,0,0,18.66
+Consolidation of Other Loans,36,Female,C,55,Divorced,40 to 50,197,High school,4,72,0.2329,42,1570,C_Female,Employed,2016,C_Divorced,0,0,800.27
+Other Purposes,24,Female,C,32,Married,30 to 40,1839,Vocational education,2,48,0.25,19,340,C_Female,Employed,2019,C_Married,0,0,349.8
+Consolidation of Other Loans,18,Female,B,35,Divorced,30 to 40,391,High school,1,9,0.14,3,430,B_Female,Employed,2018,B_Divorced,0,3,27.8
+Other Purposes,21,Female,B,51,Married,40 to 50,487,High school,4,3,0.14,50,440,B_Female,Employed,2017,B_Married,0,0,392.34
+Other Purposes,48,Female,B,59,Married,40 to 50,1113,Post graduate,2,72,0.1516,24,440,B_Female,Employed,2017,B_Married,0,0,13.61
+Other Purposes,24,Female,A,51,Married,40 to 50,471,Graduate,2,72,0.12,14,1040,A_Female,Employed,2018,A_Married,0,0,51.14
+Other Purposes,48,Male,D,45,Married,40 to 50,1883,Vocational education,4,18,0.2846,41,3090,D_Male,Employed,2016,D_Married,0,2,2428.89
+Home Improvements,15,Female,B,30,Married,30 to 40,1111,Post graduate,3,72,0.21,39,2200,B_Female,Employed,2017,B_Married,0,0,994.69
+Other Purposes,24,Male,B,48,Married,40 to 50,487,High school,4,36,0.14,45,980,B_Male,Employed,2018,B_Married,0,2,49.76
+Other Purposes,47,Female,D,29,Married,23 to 30,1119,Graduate,2,6,0.28,16,1110,D_Female,Employed,2018,D_Married,0,1,950.36
+Consolidation of Other Loans,36,Male,D,25,Single,23 to 30,290,High school,1,18,0.2561,13,1740,D_Male,Employed,2017,D_Single,0,0,1667.33
+Medical expenses,15,Male,B,33,Married,30 to 40,761,Vocational education,4,18,0.14,40,660,B_Male,Employed,2017,B_Married,0,1,99.24
+Car,12,Female,C,23,Single,23 to 30,304,High school,3,12,0.2249,27,600,C_Female,Employed,2016,C_Single,0,0,329.9
+Home Improvements,18,Female,C,49,Other,40 to 50,730,Vocational education,3,72,0.24,31,560,C_Female,Employed,2017,C_Other,0,1,496.01
+Other Purposes,58,Male,C,57,Divorced,40 to 50,361,Vocational education,4,6,0.23,43,4390,C_Male,Employed,2018,C_Divorced,0,0,144.07
+Holidays/Travelling,24,Female,D,51,Divorced,40 to 50,117,Graduate,3,60,0.2003,28,340,D_Female,Employed Part Time,2017,D_Divorced,0,1,18.74
+Car,12,Male,D,30,Single,30 to 40,257,High school,4,3,0.1817,51,670,D_Male,Employed,2016,D_Single,0,1,248.53
+Other Purposes,36,Female,C,40,Married,40 to 50,1262,High school,3,3,0.22,29,1350,C_Female,Employed,2018,C_Married,0,1,56.54
+Car,50,Male,D,23,Single,23 to 30,314,High school,3,9,0.26,31,1660,D_Male,Employed,2017,D_Single,0,0,62.89
+Car,30,Male,B,28,Single,23 to 30,551,Vocational education,3,6,0.15,34,1520,B_Male,Employed,2018,B_Single,0,1,65.37
+Other Purposes,48,Female,B,51,Married,40 to 50,593,Post graduate,4,3,0.16,51,1310,B_Female,Employed,2018,B_Married,0,0,41.1
+Other Purposes,36,Male,C,24,Married,23 to 30,352,High school,1,18,0.22,5,1650,C_Male,Employed,2019,C_Married,0,1,69.11
+Other Purposes,47,Male,D,25,Single,23 to 30,456,High school,2,9,0.28,26,1500,D_Male,Employed,2018,D_Single,0,0,60.3
+Home Improvements,48,Female,B,49,Married,40 to 50,633,High school,2,72,0.15,14,2180,B_Female,Employed,2019,B_Married,0,1,68.49
+Other Purposes,58,Male,C,26,Married,23 to 30,536,High school,2,12,0.23,23,1105,C_Male,Employed,2018,C_Married,0,0,36.26
+Other Purposes,24,Female,B,37,Married,30 to 40,1578,Post graduate,2,36,0.14,23,2170,B_Female,Employed,2018,B_Married,0,1,1210.59
+Consolidation of Other Loans,15,Female,B,45,Divorced,40 to 50,480,Vocational education,2,72,0.1586,23,650,B_Female,Self-Employed,2016,B_Divorced,0,0,50.29
+Other Purposes,30,Male,B,25,Single,23 to 30,582,High school,2,3,0.15,23,500,B_Male,Employed,2018,B_Single,0,0,21.5
+Other Purposes,18,Female,B,41,Single,40 to 50,390,High school,1,3,0.1312,3,870,B_Female,Employed,2017,B_Single,0,1,55.88
+Other Purposes,48,Male,C,56,Married,40 to 50,363,High school,4,9,0.23,51,2250,C_Male,Employed,2017,C_Married,0,0,2228.03
+Other Purposes,12,Female,C,43,Married,40 to 50,1371,High school,3,6,0.19,34,340,C_Female,Employed,2017,C_Married,0,2,32.47
+Other Purposes,24,Male,D,31,Married,30 to 40,627,Vocational education,1,15,0.26,5,1110,D_Male,Employed,2018,D_Married,0,1,64.6
+Consolidation of Other Loans,47,Female,D,35,Married,30 to 40,1473,Vocational education,2,6,0.27,19,4150,D_Female,Employed,2019,D_Married,0,3,167.35
+Consolidation of Other Loans,48,Female,C,57,Married,40 to 50,593,Graduate,2,18,0.20800000000000002,23,3000,C_Female,Employed,2017,C_Married,0,0,104.14
+Home Improvements,36,Female,C,24,Single,23 to 30,395,Graduate,1,6,0.22,2,3300,C_Female,Employed,2019,C_Single,0,1,138.22
+Consolidation of Other Loans,48,Female,C,51,Divorced,40 to 50,221,High school,4,72,0.20800000000000002,44,1050,C_Female,Employed,2016,C_Divorced,0,0,980.92
+Consolidation of Other Loans,24,Female,B,49,Single,40 to 50,661,Vocational education,2,9,0.14,26,500,B_Female,Employed,2018,B_Single,0,1,25.39
+Other Purposes,12,Male,C,47,Married,40 to 50,173,Graduate,4,48,0.1293,51,340,C_Male,Employed,2016,C_Married,0,1,31.48
+Consolidation of Other Loans,48,Female,C,40,Married,40 to 50,1366,Graduate,4,72,0.187,43,1500,C_Female,Employed,2016,C_Married,0,1,49.29
+Other Purposes,12,Female,B,69,Married,60+,839,Graduate,1,72,0.13,13,335,B_Female,Employed,2019,B_Married,0,0,31.01
+Other Purposes,12,Female,A,64,Other,60+,425,Graduate,1,36,0.099,12,1040,A_Female,Employed,2017,A_Other,0,0,93.55
+Consolidation of Other Loans,45,Male,C,23,Single,23 to 30,622,High school,4,9,0.26,46,3550,C_Male,Employed,2016,C_Single,0,0,138.39
+Other Purposes,36,Female,B,31,Married,30 to 40,729,High school,4,72,0.15,49,2120,B_Female,Employed,2018,B_Married,0,1,79.61
+Consolidation of Other Loans,51,Female,C,48,Married,40 to 50,501,High school,1,72,0.2893,13,4400,C_Female,Employed,2016,C_Married,0,0,3562.87
+Other Purposes,12,Female,B,33,Married,30 to 40,1664,Post graduate,3,72,0.14,30,550,B_Female,Employed,2018,B_Married,0,2,50.89
+Other Purposes,60,Female,B,43,Married,40 to 50,783,Vocational education,4,72,0.18,51,2710,B_Female,Employed,2017,B_Married,0,1,77.58
+Other Purposes,12,Male,C,22,Single,19 to 23,919,High school,2,9,0.19,18,1215,C_Male,Employed,2019,C_Single,0,0,1101.26
+Home Improvements,47,Female,D,20,Single,19 to 23,343,High school,3,12,0.28,38,1105,D_Female,Employed,2018,D_Single,0,0,44.42
+Other Purposes,12,Female,B,29,Married,23 to 30,1431,Graduate,1,72,0.13,7,1095,B_Female,Employed,2019,B_Married,0,2,101.35
+Home Improvements,36,Male,A,56,Married,40 to 50,666,Vocational education,2,36,0.13,24,3100,A_Male,Employed,2018,A_Married,0,0,111.2
+Other Purposes,24,Male,B,53,Married,40 to 50,735,High school,1,72,0.14,12,655,B_Male,Employed,2018,B_Married,0,0,446.12
+Consolidation of Other Loans,6,Male,C,27,Single,23 to 30,543,High school,1,12,0.1425,3,770,C_Male,Employed,2016,C_Single,0,0,135.89
+Consolidation of Other Loans,45,Female,D,34,Married,30 to 40,963,Graduate,2,72,0.2928,17,3600,D_Female,Employed,2016,D_Married,0,0,151.19
+Other Purposes,15,Female,B,48,Married,40 to 50,324,Graduate,4,3,0.14,42,510,B_Female,Employed,2018,B_Married,0,2,38.65
+Consolidation of Other Loans,24,Male,C,59,Married,40 to 50,907,Graduate,2,9,0.2145,24,1850,C_Male,Employed,2016,C_Married,0,0,102.14
+Other Purposes,12,Female,A,49,Divorced,40 to 50,491,High school,2,60,0.11,22,325,A_Female,Employed,2019,A_Divorced,0,0,29.6
+Other Purposes,24,Female,B,28,Single,23 to 30,440,Post graduate,4,24,0.14,51,440,B_Female,Employed,2018,B_Single,0,1,416.3
+Other Purposes,48,Female,B,46,Married,40 to 50,1695,Vocational education,2,72,0.16,16,3370,B_Female,Employed,2018,B_Married,0,1,105.74
+Other Purposes,30,Female,C,41,Married,40 to 50,1444,High school,2,72,0.21,22,665,C_Female,Employed,2019,C_Married,0,1,31.35
+Other Purposes,12,Male,C,65,Married,60+,1712,Post graduate,1,72,0.19,5,335,C_Male,Employed,2018,C_Married,0,1,32.0
+Other Purposes,33,Female,B,40,Single,40 to 50,297,Graduate,1,48,0.1963,12,1130,B_Female,Employed,2016,B_Single,0,0,48.81
+Home Improvements,60,Female,B,36,Divorced,30 to 40,801,Graduate,1,15,0.18,6,5410,B_Female,Employed,2019,B_Divorced,0,4,158.28
+Home Improvements,58,Male,C,53,Divorced,40 to 50,988,Vocational education,1,6,0.23,4,9370,C_Male,Employed,2019,C_Divorced,0,0,307.51
+Other Purposes,12,Female,B,50,Married,40 to 50,273,High school,1,3,0.13,10,550,B_Female,Employed,2019,B_Married,0,1,50.91
+Other Purposes,30,Male,B,31,Divorced,30 to 40,619,High school,1,18,0.15,7,2710,B_Male,Employed,2018,B_Divorced,0,0,116.56
+Consolidation of Other Loans,45,Female,C,43,Divorced,40 to 50,2501,Graduate,3,72,0.3132,33,5850,C_Female,Employed,2016,C_Divorced,0,1,5482.03
+Other Purposes,18,Male,D,30,Married,30 to 40,760,Vocational education,3,72,0.26,32,450,D_Male,Employed,2018,D_Married,0,1,234.92
+Other Purposes,15,Female,D,33,Divorced,30 to 40,499,Vocational education,3,24,0.26,35,335,D_Female,Employed,2018,D_Divorced,0,2,27.79
+Home Improvements,24,Female,A,59,Single,40 to 50,557,Post graduate,4,72,0.12,45,2070,A_Female,Employed,2018,A_Single,0,0,101.79
+Home Improvements,58,Male,C,29,Married,23 to 30,991,Vocational education,4,48,0.23,42,1080,C_Male,Employed,2017,C_Married,0,2,35.44
+Other Purposes,36,Female,B,56,Divorced,40 to 50,520,Vocational education,3,15,0.2296,30,2780,B_Female,Employed,2016,B_Divorced,0,0,2014.58
+Consolidation of Other Loans,24,Female,C,32,Single,30 to 40,807,Graduate,3,12,0.21,29,1230,C_Female,Employed,2018,C_Single,0,0,67.49
+Home Improvements,24,Female,B,44,Married,40 to 50,810,High school,2,72,0.155,26,1310,B_Female,Employed,2017,B_Married,0,1,67.48
+Medical expenses,30,Male,B,49,Divorced,40 to 50,845,Vocational education,4,60,0.1634,50,1630,B_Male,Employed,2016,B_Divorced,0,0,343.38
+Home Improvements,58,Female,C,32,Single,30 to 40,1417,Post graduate,3,36,0.23,36,4940,C_Female,Self-Employed,2017,C_Single,0,0,4941.07
+Medical expenses,12,Male,B,30,Single,30 to 40,2722,High school,1,12,0.14,6,2200,B_Male,Employed,2019,B_Single,0,0,203.54
+Car,45,Female,B,38,Married,30 to 40,730,High school,3,60,0.3384,34,4500,B_Female,Employed,2016,B_Married,0,2,3417.11
+Other Purposes,36,Male,D,24,Single,23 to 30,621,Vocational education,3,24,0.27,32,2760,D_Male,Employed,2018,D_Single,0,0,2749.36
+Other Purposes,30,Female,C,38,Divorced,30 to 40,514,Graduate,2,24,0.1951,21,750,C_Female,Employed,2017,C_Divorced,0,1,586.61
+Consolidation of Other Loans,26,Female,B,44,Married,40 to 50,473,High school,2,72,0.15,20,670,B_Female,Employed,2018,B_Married,0,0,614.75
+Other Purposes,58,Male,C,23,Single,23 to 30,403,High school,1,18,0.22,13,4800,C_Male,Employed,2019,C_Single,0,0,157.06
+Car,47,Male,D,35,Single,30 to 40,1226,High school,1,36,0.28,7,4960,D_Male,Employed,2018,D_Single,0,2,199.41
+Consolidation of Other Loans,44,Male,C,26,Single,23 to 30,497,High school,4,48,0.23,44,5250,C_Male,Employed,2018,C_Single,0,0,197.96
+Home Improvements,48,Female,B,42,Married,40 to 50,2524,Graduate,1,72,0.2124,5,6150,B_Female,Employed,2017,B_Married,0,3,6214.28
+Home Improvements,47,Male,D,31,Single,30 to 40,841,High school,1,3,0.27,10,4960,D_Male,Employed,2019,D_Single,0,0,200.01
+Consolidation of Other Loans,60,Female,B,45,Married,40 to 50,1350,Graduate,1,72,0.2344,2,3500,B_Female,Employed,2016,B_Married,0,1,1602.35
+Consolidation of Other Loans,58,Female,C,60,Married,60+,338,Vocational education,4,72,0.23,49,1690,C_Female,Employed,2017,C_Married,0,0,1537.97
+Home Improvements,36,Male,C,30,Single,30 to 40,677,High school,2,60,0.22,16,1540,C_Male,Employed,2018,C_Single,0,0,64.5
+Consolidation of Other Loans,60,Female,B,48,Married,40 to 50,398,High school,1,36,0.18,11,5500,B_Female,Employed,2018,B_Married,0,0,5006.93
+Consolidation of Other Loans,24,Male,D,24,Single,23 to 30,322,High school,4,12,0.2166,42,1450,D_Male,Employed,2016,D_Single,0,0,1188.1
+Home Improvements,54,Female,B,23,Single,23 to 30,138,High school,4,6,0.1939,42,1630,B_Female,Employed Part Time,2016,B_Single,0,0,50.71
+Car,24,Male,D,41,Married,40 to 50,335,High school,3,3,0.26,29,340,D_Male,Employed,2018,D_Married,0,2,218.35
+Holidays/Travelling,60,Male,B,35,Married,30 to 40,1055,High school,2,48,0.1661,15,2170,B_Male,Employed,2017,B_Married,0,1,60.39
+Other Purposes,12,Female,B,52,Married,40 to 50,932,Vocational education,1,60,0.14,4,550,B_Female,Employed,2018,B_Married,0,1,50.89
+Business Purposes,60,Male,B,52,Married,40 to 50,4553,Vocational education,4,72,0.18,44,5420,B_Male,Self-Employed,2017,B_Married,0,0,155.17
+Other Purposes,48,Female,B,61,Other,60+,643,Graduate,1,60,0.2363,7,2850,B_Female,Employed,2017,B_Other,0,0,2275.59
+Home Improvements,60,Male,A,37,Married,30 to 40,6596,Graduate,4,72,0.18,46,4020,A_Male,Self-Employed,2017,A_Married,0,1,115.09
+Holidays/Travelling,18,Female,B,51,Divorced,40 to 50,412,Vocational education,1,72,0.14,11,1630,B_Female,Employed,2018,B_Divorced,0,0,796.71
+Other Purposes,12,Male,A,41,Married,40 to 50,1052,Vocational education,1,72,0.12,11,420,A_Male,Employed,2018,A_Married,0,1,38.19
+Consolidation of Other Loans,36,Female,C,21,Single,19 to 23,472,High school,1,6,0.2266,9,3250,C_Female,Employed,2017,C_Single,0,0,3330.22
+Other Purposes,24,Male,B,31,Single,30 to 40,394,High school,2,6,0.14,21,1270,B_Male,Employed,2018,B_Single,0,0,64.49
+Car,24,Male,B,55,Divorced,40 to 50,472,Vocational education,1,72,0.1342,6,1090,B_Male,Employed,2017,B_Divorced,0,0,950.84
+Other Purposes,16,Female,B,43,Divorced,40 to 50,1869,Post graduate,4,72,0.14,47,4150,B_Female,Employed,2017,B_Divorced,0,1,2764.08
+Home Improvements,24,Male,D,40,Single,40 to 50,449,High school,3,3,0.26,33,890,D_Male,Employed,2018,D_Single,0,0,860.66
+Car,48,Female,D,44,Married,40 to 50,892,Graduate,1,24,0.2643,13,1660,D_Female,Employed,2016,D_Married,0,1,64.85
+Consolidation of Other Loans,36,Male,C,33,Divorced,30 to 40,784,High school,4,72,0.22,45,2070,C_Male,Employed,2017,C_Divorced,0,1,86.7
+Other Purposes,24,Female,C,31,Single,30 to 40,346,High school,3,24,0.21,33,1110,C_Female,Employed,2017,C_Single,0,1,178.6
+Consolidation of Other Loans,40,Female,B,56,Married,40 to 50,984,High school,1,12,0.15,9,1800,B_Female,Employed,2019,B_Married,0,0,63.74
+Other Purposes,60,Male,B,26,Married,23 to 30,1267,High school,1,9,0.18,5,4870,B_Male,Employed,2019,B_Married,0,0,139.42
+Consolidation of Other Loans,45,Female,B,40,Divorced,40 to 50,916,High school,2,48,0.2601,26,3000,B_Female,Employed,2017,B_Divorced,0,1,2172.75
+Consolidation of Other Loans,24,Male,C,33,Married,30 to 40,788,Vocational education,1,18,0.3286,3,3200,C_Male,Self-Employed,2016,C_Married,0,1,1988.06
+Other Purposes,12,Female,B,56,Married,40 to 50,951,High school,3,72,0.14,36,1550,B_Female,Employed,2017,B_Married,0,0,423.29
+Car,24,Male,D,21,Single,19 to 23,233,High school,4,3,0.2126,42,1110,D_Male,Employed,2016,D_Single,0,0,235.92
+Other Purposes,18,Female,A,58,Divorced,40 to 50,773,Graduate,3,72,0.12,33,500,A_Female,Employed,2018,A_Divorced,0,0,31.53
+Consolidation of Other Loans,60,Male,A,46,Divorced,40 to 50,963,Vocational education,4,36,0.14,48,5015,A_Male,Employed,2018,A_Divorced,0,1,128.55
+Medical expenses,60,Female,B,56,Divorced,40 to 50,353,Vocational education,4,72,0.2277,46,1200,B_Female,Employed,2015,B_Divorced,0,0,36.15
+Home Improvements,14,Female,B,42,Married,40 to 50,423,High school,2,36,0.14,23,550,B_Female,Employed,2018,B_Married,0,2,44.31
+Other Purposes,24,Male,B,30,Married,30 to 40,619,Vocational education,3,36,0.14,27,2000,B_Male,Employed,2018,B_Married,0,1,101.56
+Other Purposes,24,Female,B,26,Single,23 to 30,294,High school,3,18,0.2105,28,1740,B_Female,Employed,2016,B_Single,0,0,1219.3
+Other Purposes,36,Male,C,48,Married,40 to 50,737,High school,4,72,0.22,48,3000,C_Male,Employed,2017,C_Married,0,2,125.65
+Other Purposes,30,Male,B,25,Single,23 to 30,596,High school,2,48,0.14,20,1745,B_Male,Employed,2019,B_Single,0,0,75.12
+Consolidation of Other Loans,36,Female,C,37,Divorced,30 to 40,870,Graduate,2,72,0.21,21,3000,C_Female,Employed,2019,C_Divorced,0,2,2904.02
+Car,36,Female,C,27,Married,23 to 30,419,Vocational education,1,6,0.2139,11,3150,C_Female,Employed,2017,C_Married,0,2,130.89
+Other Purposes,24,Male,C,27,Married,23 to 30,391,High school,4,9,0.21,48,1540,C_Male,Employed,2017,C_Married,0,2,84.5
+Other Purposes,12,Male,D,27,Single,23 to 30,532,High school,4,3,0.1177,49,450,D_Male,Employed,2016,D_Single,0,0,277.96
+Consolidation of Other Loans,48,Female,C,34,Married,30 to 40,950,High school,1,72,0.3125,9,5130,C_Female,Employed,2016,C_Married,0,2,210.71
+Other Purposes,12,Female,B,44,Married,40 to 50,664,High school,2,36,0.138,19,450,B_Female,Employed,2016,B_Married,0,1,41.9
+Consolidation of Other Loans,24,Male,C,57,Married,40 to 50,1550,Post graduate,1,48,0.3235,6,3620,C_Male,Employed,2016,C_Married,0,0,220.59
+Other Purposes,36,Male,B,51,Divorced,40 to 50,579,High school,4,72,0.15,43,3250,B_Male,Employed,2017,B_Divorced,0,0,122.04
+Consolidation of Other Loans,24,Male,C,21,Single,19 to 23,383,High school,3,3,0.2469,32,2100,C_Male,Employed,2016,C_Single,0,0,119.21
+Car,48,Male,C,27,Married,23 to 30,300,High school,4,3,0.23,45,1710,C_Male,Employed,2017,C_Married,0,1,1606.98
+Other Purposes,15,Male,B,33,Married,30 to 40,843,Graduate,2,72,0.14,21,2000,B_Male,Employed,2018,B_Married,0,0,1789.77
+Consolidation of Other Loans,45,Female,D,52,Married,40 to 50,1513,Vocational education,1,72,0.3155,10,3000,D_Female,Employed,2016,D_Married,0,0,1937.05
+Car,36,Male,C,25,Single,23 to 30,1555,Graduate,1,18,0.21,8,3850,C_Male,Employed,2019,C_Single,0,0,160.92
+Car,30,Male,A,46,Married,40 to 50,782,Vocational education,1,6,0.13,3,4545,A_Male,Employed,2019,A_Married,0,0,188.0
+Other Purposes,15,Male,C,23,Single,23 to 30,585,Vocational education,4,9,0.21,46,2735,C_Male,Employed,2018,C_Single,0,0,2479.0
+Consolidation of Other Loans,41,Male,B,33,Single,30 to 40,729,Graduate,1,72,0.16,3,2340,B_Male,Employed,2018,B_Single,0,2,81.39
+Consolidation of Other Loans,54,Male,C,32,Single,30 to 40,280,High school,3,36,0.2882,27,3000,C_Male,Employed,2016,C_Single,0,1,112.89
+Consolidation of Other Loans,58,Female,C,57,Married,40 to 50,781,High school,4,72,0.23,50,4050,C_Female,Employed,2017,C_Married,0,0,132.91
+Medical expenses,36,Female,A*,36,Divorced,30 to 40,950,Graduate,2,72,0.0839,17,1500,A*_Female,Employed,2017,A*_Divorced,0,1,48.37
+Other Purposes,24,Female,A,40,Divorced,40 to 50,1083,Post graduate,1,72,0.12,12,1100,A_Female,Employed,2018,A_Divorced,0,1,54.09
+Other Purposes,30,Male,D,26,Single,23 to 30,656,High school,3,9,0.25,34,660,D_Male,Employed,2017,D_Single,0,1,32.74
+Consolidation of Other Loans,48,Male,C,27,Married,23 to 30,856,Vocational education,1,36,0.23,6,3250,C_Male,Employed,2019,C_Married,0,0,116.94
+Other Purposes,12,Female,C,20,Single,19 to 23,511,High school,2,12,0.19,23,660,C_Female,Employed,2018,C_Single,0,0,63.04
+Other Purposes,47,Male,D,21,Single,19 to 23,521,High school,1,3,0.28,3,4405,D_Male,Employed,2019,D_Single,0,0,177.09
+Home Improvements,36,Male,B,33,Married,30 to 40,466,Post graduate,1,6,0.14,13,4355,B_Male,Employed,2019,B_Married,0,0,163.72
+Other Purposes,27,Female,B,40,Married,40 to 50,1517,High school,4,24,0.15,48,330,B_Female,Employed,2017,B_Married,0,2,15.4
+Home Improvements,60,Female,B,48,Divorced,40 to 50,280,Vocational education,4,6,0.18,40,1630,B_Female,Employed,2017,B_Divorced,0,0,46.67
+Consolidation of Other Loans,48,Male,C,25,Single,23 to 30,301,High school,1,24,0.2867,8,2470,C_Male,Employed,2016,C_Single,0,0,97.54
+Home Improvements,30,Male,B,41,Divorced,40 to 50,1215,Graduate,4,24,0.15,50,2655,B_Male,Employed,2017,B_Divorced,0,2,114.19
+Consolidation of Other Loans,24,Female,B,54,Married,40 to 50,722,Vocational education,2,72,0.2029,26,3100,B_Female,Employed,2016,B_Married,0,0,167.33
+Other Purposes,36,Male,D,57,Married,40 to 50,1853,Vocational education,4,6,0.25,48,1110,D_Male,Employed,2017,D_Married,0,1,49.21
+Consolidation of Other Loans,45,Male,D,26,Single,23 to 30,633,Graduate,2,48,0.3301,14,5050,D_Male,Employed,2016,D_Single,0,0,5175.97
+Other Purposes,12,Female,A,58,Married,40 to 50,1720,Graduate,1,72,0.1436,11,5160,A_Female,Employed,2017,A_Married,0,0,475.04
+Business Purposes,12,Male,C,59,Other,40 to 50,992,Vocational education,2,72,0.1422,14,1110,C_Male,Self-Employed,2017,C_Other,0,0,103.45
+Other Purposes,12,Female,B,25,Single,23 to 30,423,High school,1,15,0.1161,13,660,B_Female,Employed,2017,B_Single,0,0,60.31
+Other Purposes,12,Female,A,43,Divorced,40 to 50,557,Graduate,3,60,0.12,32,420,A_Female,Employed,2018,A_Divorced,0,2,38.19
+Home Improvements,24,Male,B,30,Single,30 to 40,683,High school,2,6,0.259,25,1110,B_Male,Employed,2016,B_Single,0,1,362.19
+Consolidation of Other Loans,45,Female,D,23,Single,23 to 30,239,High school,2,9,0.2677,14,2000,D_Female,Employed Part Time,2017,D_Single,0,0,80.58
+Other Purposes,12,Male,C,31,Single,30 to 40,359,Graduate,1,3,0.19,7,1320,C_Male,Employed,2018,C_Single,0,0,717.52
+Home Improvements,24,Female,B,53,Married,40 to 50,547,High school,3,72,0.2005,32,1100,B_Female,Employed,2016,B_Married,0,0,59.16
+Car,24,Female,A,51,Other,40 to 50,552,Graduate,2,18,0.12,25,3000,A_Female,Employed,2018,A_Other,0,0,147.52
+Home Improvements,15,Male,C,30,Single,30 to 40,243,High school,3,3,0.1802,38,1110,C_Male,Employed,2016,C_Single,0,0,86.91
+Car,32,Male,C,25,Single,23 to 30,357,High school,2,48,0.22,17,1660,C_Male,Employed,2018,C_Single,0,0,75.05
+Car,54,Male,C,21,Single,19 to 23,317,High school,4,24,0.2147,51,2420,C_Male,Employed,2016,C_Single,0,0,79.9
+Other Purposes,24,Male,B,38,Single,30 to 40,662,High school,3,3,0.14,38,1090,B_Male,Employed,2018,B_Single,0,0,55.35
+Consolidation of Other Loans,40,Female,D,53,Divorced,40 to 50,401,Vocational education,1,12,0.28,11,3100,D_Female,Employed,2018,D_Divorced,0,0,134.84
+Other Purposes,24,Male,D,35,Married,30 to 40,944,Vocational education,1,15,0.25,10,340,D_Male,Employed,2019,D_Married,0,1,19.82
+Consolidation of Other Loans,36,Female,B,35,Married,30 to 40,1063,High school,1,60,0.15,6,1510,B_Female,Employed,2018,B_Married,0,1,1235.95
+Other Purposes,30,Female,C,52,Married,40 to 50,773,Post graduate,3,72,0.22,30,780,C_Female,Employed,2017,C_Married,0,0,36.84
+Consolidation of Other Loans,58,Female,C,52,Other,40 to 50,603,High school,1,36,0.23,11,4450,C_Female,Employed,2018,C_Other,0,0,4488.59
+Business Purposes,58,Male,C,54,Married,40 to 50,278,High school,2,72,0.23,15,3295,C_Male,Employed,2018,C_Married,0,0,108.14
+Other Purposes,12,Female,C,28,Single,23 to 30,336,High school,4,24,0.19,42,560,C_Female,Employed,2017,C_Single,0,0,53.49
+Other Purposes,42,Female,B,47,Married,40 to 50,453,High school,4,9,0.16,47,2035,B_Female,Employed,2017,B_Married,0,1,69.64
+Car,12,Male,C,25,Single,23 to 30,347,Vocational education,1,3,0.1542,6,1110,C_Male,Employed,2017,C_Single,0,0,104.09
+Other Purposes,12,Male,B,46,Married,40 to 50,1521,Graduate,3,3,0.11699999999999999,29,1090,B_Male,Employed,2017,B_Married,0,1,99.65
+Consolidation of Other Loans,36,Female,B,49,Married,40 to 50,4553,High school,3,72,0.15,37,5370,B_Female,Self-Employed,2017,B_Married,0,0,201.65
+Consolidation of Other Loans,50,Male,B,42,Married,40 to 50,1702,High school,1,48,0.23,7,720,B_Male,Employed,2018,B_Married,0,1,591.15
+Car,60,Male,B,25,Single,23 to 30,457,Vocational education,2,6,0.1949,24,3250,B_Male,Employed,2017,B_Single,0,0,95.87
+Consolidation of Other Loans,30,Male,B,42,Married,40 to 50,1521,High school,3,48,0.22,30,3570,B_Male,Employed,2017,B_Married,0,1,1099.96
+Medical expenses,30,Female,C,45,Married,40 to 50,854,Graduate,1,72,0.21,9,665,C_Female,Employed,2019,C_Married,0,0,31.35
+Other Purposes,24,Female,D,19,Single,to 19,432,High school,1,6,0.25,8,1105,D_Female,Employed,2019,D_Single,0,0,64.43
+Medical expenses,12,Female,B,30,Single,30 to 40,396,Graduate,4,3,0.14,43,330,B_Female,Employed,2018,B_Single,0,1,309.92
+Consolidation of Other Loans,36,Male,C,35,Single,30 to 40,1168,Vocational education,2,12,0.21,17,5380,C_Male,Employed,2019,C_Single,0,4,224.87
+Consolidation of Other Loans,31,Male,B,34,Married,30 to 40,1158,Graduate,1,48,0.15,3,5500,B_Male,Employed,2019,B_Married,0,0,230.72
+Other Purposes,12,Female,D,19,Single,to 19,235,Vocational education,1,3,0.25,8,555,D_Female,Employed Part Time,2019,D_Single,0,0,55.37
+Home Improvements,36,Male,D,51,Married,40 to 50,347,High school,2,3,0.2101,16,670,D_Male,Employed,2017,D_Married,0,1,28.23
+Consolidation of Other Loans,36,Female,B,41,Married,40 to 50,1734,Graduate,3,36,0.15,33,5220,B_Female,Employed,2018,B_Married,0,2,196.02
+Home Improvements,39,Female,C,39,Single,30 to 40,659,High school,1,18,0.20199999999999999,8,4130,C_Female,Employed,2017,C_Single,0,1,3377.58
+Consolidation of Other Loans,60,Female,B,51,Divorced,40 to 50,409,Vocational education,4,3,0.18,40,5500,B_Female,Employed,2017,B_Divorced,0,0,5351.3
+Home Improvements,60,Female,B,27,Single,23 to 30,453,Vocational education,2,24,0.1838,22,1420,B_Female,Employed,2017,B_Single,0,0,1021.97
+Home Improvements,45,Female,B,47,Married,40 to 50,1261,Vocational education,1,15,0.1619,12,1090,B_Female,Employed,2017,B_Married,0,0,35.75
+Other Purposes,36,Male,C,25,Single,23 to 30,523,High school,2,3,0.22,15,2200,C_Male,Employed,2018,C_Single,0,0,92.14
+Consolidation of Other Loans,45,Male,D,28,Single,23 to 30,332,Vocational education,3,12,0.3345,33,2900,D_Male,Employed,2016,D_Single,0,1,128.64
+Consolidation of Other Loans,45,Male,D,33,Married,30 to 40,1460,High school,3,60,0.3363,27,5850,D_Male,Employed,2016,D_Married,0,1,261.37
+Consolidation of Other Loans,39,Female,B,53,Other,40 to 50,672,Vocational education,1,72,0.2687,4,5400,B_Female,Employed,2016,B_Other,0,0,5275.77
+Consolidation of Other Loans,60,Male,A,43,Divorced,40 to 50,674,High school,3,72,0.14,36,5500,A_Male,Employed,2018,A_Divorced,0,0,140.98
+Other Purposes,12,Male,D,22,Single,19 to 23,639,High school,2,6,0.25,16,445,D_Male,Employed,2019,D_Single,0,0,391.96
+Home Improvements,60,Female,B,59,Other,40 to 50,173,Vocational education,2,72,0.1844,13,2170,B_Female,Employed Part Time,2017,B_Other,0,0,2048.04
+Other Purposes,12,Female,B,40,Married,40 to 50,1380,Vocational education,4,72,0.14,49,1000,B_Female,Employed,2018,B_Married,0,2,92.52
+Other Purposes,60,Male,B,31,Single,30 to 40,566,High school,1,6,0.2312,12,7040,B_Male,Employed,2017,B_Single,0,0,222.95
+Other Purposes,36,Female,C,39,Single,30 to 40,450,High school,4,9,0.22,45,1400,C_Female,Employed,2018,C_Single,0,2,58.64
+Consolidation of Other Loans,48,Female,D,47,Married,40 to 50,759,High school,2,12,0.302,15,4730,D_Female,Employed,2016,D_Married,0,0,4491.96
+Other Purposes,60,Female,B,49,Married,40 to 50,534,Vocational education,2,72,0.18,26,2500,B_Female,Employed,2018,B_Married,0,0,71.57
+Other Purposes,24,Male,B,32,Single,30 to 40,594,High school,3,3,0.14,34,655,B_Male,Employed,2018,B_Single,0,0,33.26
+Other Purposes,58,Female,C,26,Single,23 to 30,352,Graduate,4,3,0.23,50,1050,C_Female,Employed,2017,C_Single,0,0,1050.23
+Consolidation of Other Loans,47,Male,D,21,Single,19 to 23,808,High school,1,12,0.28,12,5000,D_Male,Employed,2018,D_Single,0,0,201.02
+Consolidation of Other Loans,36,Female,C,38,Married,30 to 40,765,Vocational education,3,15,0.27,38,2160,C_Female,Employed,2018,C_Married,0,1,2075.33
+Consolidation of Other Loans,24,Male,D,28,Married,23 to 30,1456,High school,2,24,0.2617,21,2700,D_Male,Employed,2016,D_Married,0,1,1952.25
+Other Purposes,27,Male,B,39,Divorced,30 to 40,361,High school,2,36,0.15,24,2170,B_Male,Employed,2018,B_Divorced,0,2,1729.42
+Consolidation of Other Loans,47,Female,D,27,Married,23 to 30,948,High school,1,18,0.28,3,5470,D_Female,Employed,2018,D_Married,0,2,5463.93
+Consolidation of Other Loans,36,Male,D,30,Single,30 to 40,693,High school,2,12,0.1984,14,3680,D_Male,Employed,2017,D_Single,0,0,149.84
+Home Improvements,48,Male,D,24,Single,23 to 30,564,Graduate,1,36,0.2194,4,2210,D_Male,Employed,2017,D_Single,0,0,80.01
+Home Improvements,15,Female,B,51,Married,40 to 50,965,Vocational education,1,24,0.14,2,765,B_Female,Employed,2018,B_Married,0,0,57.97
+Home Improvements,60,Female,A,57,Single,40 to 50,553,High school,4,6,0.14,42,8600,A_Female,Employed,2018,A_Single,0,0,220.45
+Other Purposes,47,Female,C,30,Married,30 to 40,624,Graduate,2,36,0.28,19,2320,C_Female,Employed,2018,C_Married,0,2,2317.42
+Other Purposes,12,Female,B,58,Married,40 to 50,786,High school,4,72,0.14,43,550,B_Female,Employed,2017,B_Married,0,0,50.89
+Consolidation of Other Loans,30,Female,A,56,Married,40 to 50,1200,Post graduate,1,72,0.1513,2,2100,A_Female,Employed,2016,A_Married,0,0,889.03
+Home Improvements,36,Female,B,41,Married,40 to 50,544,Graduate,3,18,0.15,36,980,B_Female,Employed,2018,B_Married,0,1,36.8
+Other Purposes,60,Female,B,41,Single,40 to 50,380,High school,1,18,0.17,12,3440,B_Female,Employed,2019,B_Single,0,1,98.64
+Car,60,Male,B,35,Married,30 to 40,582,Vocational education,1,12,0.17,9,7610,B_Male,Employed,2019,B_Married,0,1,218.22
+Home Improvements,12,Male,B,35,Divorced,30 to 40,1327,Vocational education,3,72,0.14,29,1630,B_Male,Employed,2018,B_Divorced,0,1,150.8
+Other Purposes,24,Female,D,29,Divorced,23 to 30,337,High school,1,6,0.26,8,1110,D_Female,Employed,2018,D_Divorced,0,2,757.59
+Other Purposes,36,Female,B,36,Single,30 to 40,690,Vocational education,2,60,0.14,21,1095,B_Female,Employed,2019,B_Single,0,1,41.16
+Other Purposes,12,Female,B,38,Married,30 to 40,1776,Post graduate,2,72,0.13,21,385,B_Female,Employed,2019,B_Married,0,2,35.63
+Other Purposes,24,Female,D,43,Single,40 to 50,726,Graduate,4,36,0.24,46,670,D_Female,Employed,2017,D_Single,0,2,279.59
+Home Improvements,48,Male,B,54,Married,40 to 50,1248,Graduate,2,24,0.1859,18,2170,B_Male,Employed,2017,B_Married,0,1,71.17
+Other Purposes,12,Female,D,22,Single,19 to 23,670,Vocational education,1,6,0.1498,7,1650,D_Female,Employed,2017,D_Single,0,0,1160.17
+Consolidation of Other Loans,24,Male,C,33,Single,30 to 40,682,High school,1,36,0.1563,11,900,C_Male,Employed,2016,C_Single,0,0,138.56
+Car,36,Female,B,60,Divorced,60+,390,High school,2,48,0.14,14,3780,B_Female,Employed,2019,B_Divorced,0,0,142.1
+Other Purposes,30,Male,C,30,Single,30 to 40,461,Vocational education,1,3,0.21,8,2755,C_Male,Employed,2019,C_Single,0,1,2755.83
+Other Purposes,45,Male,B,41,Married,40 to 50,1219,Graduate,1,72,0.1612,5,1630,B_Male,Self-Employed,2017,B_Married,0,2,53.4
+Car,36,Male,C,30,Married,30 to 40,609,High school,1,48,0.22,7,1540,C_Male,Employed,2018,C_Married,0,1,64.5
+Consolidation of Other Loans,24,Female,D,54,Married,40 to 50,1107,Vocational education,3,9,0.26,35,1760,D_Female,Employed,2018,D_Married,0,0,1587.19
+Other Purposes,24,Female,C,33,Married,30 to 40,1061,High school,1,24,0.2,7,2205,C_Female,Employed,2019,C_Married,0,1,120.8
+Consolidation of Other Loans,45,Female,B,43,Single,40 to 50,503,High school,3,72,0.2536,32,5150,B_Female,Employed,2016,B_Single,0,0,195.25
+Consolidation of Other Loans,24,Female,D,25,Single,23 to 30,552,High school,2,9,0.26,24,1030,D_Female,Employed,2018,D_Single,0,0,962.93
+Other Purposes,24,Male,C,50,Married,40 to 50,500,High school,3,15,0.21,33,300,C_Male,Employed,2017,C_Married,0,2,268.9
+Other Purposes,45,Female,D,31,Single,30 to 40,594,High school,3,15,0.3012,29,5620,D_Female,Employed,2017,D_Single,0,0,5680.08
+Other Purposes,60,Male,B,36,Married,30 to 40,1059,High school,1,6,0.18,6,2710,B_Male,Employed,2019,B_Married,0,2,77.58
+Consolidation of Other Loans,48,Female,B,59,Married,40 to 50,788,Graduate,1,9,0.15,9,3850,B_Female,Employed,2019,B_Married,0,0,120.96
+Other Purposes,24,Male,B,60,Married,60+,524,High school,3,18,0.1656,37,1100,B_Male,Employed,2016,B_Married,0,0,575.2
+Consolidation of Other Loans,60,Female,B,46,Divorced,40 to 50,361,High school,3,36,0.18,27,2250,B_Female,Employed,2018,B_Divorced,0,1,64.41
+Other Purposes,18,Female,C,25,Single,23 to 30,269,Vocational education,1,6,0.1774,12,1100,C_Female,Employed,2017,C_Single,0,0,73.75
+Other Purposes,48,Female,A,45,Single,40 to 50,317,Graduate,1,3,0.13,8,550,A_Female,Employed,2017,A_Single,0,0,16.38
+Other Purposes,18,Female,A,55,Married,40 to 50,537,High school,1,18,0.12,9,1450,A_Female,Employed,2018,A_Married,0,0,91.44
+Consolidation of Other Loans,30,Female,B,40,Divorced,40 to 50,754,Vocational education,4,6,0.15,45,2000,B_Female,Employed,2018,B_Divorced,0,1,86.02
+Other Purposes,30,Male,C,28,Single,23 to 30,812,High school,4,3,0.22,47,2000,C_Male,Employed,2018,C_Single,0,0,94.45
+Other Purposes,12,Male,D,22,Single,19 to 23,308,High school,1,3,0.26,3,340,D_Male,Employed,2018,D_Single,0,0,349.75
+Other Purposes,58,Female,B,30,Married,30 to 40,1347,Vocational education,2,36,0.22,19,2755,B_Female,Employed,2019,B_Married,0,2,88.54
+Consolidation of Other Loans,24,Female,B,42,Single,40 to 50,374,High school,2,18,0.21,15,2490,B_Female,Employed,2018,B_Single,0,1,1342.92
+Other Purposes,12,Male,C,20,Single,19 to 23,363,Vocational education,1,3,0.19,9,1105,C_Male,Employed,2019,C_Single,0,0,105.99
+Consolidation of Other Loans,24,Female,B,48,Married,40 to 50,316,High school,3,6,0.14,30,900,B_Female,Employed,2017,B_Married,0,0,45.7
+Consolidation of Other Loans,24,Male,C,28,Single,23 to 30,1280,Graduate,2,24,0.2166,22,2000,C_Male,Employed,2016,C_Single,0,0,1984.02
+Home Improvements,12,Female,B,59,Married,40 to 50,1154,High school,2,12,0.1174,24,550,B_Female,Employed,2017,B_Married,0,0,50.29
+Other Purposes,12,Female,C,22,Single,19 to 23,377,Vocational education,1,6,0.19,7,665,C_Female,Employed,2019,C_Single,0,2,578.67
+Other Purposes,47,Female,D,31,Divorced,30 to 40,389,Vocational education,4,12,0.28,40,2315,D_Female,Employed,2018,D_Divorced,0,2,93.07
+Medical expenses,24,Male,C,46,Single,40 to 50,181,High school,4,18,0.14,50,525,C_Male,Employed Part Time,2018,C_Single,0,1,496.73
+Consolidation of Other Loans,15,Male,D,23,Single,23 to 30,388,High school,2,9,0.2645,19,1350,D_Male,Employed,2016,D_Single,0,0,112.53
+Other Purposes,12,Male,B,42,Single,40 to 50,787,Vocational education,4,72,0.14,51,980,B_Male,Self-Employed,2017,B_Single,0,0,522.47
+Other Purposes,24,Male,C,28,Single,23 to 30,475,Vocational education,2,36,0.2141,25,700,C_Male,Employed,2017,C_Single,0,0,38.55
+Other Purposes,36,Female,B,35,Married,30 to 40,520,Graduate,3,36,0.15,31,550,B_Female,Employed,2017,B_Married,0,3,20.65
+Other Purposes,48,Male,C,26,Single,23 to 30,275,High school,3,3,0.2473,36,2450,C_Male,Employed,2016,C_Single,0,0,90.64
+Home Improvements,24,Male,B,32,Single,30 to 40,369,Vocational education,1,60,0.13,8,2830,B_Male,Employed,2019,B_Single,0,2,143.81
+Other Purposes,30,Male,C,34,Married,30 to 40,412,Vocational education,2,3,0.22,18,1000,C_Male,Employed,2018,C_Married,0,1,47.23
+Home Improvements,60,Male,A,62,Married,60+,876,Graduate,4,48,0.2003,52,3000,A_Male,Employed,2015,A_Married,0,0,60.67
+Car,24,Male,B,36,Married,30 to 40,1398,High school,2,48,0.13,18,1200,B_Male,Employed,2019,B_Married,0,0,60.98
+Other Purposes,33,Male,D,54,Divorced,40 to 50,488,Graduate,4,48,0.27,48,400,D_Male,Employed,2018,D_Divorced,0,0,19.13
+Consolidation of Other Loans,48,Male,D,41,Divorced,40 to 50,1870,Vocational education,2,36,0.2755,22,5125,D_Male,Employed,2017,D_Divorced,0,2,202.68
+Consolidation of Other Loans,30,Female,B,37,Divorced,30 to 40,332,Vocational education,4,6,0.15,46,1310,B_Female,Employed,2017,B_Divorced,0,1,56.34
+Home Improvements,48,Male,D,36,Married,30 to 40,533,Vocational education,2,60,0.2323,18,3970,D_Male,Self-Employed,2017,D_Married,0,1,146.73
+Other Purposes,12,Male,B,58,Married,40 to 50,892,Vocational education,4,3,0.14,51,2170,B_Male,Employed,2017,B_Married,0,0,200.77
+Car,24,Female,B,54,Married,40 to 50,1023,Post graduate,2,60,0.14,17,1200,B_Female,Employed,2018,B_Married,0,0,1048.18
+Medical expenses,24,Female,B,51,Married,40 to 50,655,Graduate,4,72,0.14,45,440,B_Female,Employed,2017,B_Married,0,1,22.34
+Other Purposes,38,Male,A,63,Married,60+,321,Vocational education,1,72,0.14,6,3650,A_Male,Employed,2018,A_Married,0,2,127.53
+Car,12,Male,A,44,Married,40 to 50,1385,High school,4,18,0.12,45,1555,A_Male,Employed,2018,A_Married,0,2,141.41
+Consolidation of Other Loans,48,Female,D,33,Single,30 to 40,260,Graduate,1,3,0.23,5,2500,D_Female,Employed,2018,D_Single,0,2,89.96
+Other Purposes,60,Female,B,28,Single,23 to 30,706,Vocational education,3,72,0.18,29,3250,B_Female,Employed,2018,B_Single,0,0,93.04
+Other Purposes,12,Male,C,35,Single,30 to 40,713,High school,4,24,0.19,41,300,C_Male,Employed,2018,C_Single,0,0,188.29
+Other Purposes,60,Male,C,32,Single,30 to 40,319,Graduate,4,60,0.3059,53,1200,C_Male,Employed,2015,C_Single,0,0,1169.32
+Consolidation of Other Loans,39,Female,D,35,Married,30 to 40,629,High school,4,24,0.2488,40,1500,D_Female,Employed,2016,D_Married,0,2,59.89
+Other Purposes,24,Male,C,26,Single,23 to 30,309,High school,2,3,0.2,18,885,C_Male,Employed,2019,C_Single,0,1,48.49
+Other Purposes,12,Male,B,32,Single,30 to 40,596,Vocational education,1,3,0.1952,8,2170,B_Male,Employed,2016,B_Single,0,0,205.38
+Consolidation of Other Loans,47,Male,D,23,Single,23 to 30,758,Vocational education,4,12,0.28,52,4600,D_Male,Employed,2018,D_Single,0,0,4739.53
+Consolidation of Other Loans,47,Male,D,29,Married,23 to 30,807,Vocational education,2,9,0.28,19,2330,D_Male,Employed,2018,D_Married,0,1,93.67
+Home Improvements,24,Female,D,32,Married,30 to 40,691,Graduate,1,60,0.2026,5,3310,D_Female,Employed,2017,D_Married,0,1,2336.48
+Other Purposes,24,Female,C,38,Single,30 to 40,421,High school,4,48,0.21,47,670,C_Female,Employed,2017,C_Single,0,3,36.76
+Other Purposes,34,Female,A,51,Married,40 to 50,657,Vocational education,1,72,0.13,4,1040,A_Female,Employed,2019,A_Married,0,0,38.98
+Home Improvements,15,Male,B,51,Divorced,40 to 50,246,Vocational education,3,3,0.14,30,1090,B_Male,Employed,2017,B_Divorced,0,0,697.03
+Consolidation of Other Loans,36,Female,C,24,Single,23 to 30,413,Graduate,1,36,0.22,8,3100,C_Female,Employed,2018,C_Single,0,0,129.84
+Other Purposes,12,Male,A,45,Married,40 to 50,905,Graduate,2,72,0.11,18,745,A_Male,Employed,2019,A_Married,0,1,67.86
+Other Purposes,30,Female,B,32,Married,30 to 40,1176,Graduate,3,72,0.15,27,1500,B_Female,Employed,2018,B_Married,0,1,64.51
+Consolidation of Other Loans,30,Female,C,32,Married,30 to 40,604,Graduate,4,36,0.22,47,1250,C_Female,Employed,2017,C_Married,0,0,59.03
+Other Purposes,24,Male,B,41,Married,40 to 50,326,Vocational education,3,6,0.14,33,1630,B_Male,Employed,2018,B_Married,0,2,82.77
+Car,45,Male,C,28,Single,23 to 30,2928,Vocational education,3,60,0.2608,30,4100,C_Male,Self-Employed,2016,C_Single,0,0,160.02
+Other Purposes,54,Female,B,50,Married,40 to 50,716,Graduate,4,72,0.2124,46,3250,B_Female,Employed,2016,B_Married,0,1,3190.09
+Consolidation of Other Loans,24,Female,C,62,Other,60+,249,Graduate,1,72,0.2749,7,1150,C_Female,Employed,2016,C_Other,0,0,1037.68
+Consolidation of Other Loans,24,Female,B,62,Other,60+,404,Vocational education,4,72,0.2765,44,2100,B_Female,Employed,2015,B_Other,0,0,118.7
+Other Purposes,12,Female,B,52,Married,40 to 50,880,High school,2,72,0.154,17,1090,B_Female,Employed,2017,B_Married,0,0,101.58
+Consolidation of Other Loans,45,Female,B,47,Single,40 to 50,715,High school,2,15,0.1965,21,5950,B_Female,Employed,2017,B_Single,0,1,5993.91
+Consolidation of Other Loans,27,Male,C,31,Married,30 to 40,641,High school,1,48,0.22,12,2740,C_Male,Employed,2018,C_Married,0,3,139.29
+Car,12,Female,B,31,Single,30 to 40,197,High school,1,3,0.1153,2,660,B_Female,Employed,2017,B_Single,0,0,60.29
+Business Purposes,48,Female,D,43,Married,40 to 50,1141,High school,1,36,0.231,4,2760,D_Female,Employed,2017,D_Married,0,1,101.8
+Car,48,Male,C,21,Single,19 to 23,251,High school,1,3,0.23,11,2525,C_Male,Employed,2018,C_Single,0,0,90.86
+Other Purposes,30,Male,B,60,Married,60+,1265,Post graduate,3,72,0.2061,30,1630,B_Male,Employed,2016,B_Married,0,0,74.77
+Home Improvements,60,Female,B,49,Married,40 to 50,1114,Graduate,1,72,0.1954,13,3250,B_Female,Employed,2017,B_Married,0,0,95.96
+Consolidation of Other Loans,45,Female,C,53,Other,40 to 50,841,Graduate,3,60,0.2887,34,3800,C_Female,Employed,2016,C_Other,0,0,154.6
+Other Purposes,24,Male,B,45,Divorced,40 to 50,1001,High school,4,3,0.14,43,1630,B_Male,Employed,2017,B_Divorced,0,0,92.26
+Business Purposes,47,Male,D,43,Single,40 to 50,567,High school,1,9,0.28,8,2205,D_Male,Employed,2018,D_Single,0,0,88.65
+Other Purposes,36,Female,C,23,Single,23 to 30,284,High school,1,3,0.20800000000000002,1,2200,C_Female,Employed,2017,C_Single,0,0,90.71
+Consolidation of Other Loans,58,Male,C,33,Single,30 to 40,394,Post graduate,1,36,0.23,4,4550,C_Male,Employed,2019,C_Single,0,0,4471.14
+Other Purposes,14,Female,C,24,Single,23 to 30,227,High school,2,3,0.21,23,1000,C_Female,Employed,2018,C_Single,0,0,84.53
+Consolidation of Other Loans,50,Female,D,24,Single,23 to 30,726,Graduate,4,18,0.26,47,2330,D_Female,Employed,2017,D_Single,0,0,88.28
+Other Purposes,24,Female,C,33,Married,30 to 40,508,High school,1,24,0.2,9,555,C_Female,Employed,2019,C_Married,0,1,30.41
+Medical expenses,60,Female,B,45,Divorced,40 to 50,348,High school,3,72,0.18,32,1310,B_Female,Employed,2017,B_Divorced,0,0,37.5
+Other Purposes,12,Male,C,45,Married,40 to 50,338,High school,2,3,0.19,21,440,C_Male,Employed,2018,C_Married,0,2,276.13
+Other Purposes,12,Male,C,28,Single,23 to 30,519,High school,1,12,0.19,4,340,C_Male,Employed,2018,C_Single,0,0,347.35
+Other Purposes,60,Male,B,32,Married,30 to 40,714,Graduate,2,48,0.18,23,1520,B_Male,Employed,2018,B_Married,0,1,43.52
+Other Purposes,60,Female,B,28,Single,23 to 30,434,High school,2,24,0.17,17,1635,B_Female,Employed,2019,B_Single,0,2,46.88
+Other Purposes,30,Male,B,44,Married,40 to 50,850,Graduate,3,36,0.2269,37,1000,B_Male,Employed,2015,B_Married,0,0,377.46
+Consolidation of Other Loans,24,Female,C,37,Married,30 to 40,1350,Graduate,4,36,0.3318,47,1600,C_Female,Employed,2015,C_Married,0,2,96.9
+Consolidation of Other Loans,27,Female,C,36,Single,30 to 40,900,Post graduate,3,48,0.2583,34,2000,C_Female,Employed,2015,C_Single,0,0,1277.55
+Other Purposes,18,Female,B,56,Divorced,40 to 50,431,Graduate,4,36,0.14,45,440,B_Female,Employed,2018,B_Divorced,0,0,264.6
+Consolidation of Other Loans,39,Female,C,40,Married,40 to 50,375,High school,3,6,0.23,28,1100,C_Female,Employed,2018,C_Married,0,2,44.46
+Other Purposes,12,Female,D,31,Single,30 to 40,294,High school,4,6,0.26,40,445,D_Female,Employed,2018,D_Single,0,1,44.35
+Home Improvements,12,Male,A,54,Divorced,40 to 50,1251,Vocational education,2,72,0.1338,26,1560,A_Male,Employed,2017,A_Divorced,0,0,142.89
+Other Purposes,12,Male,B,32,Single,30 to 40,392,High school,1,3,0.1072,4,330,B_Male,Employed,2017,B_Single,0,0,30.02
+Other Purposes,12,Female,B,25,Single,23 to 30,397,High school,2,3,0.14,22,550,B_Female,Employed,2018,B_Single,0,0,50.89
+Other Purposes,36,Male,D,48,Married,40 to 50,638,High school,2,36,0.2156,14,1550,D_Male,Employed,2017,D_Married,0,1,65.77
+Other Purposes,24,Female,D,25,Married,23 to 30,358,Vocational education,1,6,0.26,2,445,D_Female,Employed,2019,D_Married,0,2,25.9
+Other Purposes,12,Female,B,32,Single,30 to 40,482,Vocational education,4,24,0.14,46,550,B_Female,Employed,2017,B_Single,0,1,50.89
+Consolidation of Other Loans,24,Male,D,27,Single,23 to 30,805,High school,2,18,0.251,16,3230,D_Male,Employed,2017,D_Single,0,0,1506.99
+Consolidation of Other Loans,24,Female,C,59,Other,40 to 50,320,High school,3,72,0.3053,35,1600,C_Female,Employed,2015,C_Other,0,0,93.05
+Consolidation of Other Loans,60,Male,B,54,Married,40 to 50,476,High school,1,24,0.18,6,6500,B_Male,Employed,2019,B_Married,0,0,186.09
+Car,48,Male,B,37,Married,30 to 40,1011,Vocational education,4,18,0.16,48,4000,B_Male,Employed,2018,B_Married,0,1,125.5
+Home Improvements,47,Male,D,22,Single,19 to 23,382,High school,2,6,0.28,15,1330,D_Male,Employed,2018,D_Single,0,0,53.47
+Home Improvements,58,Female,C,29,Other,23 to 30,775,Graduate,4,6,0.23,42,3080,C_Female,Employed,2017,C_Other,0,0,2940.37
+Car,36,Male,D,28,Single,23 to 30,829,High school,3,18,0.25,34,2430,D_Male,Employed,2017,D_Single,0,1,2183.89
+Other Purposes,18,Male,D,35,Married,30 to 40,698,High school,2,12,0.1956,23,560,D_Male,Employed,2017,D_Married,0,2,38.45
+Home Improvements,47,Male,D,45,Married,40 to 50,1105,Graduate,1,3,0.28,12,3525,D_Male,Employed,2018,D_Married,0,0,3631.93
+Other Purposes,12,Female,B,46,Divorced,40 to 50,604,Graduate,1,9,0.14,13,1530,B_Female,Employed,2018,B_Divorced,0,1,141.56
+Home Improvements,21,Female,B,31,Single,30 to 40,1011,Post graduate,2,60,0.14,26,1310,B_Female,Employed,2018,B_Single,0,0,74.29
+Home Improvements,24,Female,B,52,Married,40 to 50,1612,Post graduate,2,9,0.12,20,4230,B_Female,Employed,2018,B_Married,0,0,208.0
+Consolidation of Other Loans,50,Female,D,20,Single,19 to 23,350,High school,4,3,0.26,51,3600,D_Female,Employed,2017,D_Single,0,0,3669.06
+Other Purposes,12,Male,C,46,Married,40 to 50,1629,Vocational education,1,24,0.13,10,1095,C_Male,Employed,2019,C_Married,0,1,101.35
+Home Improvements,24,Female,B,43,Other,40 to 50,296,Vocational education,2,72,0.1736,20,1130,B_Female,Employed,2016,B_Other,0,0,59.34
+Other Purposes,12,Male,B,39,Other,30 to 40,687,High school,2,72,0.1167,15,550,B_Male,Employed,2017,B_Other,0,1,471.56
+Consolidation of Other Loans,24,Female,C,32,Single,30 to 40,320,High school,2,6,0.1881,25,800,C_Female,Employed,2016,C_Single,0,0,356.55
+Other Purposes,36,Female,B,54,Married,40 to 50,815,Graduate,3,72,0.15,33,1630,B_Female,Employed,2017,B_Married,0,0,816.49
+Other Purposes,36,Female,C,53,Married,40 to 50,490,Graduate,1,36,0.22,5,3080,C_Female,Employed,2018,C_Married,0,1,129.0
+Other Purposes,47,Female,C,25,Single,23 to 30,382,High school,4,24,0.28,45,1110,C_Female,Employed,2018,C_Single,0,0,1028.84
+Car,48,Female,C,22,Single,19 to 23,405,High school,2,24,0.23,24,3300,C_Female,Employed,2018,C_Single,0,1,118.74
+Medical expenses,12,Male,C,23,Single,23 to 30,271,High school,4,9,0.2456,48,700,C_Male,Employed,2015,C_Single,0,0,68.32
+Consolidation of Other Loans,24,Female,A,55,Divorced,40 to 50,566,High school,1,36,0.12,5,1040,A_Female,Employed,2018,A_Divorced,0,0,51.14
+Consolidation of Other Loans,36,Male,B,43,Married,40 to 50,1167,High school,1,60,0.2117,7,1900,B_Male,Employed,2016,B_Married,0,1,76.38
+Consolidation of Other Loans,58,Male,C,38,Single,30 to 40,285,Vocational education,3,3,0.23,39,3450,C_Male,Employed,2017,C_Single,0,1,113.22
+Consolidation of Other Loans,43,Male,B,26,Single,23 to 30,990,Post graduate,3,60,0.16,37,9600,B_Male,Employed,2018,B_Single,0,0,323.41
+Car,60,Female,A,55,Married,40 to 50,434,High school,4,36,0.1569,51,4650,A_Female,Employed,2016,A_Married,0,0,123.53
+Home Improvements,60,Female,B,36,Married,30 to 40,1408,High school,1,72,0.18,5,9740,B_Female,Employed,2019,B_Married,0,1,278.84
+Other Purposes,24,Female,C,33,Married,30 to 40,525,High school,4,24,0.14,41,1200,C_Female,Employed,2018,C_Married,0,1,60.93
+Home Improvements,12,Female,B,34,Single,30 to 40,620,High school,2,72,0.19,15,775,B_Female,Employed,2018,B_Single,0,1,74.02
+Car,12,Male,D,23,Single,23 to 30,825,High school,3,24,0.26,35,1110,D_Male,Employed,2018,D_Single,0,0,523.15
+Home Improvements,51,Female,B,60,Divorced,60+,156,High school,2,48,0.2203,17,1310,B_Female,Employed Part Time,2016,B_Divorced,0,0,44.16
+Other Purposes,12,Male,C,30,Single,30 to 40,511,High school,1,36,0.1037,8,340,C_Male,Employed,2017,C_Single,0,0,208.38
+Business Purposes,24,Female,D,50,Single,40 to 50,631,Graduate,3,36,0.2676,28,900,D_Female,Employed,2016,D_Single,0,0,52.74
+Other Purposes,24,Female,D,22,Single,19 to 23,173,High school,2,3,0.26,20,450,D_Female,Employed,2018,D_Single,0,0,26.19
+Other Purposes,24,Female,B,59,Other,40 to 50,375,Vocational education,1,6,0.14,5,1195,B_Female,Employed,2019,B_Other,0,0,60.68
+Home Improvements,15,Female,B,36,Divorced,30 to 40,725,Vocational education,2,60,0.14,23,440,B_Female,Employed,2018,B_Divorced,0,1,33.34
+Home Improvements,36,Female,B,50,Married,40 to 50,1655,High school,1,72,0.15,5,2170,B_Female,Employed,2019,B_Married,0,0,2162.84
+Other Purposes,18,Female,B,31,Single,30 to 40,742,High school,3,12,0.14,33,1500,B_Female,Employed,2018,B_Single,0,0,96.97
+Car,36,Male,C,33,Single,30 to 40,1454,High school,2,12,0.2631,26,6000,C_Male,Employed,2016,C_Single,0,2,266.33
+Other Purposes,24,Female,B,33,Divorced,30 to 40,368,High school,2,15,0.13,15,1095,B_Female,Employed,2019,B_Divorced,0,1,55.65
+Home Improvements,60,Female,C,41,Married,40 to 50,1904,Vocational education,1,60,0.18,2,6000,C_Female,Self-Employed,2018,C_Married,0,0,171.77
+Other Purposes,36,Male,B,28,Single,23 to 30,422,High school,1,6,0.14,6,1095,B_Male,Employed,2019,B_Single,0,0,41.16
+Car,45,Female,B,49,Married,40 to 50,857,Graduate,2,72,0.1748,18,3580,B_Female,Employed,2017,B_Married,0,0,119.92
+Other Purposes,18,Female,B,28,Married,23 to 30,569,Graduate,1,18,0.14,3,1630,B_Female,Employed,2018,B_Married,0,0,105.38
+Car,54,Male,C,31,Single,30 to 40,402,Graduate,4,18,0.2329,49,3300,C_Male,Employed,2016,C_Single,0,0,3322.29
+Other Purposes,50,Male,D,37,Married,30 to 40,436,High school,3,72,0.26,34,1880,D_Male,Employed,2017,D_Married,0,2,1704.86
+Consolidation of Other Loans,12,Male,B,30,Single,30 to 40,777,Vocational education,2,36,0.14,24,600,B_Male,Employed,2018,B_Single,0,0,216.72
+Consolidation of Other Loans,24,Female,C,32,Single,30 to 40,638,Post graduate,3,48,0.14,35,1150,C_Female,Employed,2017,C_Single,0,0,1046.61
+Home Improvements,12,Female,A,28,Single,23 to 30,800,Graduate,3,18,0.2096,33,3000,A_Female,Employed,2015,A_Single,0,0,1948.39
+Other Purposes,24,Female,D,22,Single,19 to 23,275,High school,4,3,0.24,50,780,D_Female,Employed,2017,D_Single,0,0,44.58
+Consolidation of Other Loans,48,Female,C,36,Single,30 to 40,570,Graduate,4,18,0.3265999999999999,49,2600,C_Female,Employed,2015,C_Single,0,1,106.61
+Consolidation of Other Loans,45,Female,D,22,Single,19 to 23,336,High school,1,9,0.2221,3,2200,D_Female,Employed,2017,D_Single,0,0,82.76
+Other Purposes,18,Female,C,32,Single,30 to 40,550,Post graduate,4,48,0.1643,47,1000,C_Female,Employed,2016,C_Single,0,0,551.14
+Other Purposes,47,Male,D,20,Single,19 to 23,775,High school,4,6,0.28,49,2865,D_Male,Employed,2018,D_Single,0,0,2600.72
+Other Purposes,36,Male,C,23,Single,23 to 30,796,High school,1,18,0.21,6,3300,C_Male,Employed,2019,C_Single,0,0,137.93
+Consolidation of Other Loans,36,Male,C,52,Divorced,40 to 50,803,High school,1,18,0.22,1,6230,C_Male,Employed,2018,C_Divorced,0,0,260.94
+Home Improvements,60,Female,B,54,Married,40 to 50,708,High school,4,6,0.18,46,2500,B_Female,Employed,2017,B_Married,0,0,2504.04
+Other Purposes,24,Male,B,26,Single,23 to 30,399,Vocational education,2,60,0.14,18,3140,B_Male,Employed,2018,B_Single,0,0,159.44
+Consolidation of Other Loans,36,Female,B,27,Single,23 to 30,646,Graduate,3,3,0.15,28,1230,B_Female,Employed,2018,B_Single,0,0,46.19
+Other Purposes,36,Male,D,29,Married,23 to 30,1099,Vocational education,1,18,0.27,13,2500,D_Male,Employed,2018,D_Married,0,0,113.66
+Other Purposes,24,Female,B,58,Married,40 to 50,363,Vocational education,4,72,0.14,48,550,B_Female,Employed,2018,B_Married,0,0,27.93
+Medical expenses,12,Male,B,59,Single,40 to 50,579,Graduate,2,72,0.08839999999999999,15,550,B_Male,Employed,2017,B_Single,0,0,49.54
+Business Purposes,12,Female,C,41,Married,40 to 50,944,High school,3,72,0.14,30,500,C_Female,Employed,2018,C_Married,0,2,136.55
+Other Purposes,22,Female,B,32,Single,30 to 40,389,Graduate,3,60,0.14,32,1200,B_Female,Employed,2017,B_Single,0,2,65.46
+Consolidation of Other Loans,30,Female,B,26,Married,23 to 30,465,Vocational education,2,9,0.15,25,1600,B_Female,Employed,2018,B_Married,0,2,68.82
+Medical expenses,58,Female,C,24,Single,23 to 30,297,High school,2,3,0.23,16,3520,C_Female,Employed,2018,C_Single,0,2,115.52
+Home Improvements,24,Male,A,58,Married,40 to 50,603,Vocational education,1,72,0.14,1,2170,A_Male,Employed,2019,A_Married,0,0,110.19
+Consolidation of Other Loans,58,Male,B,32,Single,30 to 40,1288,Graduate,4,36,0.18,47,1470,B_Male,Employed,2017,B_Single,0,0,1499.11
+Home Improvements,60,Male,B,36,Married,30 to 40,1666,Graduate,2,36,0.18,16,2170,B_Male,Employed,2018,B_Married,0,0,2067.8
+Other Purposes,48,Female,A,55,Married,40 to 50,297,High school,1,72,0.1359,8,2070,A_Female,Employed,2017,A_Married,0,0,60.84
+Other Purposes,60,Male,B,29,Divorced,23 to 30,663,High school,4,36,0.18,43,4500,B_Male,Employed,2018,B_Divorced,0,2,128.83
+Other Purposes,36,Male,C,28,Single,23 to 30,310,High school,1,3,0.22,2,1320,C_Male,Employed,2018,C_Single,0,0,1022.4
+Consolidation of Other Loans,12,Female,C,47,Divorced,40 to 50,556,Graduate,3,72,0.2035,32,1520,C_Female,Employed,2016,C_Divorced,0,1,146.18
+Consolidation of Other Loans,12,Male,C,34,Single,30 to 40,1627,Vocational education,3,48,0.1813,37,2650,C_Male,Employed,2016,C_Single,0,0,251.98
+Car,12,Male,B,44,Married,40 to 50,1119,Graduate,4,72,0.14,40,1090,B_Male,Employed,2017,B_Married,0,1,100.85
+Other Purposes,12,Female,A,63,Married,60+,1212,Post graduate,1,72,0.11,11,745,A_Female,Employed,2019,A_Married,0,0,67.86
+Other Purposes,24,Male,B,41,Married,40 to 50,320,High school,1,12,0.13,11,1095,B_Male,Employed,2019,B_Married,0,3,55.65
+Consolidation of Other Loans,57,Female,C,34,Single,30 to 40,510,High school,3,72,0.2356,28,3350,C_Female,Employed,2017,C_Single,0,2,111.95
+Other Purposes,12,Female,B,59,Divorced,40 to 50,499,Vocational education,3,72,0.14,34,330,B_Female,Employed,2018,B_Divorced,0,0,90.12
+Consolidation of Other Loans,55,Female,B,48,Married,40 to 50,466,Vocational education,3,24,0.18,27,2970,B_Female,Employed,2018,B_Married,0,1,89.12
+Other Purposes,24,Female,C,22,Single,19 to 23,508,Vocational education,1,6,0.21,4,1760,C_Female,Employed,2019,C_Single,0,0,96.57
+Car,60,Male,B,47,Married,40 to 50,1017,High school,4,9,0.18,42,3790,B_Male,Employed,2018,B_Married,0,3,108.5
+Home Improvements,30,Male,C,66,Married,60+,1286,Graduate,4,24,0.1366,47,1560,C_Male,Employed,2016,C_Married,0,0,65.03
+Other Purposes,24,Female,A,49,Divorced,40 to 50,441,High school,1,36,0.12,4,800,A_Female,Employed,2018,A_Divorced,0,1,39.34
+Other Purposes,12,Female,A,54,Married,40 to 50,680,Vocational education,2,24,0.12,18,830,A_Female,Employed,2018,A_Married,0,0,470.82
+Consolidation of Other Loans,60,Female,B,58,Married,40 to 50,792,High school,1,72,0.1765,3,3550,B_Female,Employed,2017,B_Married,0,0,2791.33
+Other Purposes,45,Male,C,47,Married,40 to 50,2074,Graduate,4,72,0.2611,43,5510,C_Male,Employed,2016,C_Married,0,3,215.15
+Other Purposes,30,Female,D,38,Married,30 to 40,1087,High school,2,15,0.26,22,1655,D_Female,Employed,2019,D_Married,0,2,84.07
+Other Purposes,60,Female,B,28,Single,23 to 30,551,Graduate,2,60,0.18,14,2220,B_Female,Employed,2018,B_Single,0,0,63.56
+Consolidation of Other Loans,6,Male,C,28,Single,23 to 30,503,Vocational education,4,3,0.2071,52,620,C_Male,Employed,2015,C_Single,0,0,111.43
+Home Improvements,36,Male,B,35,Single,30 to 40,616,High school,4,72,0.15,52,2820,B_Male,Employed,2017,B_Single,0,0,105.9
+Consolidation of Other Loans,40,Male,D,22,Single,19 to 23,489,High school,4,9,0.28,40,4490,D_Male,Employed,2018,D_Single,0,0,4078.65
+Medical expenses,48,Female,A,47,Married,40 to 50,372,Vocational education,1,6,0.14,13,1560,A_Female,Employed,2018,A_Married,0,0,46.18
+Other Purposes,50,Male,B,42,Married,40 to 50,1727,High school,4,48,0.23,48,720,B_Male,Employed,2017,B_Married,0,1,568.39
+Home Improvements,36,Female,C,34,Married,30 to 40,370,High school,2,60,0.22,17,1650,C_Female,Employed,2018,C_Married,0,1,1317.03
+Other Purposes,60,Male,B,44,Single,40 to 50,567,Post graduate,1,72,0.18,10,4340,B_Male,Employed,2018,B_Single,0,0,124.25
+Consolidation of Other Loans,36,Female,D,23,Single,23 to 30,383,High school,4,3,0.27,51,1800,D_Female,Employed,2018,D_Single,0,0,81.83
+Other Purposes,12,Male,C,41,Married,40 to 50,3405,Graduate,3,72,0.19,39,300,C_Male,Self-Employed,2017,C_Married,0,2,28.65
+Home Improvements,45,Female,B,48,Divorced,40 to 50,286,Graduate,2,3,0.16,18,2170,B_Female,Employed,2018,B_Divorced,0,0,70.96
+Other Purposes,24,Male,A,32,Single,30 to 40,736,Post graduate,3,72,0.12,32,1555,A_Male,Employed,2018,A_Single,0,1,76.47
+Consolidation of Other Loans,58,Male,C,28,Married,23 to 30,2105,Vocational education,2,48,0.22,16,10000,C_Male,Employed,2019,C_Married,0,0,327.21
+Home Improvements,36,Male,B,49,Divorced,40 to 50,1334,Post graduate,3,72,0.2076,38,4330,B_Male,Employed,2016,B_Divorced,0,2,2943.53
+Other Purposes,24,Male,C,28,Single,23 to 30,287,High school,2,3,0.1975,17,450,C_Male,Employed,2017,C_Single,0,0,414.89
+Consolidation of Other Loans,24,Male,C,24,Married,23 to 30,393,High school,3,18,0.24,35,1020,C_Male,Employed,2017,C_Married,0,1,844.74
+Other Purposes,12,Female,C,24,Single,23 to 30,383,High school,4,18,0.19,52,560,C_Female,Employed,2017,C_Single,0,0,53.49
+Medical expenses,12,Female,A,49,Divorced,40 to 50,450,Graduate,4,72,0.10300000000000001,49,450,A_Female,Employed,2015,A_Divorced,0,0,40.08
+Consolidation of Other Loans,18,Female,B,27,Single,23 to 30,526,Graduate,1,9,0.14,3,850,B_Female,Employed,2018,B_Single,0,0,54.95
+Consolidation of Other Loans,36,Male,C,27,Married,23 to 30,722,Vocational education,1,6,0.2646,1,2000,C_Male,Employed,2016,C_Married,0,1,1153.53
+Home Improvements,36,Female,C,30,Married,30 to 40,465,Vocational education,3,18,0.2048,28,2000,C_Female,Employed,2017,C_Married,0,2,82.12
+Other Purposes,24,Female,A,43,Divorced,40 to 50,363,Graduate,1,60,0.12,8,830,A_Female,Employed,2018,A_Divorced,0,2,40.81
+Medical expenses,36,Male,B,40,Single,40 to 50,879,Vocational education,4,60,0.22,41,1110,B_Male,Employed,2018,B_Single,0,1,46.49
+Business Purposes,36,Female,B,27,Married,23 to 30,1154,High school,1,9,0.15,1,2170,B_Female,Employed,2019,B_Married,0,2,81.49
+Other Purposes,24,Male,C,30,Single,30 to 40,601,High school,1,12,0.21,2,700,C_Male,Employed,2018,C_Single,0,1,38.41
+Other Purposes,12,Female,B,37,Married,30 to 40,419,High school,1,72,0.14,11,770,B_Female,Employed,2018,B_Married,0,1,71.24
+Other Purposes,12,Male,B,30,Single,30 to 40,435,High school,1,18,0.14,3,550,B_Male,Employed,2019,B_Single,0,1,293.21
+Consolidation of Other Loans,24,Male,C,28,Married,23 to 30,773,Graduate,1,36,0.2045,1,1400,C_Male,Employed,2016,C_Married,0,1,686.64
+Other Purposes,12,Male,B,33,Divorced,30 to 40,854,Vocational education,2,36,0.19,14,555,B_Male,Employed,2018,B_Divorced,0,2,525.12
+Home Improvements,54,Female,C,29,Single,23 to 30,192,Graduate,4,24,0.2311,41,2200,C_Female,Employed,2016,C_Single,0,0,74.78
+Consolidation of Other Loans,54,Female,B,54,Divorced,40 to 50,496,Graduate,4,72,0.1837,40,1300,B_Female,Employed,2016,B_Divorced,0,1,37.67
+Other Purposes,36,Male,B,31,Single,30 to 40,459,Vocational education,1,48,0.15,8,660,B_Male,Employed,2018,B_Single,0,1,458.08
+Other Purposes,12,Female,D,36,Married,30 to 40,591,Post graduate,3,24,0.26,30,560,D_Female,Employed,2018,D_Married,0,2,576.05
+Home Improvements,60,Male,B,56,Married,40 to 50,811,Graduate,3,48,0.18,36,4980,B_Male,Employed,2017,B_Married,0,0,142.57
+Consolidation of Other Loans,60,Male,B,27,Single,23 to 30,653,Vocational education,1,36,0.17,10,7800,B_Male,Employed,2019,B_Single,0,0,223.67
+Home Improvements,12,Male,C,28,Single,23 to 30,875,Vocational education,4,6,0.19,48,1000,C_Male,Employed,2017,C_Single,0,1,95.51
+Other Purposes,36,Female,D,22,Married,19 to 23,492,High school,3,36,0.27,33,2170,D_Female,Employed,2018,D_Married,0,1,1461.25
+Other Purposes,36,Male,C,26,Single,23 to 30,341,High school,1,60,0.21,12,555,C_Male,Employed,2019,C_Single,0,0,23.2
+Consolidation of Other Loans,36,Female,C,23,Married,23 to 30,1375,High school,1,18,0.22,11,5500,C_Female,Employed,2018,C_Married,0,0,230.36
+Other Purposes,12,Male,B,47,Divorced,40 to 50,410,Vocational education,1,72,0.14,5,550,B_Male,Employed,2019,B_Divorced,0,1,50.89
+Other Purposes,50,Male,D,28,Single,23 to 30,787,High school,4,24,0.26,52,950,D_Male,Employed,2017,D_Single,0,1,958.96
+Consolidation of Other Loans,48,Female,C,36,Single,30 to 40,771,Post graduate,4,48,0.2988,48,3000,C_Female,Employed,2015,C_Single,0,0,2785.53
+Car,24,Female,C,28,Single,23 to 30,461,Graduate,3,6,0.21,31,1650,C_Female,Employed,2017,C_Single,0,0,1349.43
+Other Purposes,24,Female,B,44,Married,40 to 50,1423,High school,4,36,0.14,46,870,B_Female,Employed,2017,B_Married,0,1,213.85
+Consolidation of Other Loans,48,Male,D,34,Married,30 to 40,663,High school,1,72,0.2388,12,3000,D_Male,Employed,2017,D_Married,0,1,2587.77
+Home Improvements,12,Male,B,35,Married,30 to 40,173,Vocational education,4,36,0.14,52,655,B_Male,Employed Part Time,2017,B_Married,0,2,60.6
+Other Purposes,58,Male,C,29,Married,23 to 30,671,Vocational education,3,72,0.23,39,2200,C_Male,Employed,2017,C_Married,0,1,1773.83
+Car,12,Male,D,23,Single,23 to 30,359,Vocational education,4,3,0.24,40,560,D_Male,Employed,2017,D_Single,0,0,575.12
+Other Purposes,12,Female,D,22,Single,19 to 23,411,High school,3,12,0.26,33,500,D_Female,Employed Part Time,2018,D_Single,0,0,49.83
+Consolidation of Other Loans,36,Female,B,32,Single,30 to 40,809,Graduate,3,36,0.15,39,2090,B_Female,Employed,2018,B_Single,0,0,78.48
+Home Improvements,58,Male,C,24,Married,23 to 30,687,High school,1,18,0.23,10,2975,C_Male,Employed,2018,C_Married,0,1,97.63
+Other Purposes,12,Female,D,26,Single,23 to 30,268,Vocational education,2,3,0.26,14,340,D_Female,Employed Part Time,2018,D_Single,0,0,299.38
+Other Purposes,39,Female,D,44,Divorced,40 to 50,431,Vocational education,3,48,0.28,30,2900,D_Female,Employed,2018,D_Divorced,0,0,2722.14
+Consolidation of Other Loans,60,Female,B,46,Divorced,40 to 50,389,Vocational education,1,36,0.168,8,3450,B_Female,Employed,2017,B_Divorced,0,0,96.39
+Home Improvements,48,Male,B,45,Married,40 to 50,1006,Vocational education,1,72,0.16,4,2170,B_Male,Employed,2019,B_Married,0,3,68.09
+Home Improvements,60,Male,B,61,Married,60+,3903,Post graduate,2,72,0.23600000000000002,24,6500,B_Male,Employed,2017,B_Married,0,0,207.75
+Consolidation of Other Loans,24,Female,B,26,Single,23 to 30,656,High school,1,9,0.1355,9,900,B_Female,Employed,2017,B_Single,0,0,90.27
+Other Purposes,12,Male,B,61,Married,60+,849,Vocational education,4,18,0.14800000000000002,48,1800,B_Male,Employed,2016,B_Married,0,0,962.04
+Home Improvements,36,Female,B,54,Divorced,40 to 50,346,High school,1,6,0.15,1,1090,B_Female,Employed,2018,B_Divorced,0,1,1086.41
+Other Purposes,27,Male,B,37,Single,30 to 40,361,High school,1,24,0.15,2,2555,B_Male,Employed Part Time,2019,B_Single,0,0,2036.27
+Consolidation of Other Loans,12,Female,B,51,Married,40 to 50,1002,Vocational education,2,24,0.14,21,1185,B_Female,Employed,2018,B_Married,0,0,530.7
+Other Purposes,47,Male,D,30,Single,30 to 40,361,Vocational education,4,3,0.28,49,1330,D_Male,Employed,2018,D_Single,0,0,53.47
+Consolidation of Other Loans,33,Female,D,25,Single,23 to 30,266,High school,1,6,0.2934,12,1920,D_Female,Employed,2016,D_Single,0,0,1268.68
+Other Purposes,12,Male,B,37,Married,30 to 40,878,Vocational education,2,60,0.14,14,330,B_Male,Employed,2018,B_Married,0,1,30.53
+Other Purposes,18,Male,D,31,Single,30 to 40,362,Vocational education,1,3,0.26,4,600,D_Male,Employed,2018,D_Single,0,0,165.47
+Other Purposes,24,Male,C,58,Divorced,40 to 50,700,Vocational education,1,48,0.1623,9,1110,C_Male,Employed,2017,C_Divorced,0,0,58.24
+Business Purposes,24,Male,B,29,Single,23 to 30,436,Graduate,3,3,0.1943,39,2170,B_Male,Employed,2016,B_Single,0,0,113.04
+Consolidation of Other Loans,36,Female,C,36,Divorced,30 to 40,343,Vocational education,3,36,0.2515,39,2650,C_Female,Employed,2016,C_Divorced,0,2,2049.52
+Consolidation of Other Loans,36,Female,D,23,Married,23 to 30,1174,High school,3,18,0.2666,29,850,D_Female,Employed,2017,D_Married,0,0,656.57
+Other Purposes,12,Female,C,35,Married,30 to 40,612,Vocational education,1,48,0.19,6,1000,C_Female,Employed,2018,C_Married,0,2,627.56
+Car,24,Male,B,26,Single,23 to 30,682,Vocational education,3,6,0.14,39,550,B_Male,Employed,2017,B_Single,0,0,306.82
+Consolidation of Other Loans,30,Male,C,31,Single,30 to 40,986,High school,4,48,0.2057,48,2350,C_Male,Employed,2016,C_Single,0,0,1404.48
+Other Purposes,24,Female,B,47,Divorced,40 to 50,573,High school,4,24,0.26,52,555,B_Female,Employed,2018,B_Divorced,0,1,481.63
+Car,58,Female,C,46,Married,40 to 50,717,Vocational education,2,24,0.22,14,4195,C_Female,Employed,2019,C_Married,0,0,137.26
+Other Purposes,3,Female,A,37,Married,30 to 40,1600,Graduate,4,60,0.21600000000000003,40,500,A_Female,Employed,2015,A_Married,0,1,173.14
+Car,30,Female,B,40,Married,40 to 50,1093,Graduate,2,48,0.1832,23,1090,B_Female,Employed,2017,B_Married,0,1,48.71
+Medical expenses,24,Female,B,48,Divorced,40 to 50,272,Vocational education,1,36,0.1252,12,500,B_Female,Employed,2017,B_Divorced,0,0,25.03
+Other Purposes,12,Female,B,51,Married,40 to 50,530,High school,3,36,0.1114,39,330,B_Female,Employed,2016,B_Married,0,1,29.65
+Other Purposes,30,Male,B,44,Married,40 to 50,1379,High school,1,15,0.15,8,6495,B_Male,Employed,2018,B_Married,0,3,279.35
+Home Improvements,18,Female,B,39,Married,30 to 40,741,Vocational education,2,60,0.14,25,2710,B_Female,Employed,2018,B_Married,0,2,2621.9
+Holidays/Travelling,24,Female,D,21,Single,19 to 23,228,High school,4,3,0.24,50,1325,D_Female,Employed,2017,D_Single,0,0,673.72
+Car,60,Male,B,34,Single,30 to 40,1294,High school,2,36,0.17,22,5435,B_Male,Employed,2019,B_Single,0,0,155.85
+Other Purposes,18,Male,C,44,Single,40 to 50,431,High school,4,3,0.21,43,340,C_Male,Employed Part Time,2017,C_Single,0,0,332.14
+Other Purposes,18,Female,D,24,Divorced,23 to 30,304,Vocational education,2,3,0.1708,19,500,D_Female,Employed,2017,D_Divorced,0,1,487.03
+Other Purposes,60,Female,C,28,Married,23 to 30,825,High school,1,3,0.2537,12,3300,C_Female,Employed,2017,C_Married,0,1,111.54
+Holidays/Travelling,36,Female,C,47,Married,40 to 50,848,Graduate,2,9,0.22,18,720,C_Female,Employed,2018,C_Married,0,1,30.16
+Other Purposes,36,Female,C,44,Married,40 to 50,657,Graduate,3,72,0.22,34,2350,C_Female,Employed,2017,C_Married,0,1,1521.81
+Other Purposes,45,Male,C,43,Married,40 to 50,599,High school,4,36,0.1781,48,340,C_Male,Employed,2016,C_Married,0,3,143.58
+Other Purposes,48,Female,D,24,Single,23 to 30,352,Vocational education,2,6,0.2647,23,2320,D_Female,Employed,2017,D_Single,0,0,90.23
+Consolidation of Other Loans,60,Female,B,50,Married,40 to 50,1800,Post graduate,1,72,0.2371,1,3570,B_Female,Employed,2016,B_Married,0,1,109.54
+Home Improvements,58,Female,C,42,Divorced,40 to 50,845,Graduate,3,72,0.23,28,1760,C_Female,Employed,2018,C_Divorced,0,1,57.76
+Holidays/Travelling,19,Female,B,49,Married,40 to 50,804,High school,3,24,0.14,34,770,B_Female,Employed,2017,B_Married,0,1,47.53
+Consolidation of Other Loans,24,Female,B,48,Divorced,40 to 50,493,Vocational education,2,3,0.1357,16,930,B_Female,Employed,2016,B_Divorced,0,2,47.1
+Holidays/Travelling,12,Male,B,45,Divorced,40 to 50,580,Graduate,2,24,0.14,19,1090,B_Male,Employed,2018,B_Divorced,0,0,100.85
+Home Improvements,60,Female,B,50,Other,40 to 50,535,High school,2,15,0.17,16,7070,B_Female,Employed,2019,B_Other,0,0,202.73
+Car,12,Male,B,33,Single,30 to 40,891,Graduate,3,48,0.14,31,550,B_Male,Employed Part Time,2017,B_Single,0,0,516.54
+Other Purposes,30,Female,D,28,Divorced,23 to 30,786,Vocational education,4,24,0.27,51,320,D_Female,Employed,2018,D_Divorced,0,1,16.22
+Car,36,Female,C,64,Other,60+,307,Graduate,3,72,0.2465,39,2750,C_Female,Employed,2016,C_Other,0,0,113.94
+Other Purposes,60,Female,C,29,Married,23 to 30,929,High school,1,6,0.2431,8,3300,C_Female,Employed,2017,C_Married,0,1,109.35
+Other Purposes,21,Male,D,20,Single,19 to 23,125,High school,3,3,0.26,32,340,D_Male,Employed Part Time,2018,D_Single,0,0,21.77
+Other Purposes,24,Male,D,29,Single,23 to 30,258,Vocational education,3,15,0.24,39,560,D_Male,Employed,2017,D_Single,0,1,32.01
+Home Improvements,60,Female,B,52,Divorced,40 to 50,326,High school,4,6,0.191,47,4000,B_Female,Employed,2016,B_Divorced,0,0,117.08
+Consolidation of Other Loans,36,Female,B,27,Married,23 to 30,800,Graduate,1,60,0.1832,4,1700,B_Female,Employed,2016,B_Married,0,0,64.8
+Other Purposes,24,Female,A,53,Divorced,40 to 50,903,Post graduate,4,72,0.12,46,1760,A_Female,Employed,2017,A_Divorced,0,0,814.69
+Home Improvements,60,Male,A,47,Married,40 to 50,1438,Post graduate,2,72,0.13,22,3810,A_Male,Employed,2019,A_Married,0,2,98.33
+Other Purposes,24,Male,D,21,Single,19 to 23,273,High school,3,3,0.26,28,340,D_Male,Employed,2018,D_Single,0,0,19.79
+Other Purposes,54,Male,C,28,Single,23 to 30,417,High school,4,72,0.2149,52,1110,C_Male,Employed,2016,C_Single,0,0,36.66
+Other Purposes,12,Male,B,28,Single,23 to 30,560,Post graduate,4,18,0.14,45,560,B_Male,Employed,2017,B_Single,0,0,481.93
+Consolidation of Other Loans,58,Female,C,32,Divorced,30 to 40,497,High school,2,72,0.23,18,3900,C_Female,Employed,2018,C_Divorced,0,1,127.99
+Consolidation of Other Loans,12,Male,D,32,Single,30 to 40,1404,Graduate,4,48,0.2128,43,1750,D_Male,Employed,2016,D_Single,0,0,170.33
+Car,12,Male,B,32,Single,30 to 40,284,Vocational education,1,60,0.14,11,1090,B_Male,Employed,2018,B_Single,0,2,100.85
+Other Purposes,36,Male,A,46,Divorced,40 to 50,947,Vocational education,2,36,0.13,26,5160,A_Male,Employed,2018,A_Divorced,0,1,4778.32
+Home Improvements,50,Female,D,48,Divorced,40 to 50,873,High school,3,6,0.26,35,8860,D_Female,Employed,2017,D_Divorced,0,0,8943.51
+Other Purposes,24,Female,B,32,Single,30 to 40,535,Graduate,2,48,0.14,16,1090,B_Female,Employed,2018,B_Single,0,0,55.35
+Home Improvements,12,Male,A,52,Divorced,40 to 50,483,Vocational education,3,72,0.15,29,1400,A_Male,Employed,2016,A_Divorced,0,0,129.31
+Other Purposes,30,Male,D,32,Divorced,30 to 40,402,High school,1,6,0.27,4,340,D_Male,Employed,2018,D_Divorced,0,2,17.23
+Other Purposes,12,Male,B,49,Single,40 to 50,1171,Vocational education,1,6,0.14,4,330,B_Male,Employed,2019,B_Single,0,0,203.61
+Consolidation of Other Loans,51,Female,C,39,Divorced,30 to 40,740,Graduate,1,72,0.2694,12,3600,C_Female,Employed,2016,C_Divorced,0,1,134.58
+Car,36,Female,B,51,Single,40 to 50,791,Vocational education,2,72,0.15,21,1630,B_Female,Employed,2018,B_Single,0,1,61.21
+Home Improvements,30,Female,D,44,Other,40 to 50,357,High school,3,6,0.25,34,670,D_Female,Employed,2017,D_Other,0,1,344.43
+Home Improvements,60,Female,B,32,Married,30 to 40,944,Graduate,2,60,0.18,23,5750,B_Female,Employed,2018,B_Married,0,2,164.62
+Other Purposes,31,Female,B,45,Married,40 to 50,1180,Post graduate,1,24,0.15,13,660,B_Female,Employed,2018,B_Married,0,0,27.69
+Other Purposes,36,Female,B,35,Single,30 to 40,348,High school,2,6,0.15,16,765,B_Female,Employed,2018,B_Single,0,1,28.73
+Home Improvements,48,Female,B,46,Divorced,40 to 50,361,High school,2,72,0.16,23,550,B_Female,Employed,2018,B_Divorced,0,2,545.01
+Consolidation of Other Loans,47,Male,D,24,Single,23 to 30,478,High school,1,6,0.28,5,4350,D_Male,Employed,2018,D_Single,0,0,174.88
+Other Purposes,24,Female,D,32,Divorced,30 to 40,748,Vocational education,3,72,0.26,33,2000,D_Female,Employed,2018,D_Divorced,0,3,116.41
+Medical expenses,12,Female,D,45,Divorced,40 to 50,422,Vocational education,1,6,0.26,4,560,D_Female,Employed,2019,D_Divorced,0,0,576.05
+Other Purposes,60,Male,B,28,Single,23 to 30,362,High school,4,72,0.18,45,5000,B_Male,Employed,2018,B_Single,0,0,4961.25
+Car,39,Male,C,53,Married,40 to 50,1750,Graduate,4,72,0.203,47,1650,C_Male,Employed,2016,C_Married,0,1,64.23
+Car,60,Female,B,33,Divorced,30 to 40,653,Post graduate,2,60,0.2069,21,4330,B_Female,Employed,2017,B_Divorced,0,1,130.8
+Car,30,Male,D,24,Single,23 to 30,514,High school,4,48,0.27,46,2755,D_Male,Employed,2018,D_Single,0,0,139.65
+Consolidation of Other Loans,30,Female,D,37,Single,30 to 40,398,High school,1,15,0.3149,7,2140,D_Female,Employed,2016,D_Single,0,0,2122.46
+Consolidation of Other Loans,16,Female,B,44,Single,40 to 50,571,High school,2,9,0.13,14,800,B_Female,Employed,2019,B_Single,0,1,57.31
+Consolidation of Other Loans,27,Female,D,41,Single,40 to 50,322,High school,3,24,0.2546,36,1450,D_Female,Employed,2016,D_Single,0,1,1248.98
+Other Purposes,12,Female,B,28,Married,23 to 30,684,Vocational education,4,12,0.14,47,500,B_Female,Employed,2017,B_Married,0,1,91.77
+Home Improvements,12,Female,B,60,Divorced,60+,350,Vocational education,4,9,0.14,52,600,B_Female,Employed,2018,B_Divorced,0,0,55.51
+Home Improvements,47,Male,D,38,Single,30 to 40,620,Vocational education,3,6,0.28,38,2210,D_Male,Employed,2018,D_Single,0,0,2048.41
+Other Purposes,24,Female,C,53,Divorced,40 to 50,637,Vocational education,2,72,0.21,21,800,C_Female,Employed,2018,C_Divorced,0,0,43.89
+Home Improvements,12,Female,C,46,Divorced,40 to 50,261,High school,1,9,0.1432,6,780,C_Female,Employed Part Time,2017,C_Divorced,0,2,72.73
+Car,24,Male,B,44,Single,40 to 50,464,High school,3,12,0.14,30,1960,B_Male,Employed,2018,B_Single,0,1,99.53
+Other Purposes,58,Male,C,23,Single,23 to 30,228,High school,3,3,0.23,29,2750,C_Male,Employed,2018,C_Single,0,0,90.25
+Other Purposes,12,Male,B,42,Married,40 to 50,1888,Vocational education,2,48,0.13,14,335,B_Male,Employed,2019,B_Married,0,1,234.38
+Consolidation of Other Loans,48,Male,C,35,Married,30 to 40,671,High school,2,9,0.22,21,3150,C_Male,Employed,2019,C_Married,0,1,113.05
+Other Purposes,24,Female,A,65,Married,60+,267,Graduate,3,3,0.1058,28,530,A_Female,Employed Part Time,2017,A_Married,0,0,25.7
+Other Purposes,24,Male,B,40,Divorced,40 to 50,448,Vocational education,2,6,0.14,14,655,B_Male,Employed,2018,B_Divorced,0,1,309.38
+Home Improvements,36,Female,C,33,Single,30 to 40,398,Vocational education,4,15,0.22,51,2965,C_Female,Employed,2018,C_Single,0,1,124.19
+Other Purposes,45,Female,B,40,Divorced,40 to 50,590,High school,4,60,0.16,46,1000,B_Female,Employed,2018,B_Divorced,0,1,32.7
+Consolidation of Other Loans,12,Female,D,57,Divorced,40 to 50,525,Graduate,3,6,0.2584,29,1300,D_Female,Employed Part Time,2016,D_Divorced,0,0,129.46
+Other Purposes,12,Male,D,23,Single,23 to 30,355,High school,1,6,0.1794,11,560,D_Male,Employed,2017,D_Single,0,0,530.08
+Car,58,Male,C,28,Divorced,23 to 30,479,High school,3,3,0.23,28,3295,C_Male,Employed,2018,C_Divorced,0,1,108.14
+Home Improvements,12,Female,B,48,Married,40 to 50,365,Graduate,4,3,0.14,48,330,B_Female,Employed,2017,B_Married,0,2,60.58
+Consolidation of Other Loans,12,Male,D,34,Single,30 to 40,670,High school,3,9,0.3439,34,2700,D_Male,Employed,2015,D_Single,0,0,276.74
+Other Purposes,18,Female,D,23,Single,23 to 30,274,Vocational education,2,3,0.26,26,1110,D_Female,Employed,2018,D_Single,0,0,79.8
+Other Purposes,30,Male,D,39,Single,30 to 40,450,High school,4,12,0.27,46,3500,D_Male,Employed,2018,D_Single,0,3,177.42
+Other Purposes,60,Female,A,47,Divorced,40 to 50,1026,Post graduate,2,72,0.13,15,4220,A_Female,Employed,2019,A_Divorced,0,0,108.91
+Consolidation of Other Loans,18,Male,B,53,Married,40 to 50,2140,Graduate,2,72,0.1691,22,1260,B_Male,Employed,2016,B_Married,0,0,969.8
+Home Improvements,48,Female,D,28,Married,23 to 30,642,High school,2,3,0.27899999999999997,21,4720,D_Female,Employed,2017,D_Married,0,1,187.67
+Other Purposes,18,Male,D,33,Married,30 to 40,431,High school,4,3,0.24,50,555,D_Male,Employed,2017,D_Married,0,2,39.34
+Consolidation of Other Loans,48,Female,B,33,Divorced,30 to 40,842,Post graduate,1,72,0.16,2,2550,B_Female,Employed,2019,B_Divorced,0,0,80.01
+Consolidation of Other Loans,60,Male,C,56,Married,40 to 50,1300,Graduate,3,72,0.3426,40,3000,C_Male,Employed,2015,C_Married,0,0,116.1
+Business Purposes,30,Female,C,41,Married,40 to 50,1933,Vocational education,1,60,0.203,4,3840,C_Female,Self-Employed,2017,C_Married,0,0,3441.91
+Other Purposes,47,Female,C,25,Single,23 to 30,378,High school,4,24,0.28,50,560,C_Female,Employed,2018,C_Single,0,0,526.29
+Holidays/Travelling,18,Male,B,59,Married,40 to 50,432,High school,2,60,0.1451,16,1760,B_Male,Employed,2017,B_Married,0,0,114.21
+Home Improvements,24,Male,B,49,Married,40 to 50,894,Vocational education,4,12,0.14,40,2170,B_Male,Employed,2017,B_Married,0,0,1118.52
+Other Purposes,28,Male,D,31,Married,30 to 40,923,Vocational education,4,12,0.25,50,885,D_Male,Employed,2017,D_Married,0,1,45.92
+Other Purposes,36,Female,A,46,Divorced,40 to 50,771,High school,1,36,0.13,1,1560,A_Female,Employed,2018,A_Divorced,0,0,55.96
+Home Improvements,18,Female,D,33,Single,30 to 40,535,Vocational education,1,48,0.26,2,340,D_Female,Employed,2018,D_Single,0,0,93.74
+Other Purposes,12,Male,B,49,Married,40 to 50,623,Vocational education,3,60,0.14,34,1440,B_Male,Employed,2017,B_Married,0,0,133.23
+Home Improvements,48,Male,C,47,Married,40 to 50,1736,High school,2,18,0.2768,15,3480,C_Male,Employed,2016,C_Married,0,1,135.34
+Other Purposes,36,Female,D,26,Single,23 to 30,322,Vocational education,2,3,0.26899999999999996,19,1660,D_Female,Employed,2017,D_Single,0,2,1624.43
+Other Purposes,30,Male,B,40,Single,40 to 50,1536,Vocational education,3,72,0.15,27,870,B_Male,Employed,2018,B_Single,0,2,742.47
+Home Improvements,36,Female,B,38,Single,30 to 40,690,High school,2,72,0.14,14,3265,B_Female,Employed,2019,B_Single,0,1,122.74
+Other Purposes,24,Male,B,45,Married,40 to 50,904,Vocational education,3,24,0.14,27,3860,B_Male,Employed,2018,B_Married,0,2,3227.89
+Other Purposes,60,Male,A,52,Divorced,40 to 50,464,Vocational education,2,72,0.13,14,1500,A_Male,Employed,2019,A_Divorced,0,0,1459.98
+Other Purposes,12,Male,C,33,Single,30 to 40,955,Graduate,4,72,0.19,41,775,C_Male,Employed,2018,C_Single,0,0,74.02
+Car,24,Male,C,21,Single,19 to 23,320,High school,2,3,0.1895,16,1090,C_Male,Employed,2017,C_Single,0,0,333.95
+Home Improvements,18,Female,A,45,Single,40 to 50,935,Graduate,4,18,0.12,42,3100,A_Female,Employed,2018,A_Single,0,1,2345.29
+Other Purposes,15,Female,D,30,Married,30 to 40,391,High school,4,12,0.24,41,340,D_Female,Employed,2017,D_Married,0,2,329.99
+Other Purposes,47,Female,C,32,Married,30 to 40,675,High school,4,18,0.28,41,300,C_Female,Employed,2018,C_Married,0,2,12.06
+Consolidation of Other Loans,48,Male,C,29,Married,23 to 30,789,Graduate,1,3,0.23,1,2200,C_Male,Employed,2018,C_Married,0,0,79.16
+Consolidation of Other Loans,21,Male,C,25,Single,23 to 30,618,High school,4,6,0.2642,42,850,C_Male,Employed,2015,C_Single,0,0,595.69
+Other Purposes,12,Male,D,39,Married,30 to 40,463,Vocational education,2,24,0.26,24,340,D_Male,Employed,2018,D_Married,0,2,33.89
+Other Purposes,48,Male,C,32,Married,30 to 40,967,Vocational education,1,60,0.23,13,1210,C_Male,Employed,2018,C_Married,0,0,1137.1
+Other Purposes,24,Female,B,32,Single,30 to 40,350,Vocational education,1,24,0.14,8,2170,B_Female,Employed,2018,B_Single,0,0,110.19
+Other Purposes,36,Male,B,47,Married,40 to 50,924,Graduate,4,72,0.15,50,1000,B_Male,Employed,2018,B_Married,0,0,37.55
+Car,24,Male,B,25,Single,23 to 30,583,Vocational education,2,9,0.1893,19,4330,B_Male,Employed,2017,B_Single,0,0,3824.07
+Consolidation of Other Loans,36,Female,C,43,Married,40 to 50,2169,Post graduate,4,72,0.22,42,3950,C_Female,Employed,2017,C_Married,0,2,165.44
+Consolidation of Other Loans,36,Female,B,56,Single,40 to 50,730,High school,2,72,0.2017,18,6050,B_Female,Employed,2017,B_Single,0,0,5450.85
+Home Improvements,24,Female,B,36,Married,30 to 40,1008,Vocational education,2,24,0.14,20,1200,B_Female,Employed,2018,B_Married,0,2,60.93
+Consolidation of Other Loans,48,Female,B,46,Divorced,40 to 50,429,High school,1,72,0.2099,5,4000,B_Female,Employed,2017,B_Divorced,0,1,2678.22
+Car,36,Male,B,30,Single,30 to 40,377,High school,3,3,0.15,31,1630,B_Male,Employed,2017,B_Single,0,0,61.21
+Other Purposes,45,Male,D,28,Single,23 to 30,414,Vocational education,4,24,0.3135,42,3000,D_Male,Employed,2016,D_Single,0,0,129.18
+Home Improvements,48,Male,B,42,Divorced,40 to 50,502,High school,3,72,0.16,36,2170,B_Male,Employed,2018,B_Divorced,0,0,68.09
+Other Purposes,12,Male,C,51,Married,40 to 50,1055,Vocational education,4,12,0.19,51,1000,C_Male,Employed,2018,C_Married,0,1,627.56
+Other Purposes,24,Male,B,29,Single,23 to 30,441,High school,4,18,0.14,46,1630,B_Male,Employed,2017,B_Single,0,0,82.77
+Other Purposes,12,Female,B,61,Other,60+,361,High school,1,6,0.14,6,550,B_Female,Employed,2019,B_Other,0,0,50.89
+Holidays/Travelling,36,Female,C,31,Single,30 to 40,450,Vocational education,2,3,0.22,14,3840,C_Female,Employed,2018,C_Single,0,1,160.83
+Other Purposes,15,Female,B,45,Divorced,40 to 50,585,Vocational education,2,72,0.14,22,660,B_Female,Self-Employed,2018,B_Divorced,0,0,50.02
+Consolidation of Other Loans,58,Male,C,41,Divorced,40 to 50,498,High school,4,48,0.23,48,5780,C_Male,Employed,2018,C_Divorced,0,0,189.69
+Consolidation of Other Loans,48,Male,D,28,Single,23 to 30,679,High school,3,12,0.2872,38,3300,D_Male,Employed,2016,D_Single,0,0,2227.27
+Consolidation of Other Loans,60,Male,B,43,Married,40 to 50,636,High school,3,3,0.18,29,2250,B_Male,Employed,2018,B_Married,0,0,64.41
+Consolidation of Other Loans,45,Female,D,38,Married,30 to 40,3438,Vocational education,2,72,0.2425,16,5650,D_Female,Employed,2017,D_Married,0,1,5523.39
+Other Purposes,24,Male,A,57,Married,40 to 50,1114,Vocational education,3,72,0.12,38,3620,A_Male,Employed,2018,A_Married,0,0,178.01
+Consolidation of Other Loans,45,Male,D,24,Single,23 to 30,317,Vocational education,4,6,0.2604,51,1050,D_Male,Employed,2016,D_Single,0,0,41.85
+Other Purposes,12,Female,C,62,Married,60+,738,Graduate,1,12,0.19,7,665,C_Female,Employed,2018,C_Married,0,0,63.51
+Consolidation of Other Loans,40,Female,C,43,Divorced,40 to 50,476,Graduate,3,3,0.23,37,3300,C_Female,Employed,2018,C_Divorced,0,1,131.39
+Other Purposes,12,Male,B,37,Married,30 to 40,1043,Vocational education,2,36,0.13,22,300,B_Male,Employed,2019,B_Married,0,2,27.77
+Car,30,Female,B,26,Single,23 to 30,283,Vocational education,2,3,0.15,18,2170,B_Female,Employed,2018,B_Single,0,0,93.33
+Medical expenses,24,Female,D,26,Single,23 to 30,444,High school,3,12,0.26,39,340,D_Female,Employed,2018,D_Single,0,1,270.91
+Consolidation of Other Loans,36,Female,B,44,Married,40 to 50,822,Vocational education,2,60,0.1856,25,1300,B_Female,Employed,2016,B_Married,0,1,51.33
+Consolidation of Other Loans,39,Female,C,50,Married,40 to 50,731,Graduate,2,72,0.2085,14,900,C_Female,Employed,2016,C_Married,0,0,875.8
+Car,27,Female,D,27,Single,23 to 30,336,Graduate,3,3,0.27,32,1770,D_Female,Employed,2018,D_Single,0,1,96.01
+Consolidation of Other Loans,35,Male,C,44,Single,40 to 50,634,Vocational education,2,72,0.22,18,3500,C_Male,Employed,2018,C_Single,0,1,149.24
+Other Purposes,24,Female,B,52,Divorced,40 to 50,1045,Graduate,4,72,0.1262,48,600,B_Female,Employed,2016,B_Divorced,0,1,453.85
+Consolidation of Other Loans,54,Female,C,62,Divorced,60+,639,Vocational education,4,72,0.2366,49,3450,C_Female,Employed,2016,C_Divorced,0,0,3506.88
+Other Purposes,12,Male,C,24,Single,23 to 30,524,Vocational education,1,18,0.19,12,335,C_Male,Employed,2019,C_Single,0,0,32.13
+Car,60,Male,B,48,Single,40 to 50,2181,Vocational education,1,6,0.17,12,9785,B_Male,Employed,2019,B_Single,0,2,280.59
+Other Purposes,24,Female,D,36,Single,30 to 40,354,High school,2,6,0.21,24,500,D_Female,Employed,2018,D_Single,0,4,511.65
+Consolidation of Other Loans,12,Male,D,26,Single,23 to 30,369,High school,4,48,0.24,42,850,D_Male,Employed,2017,D_Single,0,0,83.87
+Other Purposes,47,Male,D,22,Single,19 to 23,341,High school,4,3,0.28,43,3310,D_Male,Employed,2018,D_Single,0,0,133.07
+Other Purposes,12,Male,D,34,Single,30 to 40,419,Vocational education,4,9,0.24,51,560,D_Male,Employed,2017,D_Single,0,1,55.26
+Consolidation of Other Loans,34,Female,B,47,Divorced,40 to 50,370,Vocational education,4,36,0.15,42,1500,B_Female,Employed,2018,B_Divorced,0,0,1424.18
+Car,24,Male,C,33,Single,30 to 40,326,Vocational education,3,6,0.21,31,2310,C_Male,Employed,2017,C_Single,0,0,489.92
+Other Purposes,58,Female,C,50,Married,40 to 50,671,Vocational education,2,15,0.22,14,3525,C_Female,Employed,2019,C_Married,0,0,115.34
+Car,22,Female,D,27,Single,23 to 30,426,Vocational education,2,24,0.26,20,1660,D_Female,Employed,2018,D_Single,0,0,102.77
+Home Improvements,24,Male,C,22,Single,19 to 23,382,High school,1,6,0.1654,11,1110,C_Male,Employed,2017,C_Single,0,0,58.41
+Consolidation of Other Loans,30,Female,C,39,Married,30 to 40,1081,Graduate,1,3,0.21,11,3500,C_Female,Employed,2019,C_Married,0,0,165.0
+Other Purposes,36,Male,D,32,Married,30 to 40,811,High school,2,12,0.27,24,1875,D_Male,Employed,2018,D_Married,0,0,85.24
+Medical expenses,24,Female,C,42,Married,40 to 50,1068,Graduate,3,72,0.21,36,1650,C_Female,Employed,2017,C_Married,0,2,265.45
+Home Improvements,60,Female,B,38,Divorced,30 to 40,592,High school,1,72,0.18,13,8120,B_Female,Employed,2018,B_Divorced,0,1,232.47
+Other Purposes,18,Male,D,35,Single,30 to 40,474,High school,2,6,0.26,20,560,D_Male,Employed,2018,D_Single,0,2,40.26
+Other Purposes,12,Male,D,37,Married,30 to 40,982,Vocational education,4,15,0.26,50,1105,D_Male,Employed,2018,D_Married,0,2,1055.98
+Holidays/Travelling,24,Male,B,34,Married,30 to 40,364,High school,2,12,0.1293,23,550,B_Male,Employed,2017,B_Married,0,1,108.06
+Other Purposes,12,Female,A,39,Married,30 to 40,1405,Graduate,1,36,0.14,11,1800,A_Female,Employed,2018,A_Married,0,1,166.54
+Holidays/Travelling,24,Male,D,28,Single,23 to 30,701,Post graduate,3,9,0.24,30,400,D_Male,Employed,2017,D_Single,0,0,385.69
+Other Purposes,47,Female,D,39,Married,30 to 40,1183,High school,4,12,0.28,43,2205,D_Female,Employed,2018,D_Married,0,1,88.65
+Other Purposes,12,Female,C,35,Married,30 to 40,450,High school,1,36,0.19,9,555,C_Female,Employed,2019,C_Married,0,3,53.24
+Other Purposes,24,Female,B,29,Divorced,23 to 30,1242,Post graduate,4,24,0.14,45,2170,B_Female,Employed,2017,B_Divorced,0,1,110.19
+Other Purposes,12,Male,B,44,Married,40 to 50,511,High school,2,9,0.13,18,550,B_Male,Employed,2019,B_Married,0,1,473.38
+Other Purposes,18,Female,B,62,Married,60+,567,Post graduate,3,72,0.14,38,1000,B_Female,Employed,2018,B_Married,0,0,64.65
+Other Purposes,60,Male,C,38,Married,30 to 40,1310,Vocational education,3,72,0.18,28,870,C_Male,Employed,2018,C_Married,0,1,863.26
+Car,54,Female,C,26,Single,23 to 30,546,Graduate,2,15,0.2734,26,4920,C_Female,Employed,2017,C_Single,0,0,179.9
+Holidays/Travelling,27,Female,C,30,Married,30 to 40,869,Graduate,2,15,0.22,21,1320,C_Female,Employed,2018,C_Married,0,1,67.1
+Car,17,Male,C,44,Married,40 to 50,438,High school,4,3,0.21,41,1105,C_Male,Employed,2017,C_Married,0,1,79.47
+Other Purposes,24,Female,C,39,Other,30 to 40,289,High school,4,6,0.21,49,1650,C_Female,Employed,2017,C_Other,0,2,90.53
+Home Improvements,36,Male,B,43,Married,40 to 50,2610,Graduate,4,72,0.15,41,1630,B_Male,Employed,2018,B_Married,0,3,61.21
+Other Purposes,12,Female,A,52,Other,40 to 50,557,High school,4,72,0.12,50,1500,A_Female,Employed,2018,A_Other,0,0,136.41
+Consolidation of Other Loans,24,Male,D,24,Single,23 to 30,540,High school,3,15,0.2649,39,2300,D_Male,Employed,2016,D_Single,0,0,1895.67
+Car,24,Male,B,25,Single,23 to 30,354,Graduate,3,3,0.14,38,1200,B_Male,Employed,2017,B_Single,0,0,60.93
+Other Purposes,12,Male,C,26,Single,23 to 30,334,High school,1,3,0.19,3,300,C_Male,Employed,2018,C_Single,0,0,306.49
+Consolidation of Other Loans,12,Male,D,25,Single,23 to 30,267,High school,2,3,0.26,19,680,D_Male,Employed,2018,D_Single,0,0,67.77
+Consolidation of Other Loans,24,Male,B,45,Married,40 to 50,473,High school,2,48,0.1691,20,1560,B_Male,Employed,2016,B_Married,0,1,81.57
+Car,12,Male,B,25,Single,23 to 30,793,High school,4,60,0.14,52,355,B_Male,Employed,2018,B_Single,0,0,32.84
+Other Purposes,12,Female,A,49,Divorced,40 to 50,651,Post graduate,1,72,0.12,4,320,A_Female,Employed,2018,A_Divorced,0,1,29.1
+Other Purposes,12,Male,B,34,Single,30 to 40,473,High school,2,36,0.2028,25,1110,B_Male,Employed,2017,B_Single,0,0,106.71
+Other Purposes,30,Male,B,28,Single,23 to 30,647,High school,2,36,0.15,22,1500,B_Male,Employed,2018,B_Single,0,0,64.51
+Other Purposes,12,Female,D,20,Single,19 to 23,353,High school,1,6,0.25,11,445,D_Female,Employed,2019,D_Single,0,0,44.39
+Consolidation of Other Loans,36,Male,B,61,Divorced,60+,513,High school,1,9,0.15,3,2650,B_Male,Employed,2019,B_Divorced,0,0,99.51
+Consolidation of Other Loans,48,Female,B,59,Married,40 to 50,972,High school,2,36,0.15,22,6695,B_Female,Employed,2019,B_Married,0,0,210.35
+Other Purposes,60,Male,A,54,Married,40 to 50,985,High school,1,72,0.1429,1,5990,A_Male,Employed,2017,A_Married,0,0,154.5
+Car,29,Male,C,35,Married,30 to 40,464,High school,2,9,0.22,21,600,C_Male,Employed,2018,C_Married,0,4,29.01
+Consolidation of Other Loans,60,Male,B,48,Married,40 to 50,1614,Vocational education,3,72,0.18,39,6400,B_Male,Employed,2017,B_Married,0,2,183.22
+Other Purposes,18,Female,C,60,Divorced,60+,678,High school,4,72,0.1726,50,1110,C_Female,Employed,2016,C_Divorced,0,0,74.16
+Home Improvements,15,Female,B,50,Married,40 to 50,473,Vocational education,3,6,0.14,30,1090,B_Female,Employed,2017,B_Married,0,0,82.6
+Car,6,Male,B,26,Single,23 to 30,484,Graduate,1,12,0.0681,1,300,B_Male,Employed,2016,B_Single,0,0,302.59
+Other Purposes,24,Female,B,60,Other,60+,575,Graduate,3,72,0.14,27,550,B_Female,Employed,2018,B_Other,0,0,27.93
+Other Purposes,58,Male,C,33,Married,30 to 40,1029,High school,1,12,0.23,9,4390,C_Male,Employed,2018,C_Married,0,1,144.07
+Consolidation of Other Loans,24,Female,C,27,Single,23 to 30,1136,Graduate,4,15,0.21,45,2430,C_Female,Employed,2017,C_Single,0,0,636.97
+Other Purposes,24,Female,B,39,Married,30 to 40,562,High school,3,24,0.14,39,925,B_Female,Employed,2018,B_Married,0,0,46.97
+Car,39,Female,B,28,Single,23 to 30,303,Graduate,3,3,0.1908,28,2170,B_Female,Employed,2017,B_Single,0,0,81.63
+Other Purposes,12,Female,B,32,Single,30 to 40,423,Graduate,1,24,0.0951,11,380,B_Female,Employed,2017,B_Single,0,0,34.35
+Other Purposes,12,Female,C,30,Single,30 to 40,543,High school,1,24,0.1515,5,1080,C_Female,Employed,2017,C_Single,0,0,932.89
+Home Improvements,36,Male,C,26,Single,23 to 30,600,High school,4,12,0.3449,44,2400,C_Male,Employed,2015,C_Single,0,0,2197.24
+Other Purposes,18,Male,C,44,Married,40 to 50,680,High school,4,48,0.1568,44,780,C_Male,Employed,2016,C_Married,0,0,51.51
+Consolidation of Other Loans,48,Female,C,33,Married,30 to 40,514,High school,2,15,0.23,14,1320,C_Female,Employed,2018,C_Married,0,2,1257.76
+Other Purposes,12,Female,C,21,Single,19 to 23,487,High school,1,3,0.19,11,335,C_Female,Employed,2019,C_Single,0,0,32.13
+Other Purposes,30,Female,B,26,Single,23 to 30,335,Vocational education,3,36,0.22,32,1650,B_Female,Employed,2017,B_Single,0,0,77.92
+Home Improvements,15,Female,B,48,Married,40 to 50,408,High school,3,15,0.14,32,440,B_Female,Employed,2018,B_Married,0,0,33.34
+Other Purposes,12,Male,B,31,Single,30 to 40,654,Vocational education,3,3,0.14,27,550,B_Male,Employed,2018,B_Single,0,0,516.54
+Consolidation of Other Loans,42,Male,D,28,Single,23 to 30,647,High school,1,24,0.3211,9,3260,D_Male,Employed,2016,D_Single,0,0,147.0
+Other Purposes,45,Female,C,30,Divorced,30 to 40,556,High school,1,18,0.2126,11,4000,C_Female,Employed,2017,C_Divorced,0,1,145.02
+Home Improvements,30,Female,D,33,Divorced,30 to 40,488,Vocational education,1,9,0.27,12,340,D_Female,Employed,2018,D_Divorced,0,1,327.11
+Other Purposes,12,Male,B,49,Married,40 to 50,772,Vocational education,1,24,0.0983,4,330,B_Male,Employed,2017,B_Married,0,0,29.88
+Consolidation of Other Loans,47,Male,D,22,Single,19 to 23,1149,Vocational education,1,15,0.27,7,7680,D_Male,Employed,2019,D_Single,0,0,7673.79
+Consolidation of Other Loans,51,Female,C,66,Married,60+,1177,Vocational education,2,72,0.2803,16,5850,C_Female,Employed,2016,C_Married,0,0,5848.69
+Car,24,Male,A,51,Married,40 to 50,981,Vocational education,1,72,0.12,10,1245,A_Male,Employed,2018,A_Married,0,0,61.22
+Consolidation of Other Loans,36,Female,B,41,Married,40 to 50,587,High school,1,72,0.15,2,3040,B_Female,Employed,2019,B_Married,0,1,114.16
+Other Purposes,15,Female,B,32,Married,30 to 40,874,Vocational education,1,36,0.1561,5,1110,B_Female,Employed,2017,B_Married,0,1,169.67
+Other Purposes,55,Male,C,23,Single,23 to 30,410,High school,2,9,0.23,14,1870,C_Male,Employed,2018,C_Single,0,0,62.89
+Other Purposes,12,Female,C,30,Married,30 to 40,590,Graduate,3,48,0.19,31,560,C_Female,Employed,2018,C_Married,0,2,53.49
+Other Purposes,12,Male,C,50,Married,40 to 50,1215,Vocational education,1,12,0.19,8,560,C_Male,Employed,2018,C_Married,0,0,53.49
+Other Purposes,24,Male,B,48,Divorced,40 to 50,646,High school,1,72,0.131,7,660,B_Male,Employed,2017,B_Divorced,0,0,33.22
+Car,12,Female,C,26,Single,23 to 30,371,Post graduate,3,12,0.1942,30,600,C_Female,Employed,2016,C_Single,0,0,57.43
+Other Purposes,24,Male,B,57,Divorced,40 to 50,296,High school,3,3,0.14,38,550,B_Male,Employed,2017,B_Divorced,0,0,27.93
+Consolidation of Other Loans,48,Female,C,35,Single,30 to 40,330,High school,2,24,0.2556,15,3000,C_Female,Employed,2016,C_Single,0,2,2404.6
+Consolidation of Other Loans,60,Female,B,44,Single,40 to 50,400,Graduate,4,72,0.18,43,4800,B_Female,Employed,2018,B_Single,0,0,137.42
+Home Improvements,12,Female,A,44,Married,40 to 50,660,Graduate,4,72,0.1312,49,1500,A_Female,Employed,2015,A_Married,0,1,135.6
+Consolidation of Other Loans,50,Male,D,37,Married,30 to 40,673,Vocational education,4,36,0.26,50,1660,D_Male,Employed,2017,D_Married,0,2,62.89
+Other Purposes,36,Female,C,25,Single,23 to 30,352,Vocational education,3,9,0.2387,28,1650,C_Female,Employed,2016,C_Single,0,0,207.1
+Other Purposes,12,Male,B,44,Divorced,40 to 50,765,Graduate,3,6,0.14,38,660,B_Male,Employed,2017,B_Divorced,0,1,61.06
+Other Purposes,30,Male,C,36,Divorced,30 to 40,400,Vocational education,3,15,0.22,30,780,C_Male,Employed,2018,C_Divorced,0,0,36.84
+Consolidation of Other Loans,36,Male,C,30,Single,30 to 40,614,High school,4,60,0.2132,48,2000,C_Male,Employed,2016,C_Single,0,2,83.03
+Consolidation of Other Loans,60,Female,B,45,Married,40 to 50,798,High school,2,72,0.18,19,3050,B_Female,Employed,2018,B_Married,0,0,2874.87
+Consolidation of Other Loans,60,Male,B,29,Married,23 to 30,964,Vocational education,3,48,0.18,38,5770,B_Male,Employed,2018,B_Married,0,1,5613.99
+Other Purposes,24,Female,B,31,Single,30 to 40,693,High school,1,48,0.14,9,1150,B_Female,Employed,2018,B_Single,0,0,641.55
+Car,42,Female,B,58,Married,40 to 50,360,Vocational education,3,18,0.16,37,1630,B_Female,Employed,2017,B_Married,0,0,55.78
+Business Purposes,30,Male,D,53,Single,40 to 50,2762,Vocational education,2,72,0.2821,25,3310,D_Male,Employed,2016,D_Single,0,0,170.59
+Other Purposes,15,Female,A,39,Single,30 to 40,1134,Post graduate,4,72,0.1362,51,2400,A_Female,Employed,2015,A_Single,0,0,177.37
+Other Purposes,24,Male,B,44,Single,40 to 50,381,High school,1,72,0.13,9,335,B_Male,Employed,2019,B_Single,0,1,340.54
+Other Purposes,36,Female,A,54,Divorced,40 to 50,259,High school,3,72,0.15,35,2000,A_Female,Employed Part Time,2017,A_Divorced,0,0,1637.04
+Other Purposes,36,Female,B,39,Single,30 to 40,439,High school,2,3,0.1643,23,2170,B_Female,Employed,2017,B_Single,0,0,1461.68
+Other Purposes,12,Male,D,30,Single,30 to 40,468,High school,2,6,0.26,19,340,D_Male,Employed,2018,D_Single,0,0,304.23
+Consolidation of Other Loans,36,Male,B,40,Single,40 to 50,1657,Vocational education,1,72,0.15,3,1650,B_Male,Employed,2019,B_Single,0,2,61.96
+Other Purposes,24,Male,A,69,Married,60+,1106,Post graduate,1,36,0.12,12,4130,A_Male,Employed,2018,A_Married,0,0,203.09
+Home Improvements,12,Female,A,46,Other,40 to 50,544,High school,2,36,0.19,19,1650,A_Female,Employed,2018,A_Other,0,0,157.59
+Home Improvements,30,Female,B,65,Divorced,60+,659,Vocational education,3,9,0.15,36,3250,B_Female,Employed,2018,B_Divorced,0,0,139.78
+Other Purposes,24,Female,B,48,Married,40 to 50,1716,Graduate,3,72,0.1645,37,1310,B_Female,Employed,2016,B_Married,0,0,390.46
+Consolidation of Other Loans,36,Male,D,33,Single,30 to 40,275,High school,2,18,0.2504,23,2100,D_Male,Employed,2017,D_Single,0,0,93.15
+Car,36,Male,D,23,Single,23 to 30,520,Vocational education,2,6,0.27,22,3850,D_Male,Employed,2018,D_Single,0,0,175.03
+Medical expenses,24,Female,D,51,Divorced,40 to 50,534,Vocational education,2,12,0.25,22,780,D_Female,Employed,2019,D_Divorced,0,2,45.48
+Other Purposes,24,Male,D,32,Single,30 to 40,585,Vocational education,3,6,0.26,28,1100,D_Male,Employed,2018,D_Single,0,0,64.02
+Car,60,Male,B,25,Single,23 to 30,792,Vocational education,2,48,0.18,18,8380,B_Male,Employed,2018,B_Single,0,0,239.91
+Consolidation of Other Loans,36,Female,B,49,Married,40 to 50,1104,Vocational education,4,72,0.15,48,2200,B_Female,Self-Employed,2017,B_Married,0,1,82.61
+Consolidation of Other Loans,60,Female,C,34,Divorced,30 to 40,570,Graduate,4,9,0.23,43,2245,C_Female,Employed,2018,C_Divorced,0,1,72.58
+Other Purposes,15,Female,B,34,Single,30 to 40,522,Vocational education,2,72,0.156,26,550,B_Female,Employed,2017,B_Single,0,2,42.1
+Car,24,Female,B,34,Married,30 to 40,560,High school,1,6,0.1523,1,1650,B_Female,Employed,2017,B_Married,0,2,85.76
+Other Purposes,15,Male,D,30,Married,30 to 40,1229,High school,4,6,0.26,1,340,D_Male,Employed,2018,D_Married,0,1,28.21
+Car,36,Female,B,35,Single,30 to 40,395,Vocational education,2,60,0.15,25,2060,B_Female,Employed,2018,B_Single,0,1,77.36
+Medical expenses,47,Male,D,42,Married,40 to 50,771,Vocational education,1,12,0.28,8,2850,D_Male,Employed,2018,D_Married,0,1,114.58
+Home Improvements,30,Male,A,43,Married,40 to 50,727,Graduate,2,72,0.13,19,5160,A_Male,Employed,2018,A_Married,0,1,3240.99
+Other Purposes,24,Male,A,46,Married,40 to 50,1094,Vocational education,2,72,0.12,23,2070,A_Male,Employed,2018,A_Married,0,0,101.79
+Medical expenses,30,Female,A,36,Married,30 to 40,2760,Post graduate,2,36,0.13,23,3100,A_Female,Employed,2018,A_Married,0,2,128.23
+Consolidation of Other Loans,39,Male,C,21,Single,19 to 23,337,Vocational education,2,6,0.2104,14,3000,C_Male,Employed,2017,C_Single,0,0,117.99
+Consolidation of Other Loans,30,Female,B,51,Married,40 to 50,1277,High school,3,18,0.15,33,1300,B_Female,Employed,2017,B_Married,0,1,1322.49
+Other Purposes,36,Male,B,34,Married,30 to 40,1037,Graduate,3,72,0.22,28,1000,B_Male,Employed,2018,B_Married,0,1,195.97
+Car,36,Male,C,29,Single,23 to 30,586,Vocational education,1,48,0.3088,8,1870,C_Male,Employed,2016,C_Single,0,0,87.87
+Home Improvements,60,Male,A,54,Married,40 to 50,1500,Graduate,4,72,0.14,47,6195,A_Male,Self-Employed,2017,A_Married,0,2,158.8
+Car,30,Male,B,55,Married,40 to 50,508,Vocational education,1,72,0.15,8,1630,B_Male,Employed,2018,B_Married,0,0,70.11
+Other Purposes,58,Male,C,50,Married,40 to 50,342,Vocational education,4,9,0.23,45,560,C_Male,Employed,2017,C_Married,0,0,18.38
+Other Purposes,60,Male,B,45,Divorced,40 to 50,571,High school,2,6,0.18,17,5845,B_Male,Employed,2018,B_Divorced,0,0,2195.98
+Consolidation of Other Loans,12,Female,C,26,Single,23 to 30,409,Graduate,4,24,0.2004,45,950,C_Female,Employed,2016,C_Single,0,0,353.01
+Other Purposes,18,Male,A,28,Single,23 to 30,457,Graduate,2,24,0.1772,23,1630,A_Male,Self-Employed,2017,A_Single,0,0,108.31
+Other Purposes,24,Female,B,50,Married,40 to 50,1407,Vocational education,1,72,0.21,13,445,B_Female,Employed,2018,B_Married,0,0,363.93
+Other Purposes,24,Female,B,38,Divorced,30 to 40,383,High school,2,24,0.13,22,2180,B_Female,Employed,2019,B_Divorced,0,2,110.78
+Other Purposes,12,Male,B,32,Married,30 to 40,1259,Vocational education,2,15,0.13,22,765,B_Male,Employed,2019,B_Married,0,2,70.81
+Other Purposes,58,Male,C,27,Single,23 to 30,611,High school,4,60,0.23,48,7250,C_Male,Employed,2018,C_Single,0,0,237.93
+Other Purposes,30,Female,C,47,Divorced,40 to 50,550,Vocational education,4,72,0.22,42,560,C_Female,Employed,2018,C_Divorced,0,1,504.02
+Car,12,Female,B,41,Divorced,40 to 50,372,Graduate,1,3,0.14,4,1090,B_Female,Employed,2018,B_Divorced,0,1,297.68
+Car,30,Male,D,22,Single,19 to 23,446,Vocational education,1,6,0.26,7,2865,D_Male,Employed,2019,D_Single,0,0,145.54
+Consolidation of Other Loans,58,Male,C,42,Divorced,40 to 50,1072,High school,4,24,0.23,46,7180,C_Male,Employed,2017,C_Divorced,0,2,6550.34
+Other Purposes,18,Male,C,25,Single,23 to 30,426,High school,3,9,0.2271,29,1320,C_Male,Employed,2017,C_Single,0,0,1166.39
+Consolidation of Other Loans,36,Female,B,29,Single,23 to 30,362,Vocational education,2,3,0.14,20,2450,B_Female,Employed,2019,B_Single,0,2,92.1
+Other Purposes,12,Male,D,20,Single,19 to 23,339,High school,1,3,0.26,5,560,D_Male,Employed,2019,D_Single,0,0,55.81
+Other Purposes,24,Male,B,26,Married,23 to 30,524,High school,3,15,0.14,35,1300,B_Male,Employed,2017,B_Married,0,2,614.01
+Car,36,Female,B,24,Single,23 to 30,363,Vocational education,2,36,0.15,16,3250,B_Female,Employed,2018,B_Single,0,0,122.04
+Car,21,Male,C,32,Married,30 to 40,371,High school,1,6,0.21,8,445,C_Male,Employed,2018,C_Married,0,1,27.04
+Other Purposes,30,Female,C,26,Married,23 to 30,368,Vocational education,1,3,0.22,3,340,C_Female,Employed,2018,C_Married,0,1,16.06
+Consolidation of Other Loans,36,Female,C,26,Married,23 to 30,914,High school,2,15,0.21,19,8700,C_Female,Employed,2019,C_Married,0,0,363.63
+Consolidation of Other Loans,12,Female,C,24,Single,23 to 30,530,High school,2,6,0.19,20,1030,C_Female,Employed,2018,C_Single,0,0,98.38
+Other Purposes,12,Male,C,46,Married,40 to 50,1500,Graduate,3,9,0.3177,40,1000,C_Male,Employed,2015,C_Married,0,2,383.98
+Home Improvements,60,Male,B,43,Divorced,40 to 50,400,High school,4,3,0.1929,47,2170,B_Male,Employed,2016,B_Divorced,0,2,63.76
+Business Purposes,60,Female,C,37,Divorced,30 to 40,1070,Graduate,1,60,0.2568,5,6450,C_Female,Self-Employed,2017,C_Divorced,0,1,219.26
+Other Purposes,12,Male,B,25,Single,23 to 30,858,Graduate,3,6,0.14,28,330,B_Male,Employed,2018,B_Single,0,0,335.43
+Medical expenses,48,Female,D,55,Divorced,40 to 50,442,Vocational education,2,24,0.2549,25,775,D_Female,Employed,2017,D_Divorced,0,0,649.66
+Other Purposes,24,Male,C,35,Single,30 to 40,973,High school,3,24,0.21,36,340,C_Male,Employed,2018,C_Single,0,1,347.92
+Other Purposes,45,Female,A,57,Married,40 to 50,388,High school,3,72,0.14,35,1555,A_Female,Employed,2018,A_Married,0,0,48.12
+Other Purposes,12,Male,D,34,Married,30 to 40,400,Vocational education,2,48,0.26,19,340,D_Male,Self-Employed,2018,D_Married,0,2,33.89
+Other Purposes,12,Female,D,24,Single,23 to 30,666,High school,2,18,0.25,15,445,D_Female,Employed,2019,D_Single,0,0,44.39
+Car,47,Female,D,20,Other,19 to 23,381,High school,3,6,0.28,32,1110,D_Female,Employed,2018,D_Other,0,2,44.63
+Other Purposes,12,Female,D,29,Single,23 to 30,423,High school,1,24,0.26,10,340,D_Female,Employed,2018,D_Single,0,0,33.89
+Consolidation of Other Loans,36,Female,C,34,Divorced,30 to 40,406,High school,3,6,0.22,30,2760,C_Female,Employed,2017,C_Divorced,0,2,1475.2
+Home Improvements,12,Male,B,38,Married,30 to 40,703,High school,1,3,0.1039,7,870,B_Male,Employed,2017,B_Married,0,2,79.0
+Other Purposes,24,Male,B,41,Married,40 to 50,1019,High school,4,36,0.14,51,440,B_Male,Employed,2017,B_Married,0,2,22.34
+Home Improvements,39,Male,A,53,Married,40 to 50,314,High school,3,36,0.1932,31,2660,A_Male,Employed,2016,A_Married,0,1,98.54
+Other Purposes,24,Male,C,22,Single,19 to 23,384,Vocational education,3,9,0.21,34,560,C_Male,Employed,2017,C_Single,0,0,30.73
+Home Improvements,21,Female,B,23,Single,23 to 30,466,High school,2,12,0.1493,18,1090,B_Female,Employed,2017,B_Single,0,0,469.87
+Car,12,Male,D,26,Single,23 to 30,346,High school,4,24,0.1169,52,340,D_Male,Employed,2016,D_Single,0,2,31.51
+Other Purposes,24,Female,A,58,Married,40 to 50,760,High school,3,72,0.1154,27,330,A_Female,Employed,2016,A_Married,0,0,16.17
+Other Purposes,36,Male,B,60,Married,60+,574,Vocational education,3,72,0.15,37,870,B_Male,Employed,2018,B_Married,0,0,811.48
+Other Purposes,48,Female,C,34,Single,30 to 40,436,Graduate,3,6,0.2963,32,3300,C_Female,Employed,2016,C_Single,0,1,131.79
+Consolidation of Other Loans,24,Male,B,31,Married,30 to 40,350,High school,4,3,0.1877,46,1850,B_Male,Employed,2016,B_Married,0,2,899.0
+Car,30,Female,D,36,Married,30 to 40,2120,Post graduate,4,3,0.3779,48,1700,D_Female,Employed,2015,D_Married,0,1,1070.61
+Other Purposes,18,Male,C,35,Single,30 to 40,988,High school,3,24,0.21,31,300,C_Male,Employed,2018,C_Single,0,1,278.82
+Other Purposes,60,Female,B,50,Married,40 to 50,348,Vocational education,1,6,0.1736,10,2170,B_Female,Employed,2017,B_Married,0,0,61.32
+Other Purposes,14,Male,D,22,Single,19 to 23,496,High school,3,6,0.26,35,335,D_Male,Employed,2018,D_Single,0,1,29.39
+Consolidation of Other Loans,21,Female,B,46,Married,40 to 50,271,High school,1,9,0.1624,3,1700,B_Female,Employed,2017,B_Married,0,0,98.26
+Other Purposes,12,Male,D,30,Single,30 to 40,273,Vocational education,3,3,0.14,27,1090,D_Male,Employed,2018,D_Single,0,0,762.48
+Other Purposes,42,Male,D,21,Single,19 to 23,452,High school,4,6,0.26,51,1655,D_Male,Employed,2017,D_Single,0,0,1512.78
+Other Purposes,12,Female,B,53,Married,40 to 50,1323,Graduate,2,18,0.13,19,1050,B_Female,Employed,2019,B_Married,0,0,97.19
+Consolidation of Other Loans,36,Female,D,49,Married,40 to 50,360,Vocational education,2,72,0.2589,17,3080,D_Female,Employed,2017,D_Married,0,0,2836.0
+Consolidation of Other Loans,58,Female,C,34,Divorced,30 to 40,571,Graduate,2,9,0.22,19,1600,C_Female,Employed,2019,C_Divorced,0,1,52.35
+Car,48,Male,C,38,Single,30 to 40,312,High school,3,18,0.2529,27,1710,C_Male,Employed,2016,C_Single,0,2,927.73
+Other Purposes,12,Male,B,32,Married,30 to 40,1498,Graduate,4,72,0.14,40,2170,B_Male,Employed,2017,B_Married,0,1,200.77
+Other Purposes,12,Female,B,57,Married,40 to 50,818,Post graduate,4,72,0.1076,46,440,B_Female,Employed,2016,B_Married,0,0,40.03
+Consolidation of Other Loans,60,Female,C,25,Single,23 to 30,688,Vocational education,2,9,0.17,15,5150,C_Female,Employed,2019,C_Single,0,0,5158.86
+Consolidation of Other Loans,60,Female,A,50,Married,40 to 50,948,Graduate,3,72,0.14,34,6100,A_Female,Employed,2018,A_Married,0,2,156.36
+Consolidation of Other Loans,47,Male,D,29,Single,23 to 30,642,High school,2,12,0.28,15,3550,D_Male,Employed,2018,D_Single,0,0,3657.68
+Consolidation of Other Loans,24,Male,D,23,Single,23 to 30,581,High school,1,24,0.1804,2,1250,D_Male,Employed,2017,D_Single,0,0,1108.2
+Consolidation of Other Loans,48,Female,B,37,Married,30 to 40,1285,Vocational education,4,24,0.16,47,10000,B_Female,Employed,2018,B_Married,0,2,313.76
+Car,12,Female,C,46,Married,40 to 50,565,High school,2,18,0.1204,18,450,C_Female,Employed,2017,C_Married,0,0,422.23
+Consolidation of Other Loans,15,Female,C,26,Single,23 to 30,573,Graduate,4,6,0.21,44,920,C_Female,Employed,2018,C_Single,0,0,73.38
+Car,58,Male,C,27,Divorced,23 to 30,443,Vocational education,3,3,0.23,28,4200,C_Male,Employed,2018,C_Divorced,0,0,3829.6
+Consolidation of Other Loans,12,Female,C,25,Single,23 to 30,366,High school,4,12,0.1844,48,900,C_Female,Employed,2016,C_Single,0,0,781.46
+Home Improvements,58,Female,C,42,Divorced,40 to 50,680,Graduate,1,72,0.23,6,8150,C_Female,Employed,2018,C_Divorced,0,0,6985.44
+Car,24,Male,B,25,Single,23 to 30,259,Vocational education,2,3,0.14,20,1740,B_Male,Employed,2018,B_Single,0,0,88.35
+Car,36,Male,D,41,Single,40 to 50,327,Vocational education,2,9,0.27,20,2000,D_Male,Employed,2018,D_Single,0,0,90.93
+Other Purposes,15,Female,B,39,Single,30 to 40,340,Vocational education,1,3,0.13,12,1095,B_Female,Employed,2019,B_Single,0,0,83.02
+Other Purposes,58,Male,C,26,Married,23 to 30,358,High school,3,6,0.23,32,1000,C_Male,Employed,2018,C_Married,0,2,973.57
+Other Purposes,30,Female,B,26,Single,23 to 30,351,Vocational education,3,3,0.15,35,300,B_Female,Employed,2018,B_Single,0,0,211.01
+Holidays/Travelling,18,Male,C,63,Divorced,60+,511,Vocational education,3,72,0.21,31,500,C_Male,Employed,2017,C_Divorced,0,0,34.33
+Other Purposes,24,Male,C,31,Married,30 to 40,340,High school,4,36,0.21,52,775,C_Male,Employed,2017,C_Married,0,1,42.52
+Other Purposes,50,Male,C,50,Married,40 to 50,1793,Graduate,4,9,0.23,48,3300,C_Male,Employed,2017,C_Married,0,0,3079.01
+Consolidation of Other Loans,30,Male,B,32,Married,30 to 40,935,Vocational education,1,72,0.15,11,3200,B_Male,Employed,2018,B_Married,0,1,137.63
+Other Purposes,47,Female,D,22,Single,19 to 23,371,High school,3,6,0.28,33,335,D_Female,Employed,2018,D_Single,0,0,327.05
+Other Purposes,12,Female,C,36,Married,30 to 40,602,Graduate,2,9,0.19,22,335,C_Female,Employed,2018,C_Married,0,2,32.0
+Consolidation of Other Loans,47,Female,D,40,Married,40 to 50,1190,High school,2,60,0.28,15,850,D_Female,Employed,2018,D_Married,0,2,875.78
+Car,24,Male,B,52,Married,40 to 50,375,Vocational education,3,9,0.14,28,2500,B_Male,Employed,2018,B_Married,0,0,126.95
+Car,36,Male,B,37,Single,30 to 40,358,Vocational education,3,9,0.15,39,2170,B_Male,Employed,2018,B_Single,0,2,81.49
+Home Improvements,60,Male,A,46,Married,40 to 50,1413,Vocational education,2,60,0.14,24,2590,A_Male,Employed,2018,A_Married,0,2,66.39
+Home Improvements,45,Female,A,52,Single,40 to 50,3011,Graduate,4,36,0.14,48,7225,A_Female,Employed,2018,A_Single,0,0,223.6
+Car,30,Male,D,23,Single,23 to 30,585,High school,1,6,0.27,9,3305,D_Male,Employed,2018,D_Single,0,0,3020.09
+Other Purposes,36,Female,B,43,Married,40 to 50,530,High school,1,12,0.15,3,1630,B_Female,Employed,2018,B_Married,0,0,61.21
+Consolidation of Other Loans,60,Male,D,30,Single,30 to 40,334,Graduate,4,6,0.3869,49,2400,D_Male,Employed,2015,D_Single,0,0,2221.04
+Other Purposes,27,Female,C,48,Divorced,40 to 50,478,High school,2,6,0.22,20,2200,C_Female,Employed,2018,C_Divorced,0,0,1937.42
+Home Improvements,36,Male,B,40,Single,40 to 50,1699,Vocational education,2,72,0.14,18,875,B_Male,Employed,2019,B_Single,0,2,32.89
+Other Purposes,12,Female,B,55,Married,40 to 50,1709,Vocational education,4,72,0.14,49,330,B_Female,Employed,2018,B_Married,0,0,30.53
+Other Purposes,36,Female,D,22,Single,19 to 23,543,High school,4,6,0.25,47,2680,D_Female,Employed,2017,D_Single,0,0,118.82
+Home Improvements,30,Male,B,29,Single,23 to 30,419,High school,3,36,0.15,28,1520,B_Male,Employed,2018,B_Single,0,2,65.37
+Home Improvements,42,Female,A,44,Married,40 to 50,461,High school,2,6,0.13,21,5580,A_Female,Employed,2019,A_Married,0,0,182.21
+Home Improvements,58,Male,C,30,Single,30 to 40,582,High school,2,12,0.23,22,1445,C_Male,Employed,2018,C_Single,0,1,47.42
+Other Purposes,12,Male,B,27,Single,23 to 30,586,High school,3,24,0.14,33,550,B_Male,Employed Part Time,2018,B_Single,0,0,50.89
+Other Purposes,12,Female,C,28,Divorced,23 to 30,368,High school,1,3,0.19,3,340,C_Female,Employed,2018,C_Divorced,0,3,155.63
+Other Purposes,48,Male,A,48,Married,40 to 50,1020,Vocational education,3,72,0.14,35,3500,A_Male,Employed,2018,A_Married,0,0,103.62
+Other Purposes,30,Male,C,32,Single,30 to 40,553,Vocational education,1,12,0.1816,9,1110,C_Male,Employed,2017,C_Single,0,0,616.41
+Medical expenses,36,Female,C,33,Divorced,30 to 40,499,Graduate,2,9,0.22,20,1110,C_Female,Employed,2018,C_Divorced,0,2,46.49
+Other Purposes,14,Female,C,26,Married,23 to 30,581,High school,4,36,0.21,46,560,C_Female,Employed,2017,C_Married,0,1,573.05
+Other Purposes,12,Male,D,38,Married,30 to 40,815,Vocational education,2,72,0.26,21,670,D_Male,Employed,2018,D_Married,0,2,66.77
+Other Purposes,36,Female,D,32,Single,30 to 40,449,High school,4,60,0.25,46,340,D_Female,Employed,2017,D_Single,0,0,331.67
+Medical expenses,48,Male,B,28,Single,23 to 30,375,High school,4,72,0.16,49,1630,B_Male,Employed,2018,B_Single,0,0,51.14
+Other Purposes,36,Male,B,42,Divorced,40 to 50,1963,Vocational education,3,72,0.15,30,2000,B_Male,Self-Employed,2018,B_Divorced,0,1,75.1
+Other Purposes,15,Female,C,48,Married,40 to 50,500,Vocational education,4,60,0.24,52,665,C_Female,Employed,2017,C_Married,0,2,54.5
+Other Purposes,30,Female,D,28,Single,23 to 30,424,High school,2,15,0.2238,20,1660,D_Female,Employed,2017,D_Single,0,1,80.0
+Other Purposes,30,Male,C,36,Single,30 to 40,1953,High school,2,9,0.21,17,1655,C_Male,Employed,2019,C_Single,0,1,78.02
+Car,24,Male,B,33,Single,30 to 40,348,High school,1,3,0.1647,13,1300,B_Male,Employed,2017,B_Single,0,1,623.19
+Other Purposes,36,Male,C,22,Single,19 to 23,665,Vocational education,4,9,0.22,43,3000,C_Male,Employed,2018,C_Single,0,0,125.65
+Car,36,Male,C,23,Single,23 to 30,454,High school,1,3,0.1724,3,1210,C_Male,Employed,2017,C_Single,0,0,47.6
+Consolidation of Other Loans,30,Female,C,26,Single,23 to 30,567,High school,3,24,0.2094,32,800,C_Female,Employed,2016,C_Single,0,0,556.7
+Other Purposes,24,Female,B,49,Divorced,40 to 50,751,Graduate,3,48,0.14,28,1000,B_Female,Employed,2018,B_Divorced,0,0,50.78
+Other Purposes,30,Female,B,27,Single,23 to 30,352,High school,4,36,0.15,45,660,B_Female,Employed,2017,B_Single,0,1,28.39
+Consolidation of Other Loans,15,Female,D,37,Divorced,30 to 40,334,Vocational education,1,15,0.2635,8,870,D_Female,Employed,2016,D_Divorced,0,2,405.1
+Home Improvements,47,Female,D,20,Single,19 to 23,401,High school,4,9,0.28,52,3120,D_Female,Employed,2018,D_Single,0,0,125.43
+Other Purposes,12,Female,B,49,Married,40 to 50,1171,High school,1,9,0.13,11,770,B_Female,Employed,2019,B_Married,0,0,71.27
+Other Purposes,24,Female,D,23,Single,23 to 30,412,High school,2,3,0.26,15,560,D_Female,Employed,2018,D_Single,0,0,312.53
+Car,18,Male,C,35,Single,30 to 40,1436,Vocational education,4,3,0.21,45,1600,C_Male,Employed,2017,C_Single,0,0,1329.71
+Home Improvements,36,Male,C,34,Single,30 to 40,1030,High school,1,36,0.179,4,2750,C_Male,Employed,2017,C_Single,0,1,2286.07
+Other Purposes,24,Male,B,47,Married,40 to 50,361,Graduate,4,72,0.14,51,1090,B_Male,Employed,2018,B_Married,0,2,55.35
+Other Purposes,58,Female,C,59,Divorced,40 to 50,1052,Graduate,1,18,0.22,7,1450,C_Female,Employed,2019,C_Divorced,0,0,1474.28
+Other Purposes,12,Male,D,35,Married,30 to 40,3587,Vocational education,2,36,0.1561,21,300,D_Male,Employed,2017,D_Married,0,2,283.18
+Other Purposes,24,Female,A,67,Other,60+,642,Vocational education,2,72,0.12,21,1800,A_Female,Employed,2019,A_Other,0,0,89.65
+Home Improvements,12,Male,C,34,Married,30 to 40,1162,Vocational education,3,15,0.19,33,445,C_Male,Employed,2018,C_Married,0,2,42.5
+Consolidation of Other Loans,36,Male,B,57,Single,40 to 50,368,High school,2,15,0.15,16,2520,B_Male,Employed Part Time,2018,B_Single,0,0,94.63
+Consolidation of Other Loans,51,Female,D,26,Single,23 to 30,346,Vocational education,1,9,0.2626,6,3100,D_Female,Employed,2017,D_Single,0,0,3132.42
+Home Improvements,16,Female,A,61,Divorced,60+,500,Vocational education,1,72,0.12,2,2700,A_Female,Employed,2019,A_Divorced,0,0,189.07
+Consolidation of Other Loans,48,Male,B,58,Single,40 to 50,944,Post graduate,2,72,0.15,17,6600,B_Male,Employed,2019,B_Single,0,0,207.37
+Home Improvements,15,Male,D,25,Single,23 to 30,240,High school,4,3,0.2074,51,1110,D_Male,Employed,2016,D_Single,0,0,1073.22
+Other Purposes,24,Male,D,20,Single,19 to 23,506,High school,2,3,0.25,20,1655,D_Male,Employed,2019,D_Single,0,0,96.5
+Other Purposes,12,Male,B,38,Married,30 to 40,361,Vocational education,4,6,0.14,49,500,B_Male,Employed,2018,B_Married,0,3,46.26
+Home Improvements,60,Male,B,32,Single,30 to 40,323,High school,4,72,0.18,45,4500,B_Male,Employed,2018,B_Single,0,2,128.83
+Other Purposes,36,Female,B,31,Married,30 to 40,379,Vocational education,2,36,0.15,15,1380,B_Female,Employed,2018,B_Married,0,1,51.82
+Consolidation of Other Loans,50,Male,D,35,Single,30 to 40,530,High school,4,24,0.26,40,4500,D_Male,Employed,2017,D_Single,0,0,170.49
+Consolidation of Other Loans,12,Male,C,31,Married,30 to 40,938,Vocational education,3,3,0.19,37,610,C_Male,Employed,2017,C_Married,0,0,623.2
+Other Purposes,36,Male,D,19,Single,to 19,358,High school,1,12,0.27,5,2000,D_Male,Employed,2019,D_Single,0,0,90.93
+Medical expenses,30,Male,D,31,Single,30 to 40,1090,Post graduate,2,60,0.2488,16,890,D_Male,Employed,2017,D_Single,0,0,853.18
+Home Improvements,50,Female,D,56,Single,40 to 50,595,Graduate,3,6,0.26,36,3640,D_Female,Employed,2017,D_Single,0,0,137.91
+Other Purposes,36,Female,B,52,Married,40 to 50,930,Graduate,2,72,0.14,14,660,B_Female,Employed,2019,B_Married,0,0,24.81
+Consolidation of Other Loans,48,Male,B,31,Single,30 to 40,451,Vocational education,3,3,0.16,27,3790,B_Male,Employed,2018,B_Single,0,2,118.91
+Other Purposes,60,Male,B,39,Married,30 to 40,905,Vocational education,2,24,0.17,19,700,B_Male,Employed,2019,B_Married,0,1,20.07
+Other Purposes,47,Female,C,21,Single,19 to 23,185,High school,3,3,0.23,32,1000,C_Female,Employed,2018,C_Single,0,0,36.38
+Medical expenses,48,Female,B,47,Married,40 to 50,1748,Post graduate,3,72,0.16,28,2600,B_Female,Employed,2018,B_Married,0,1,81.58
+Other Purposes,27,Female,C,24,Married,23 to 30,404,Vocational education,2,24,0.22,26,1000,C_Female,Employed,2018,C_Married,0,1,50.83
+Car,60,Female,B,54,Single,40 to 50,346,High school,1,24,0.18,5,2820,B_Female,Employed,2018,B_Single,0,0,80.73
+Consolidation of Other Loans,60,Male,B,39,Single,30 to 40,902,High school,3,36,0.18,33,4600,B_Male,Employed,2017,B_Single,0,1,131.69
+Other Purposes,24,Female,B,43,Divorced,40 to 50,522,High school,3,72,0.14,29,300,B_Female,Employed,2018,B_Divorced,0,2,15.23
+Other Purposes,12,Male,C,24,Married,23 to 30,532,High school,2,12,0.13,17,440,C_Male,Employed,2019,C_Married,0,1,343.57
+Other Purposes,30,Male,C,51,Divorced,40 to 50,1109,Graduate,1,72,0.22,2,450,C_Male,Employed,2018,C_Divorced,0,1,21.25
+Other Purposes,60,Male,B,27,Married,23 to 30,494,High school,3,6,0.1995,27,1850,B_Male,Employed,2017,B_Married,0,1,55.07
+Medical expenses,58,Male,C,58,Married,40 to 50,878,Vocational education,4,72,0.23,51,1870,C_Male,Employed,2017,C_Married,0,0,1625.13
+Other Purposes,58,Male,C,33,Single,30 to 40,746,High school,3,72,0.23,38,1650,C_Male,Employed,2017,C_Single,0,1,1664.31
+Consolidation of Other Loans,30,Female,B,44,Single,40 to 50,410,Graduate,2,24,0.1492,23,950,B_Female,Employed,2017,B_Single,0,0,512.64
+Other Purposes,15,Male,B,47,Divorced,40 to 50,687,Vocational education,1,72,0.14,6,765,B_Male,Employed,2019,B_Divorced,0,1,731.47
+Other Purposes,39,Female,D,29,Divorced,23 to 30,421,High school,2,12,0.27,21,335,D_Female,Employed,2019,D_Divorced,0,1,14.8
+Other Purposes,47,Female,D,31,Married,30 to 40,425,Vocational education,3,36,0.28,30,300,D_Female,Employed,2018,D_Married,0,0,302.91
+Consolidation of Other Loans,30,Female,C,64,Other,60+,205,High school,2,9,0.23399999999999999,21,1350,C_Female,Employed Part Time,2016,C_Other,0,0,1184.31
+Car,60,Male,C,42,Single,40 to 50,728,High school,4,9,0.23,42,8510,C_Male,Employed,2018,C_Single,0,0,275.12
+Consolidation of Other Loans,30,Male,C,29,Single,23 to 30,976,High school,1,24,0.21,12,5800,C_Male,Employed,2019,C_Single,0,0,273.43
+Car,36,Female,B,30,Single,30 to 40,335,Graduate,4,3,0.15,41,3250,B_Female,Employed,2017,B_Single,0,0,122.04
+Consolidation of Other Loans,30,Male,B,52,Divorced,40 to 50,727,Graduate,4,12,0.15,43,1040,B_Male,Employed,2018,B_Divorced,0,1,44.73
+Consolidation of Other Loans,50,Male,D,22,Single,19 to 23,559,Vocational education,4,24,0.26,50,4200,D_Male,Employed,2017,D_Single,0,0,3967.83
+Home Improvements,13,Female,C,26,Single,23 to 30,962,Vocational education,3,15,0.21,32,3840,C_Female,Employed,2017,C_Single,0,0,345.78
+Consolidation of Other Loans,48,Male,B,42,Married,40 to 50,1595,High school,2,48,0.16,20,710,B_Male,Employed,2018,B_Married,0,1,583.95
+Other Purposes,47,Female,D,35,Single,30 to 40,1412,Graduate,4,72,0.28,42,450,D_Female,Employed,2018,D_Single,0,2,411.11
+Other Purposes,12,Male,D,31,Single,30 to 40,492,High school,2,36,0.174,23,610,D_Male,Employed,2016,D_Single,0,1,58.31
+Other Purposes,24,Male,B,45,Married,40 to 50,586,High school,1,12,0.14,12,1000,B_Male,Employed,2018,B_Married,0,0,50.78
+Other Purposes,12,Female,B,34,Married,30 to 40,519,Vocational education,2,48,0.14,23,330,B_Female,Employed,2018,B_Married,0,1,30.53
+Consolidation of Other Loans,36,Male,D,39,Divorced,30 to 40,487,Vocational education,4,9,0.25,51,3500,D_Male,Employed,2017,D_Divorced,0,4,155.17
+Other Purposes,12,Female,C,60,Other,60+,314,High school,4,72,0.1162,49,300,C_Female,Employed,2016,C_Other,0,0,27.59
+Home Improvements,24,Male,D,23,Single,23 to 30,1015,High school,4,36,0.26,45,2210,D_Male,Employed,2018,D_Single,0,0,1993.0
+Medical expenses,24,Female,D,46,Divorced,40 to 50,431,Vocational education,2,60,0.26,14,1000,D_Female,Employed,2018,D_Divorced,0,2,58.2
+Other Purposes,26,Female,B,44,Divorced,40 to 50,393,High school,2,6,0.14,15,1095,B_Female,Employed,2019,B_Divorced,0,2,1044.89
+Other Purposes,18,Female,B,47,Divorced,40 to 50,595,Graduate,1,72,0.13,12,500,B_Female,Employed,2019,B_Divorced,0,1,32.34
+Other Purposes,60,Male,B,36,Divorced,30 to 40,1601,Graduate,4,12,0.18,47,950,B_Male,Employed,2018,B_Divorced,0,0,933.56
+Consolidation of Other Loans,48,Female,B,48,Divorced,40 to 50,370,High school,3,24,0.16,30,3000,B_Female,Employed,2018,B_Divorced,0,1,94.13
+Business Purposes,36,Female,B,28,Single,23 to 30,281,High school,2,3,0.1849,21,2550,B_Female,Employed,2017,B_Single,0,0,100.38
+Other Purposes,18,Female,B,35,Married,30 to 40,508,Vocational education,1,15,0.1412,4,1090,B_Female,Employed,2017,B_Married,0,2,70.53
+Other Purposes,47,Female,D,37,Divorced,30 to 40,1028,Post graduate,4,72,0.28,43,1110,D_Female,Employed,2018,D_Divorced,0,2,1096.42
+Home Improvements,45,Male,C,33,Single,30 to 40,232,Vocational education,4,3,0.23600000000000002,48,1000,C_Male,Employed,2016,C_Single,0,0,1013.04
+Medical expenses,36,Female,B,55,Married,40 to 50,928,Post graduate,4,24,0.15,45,550,B_Female,Employed,2017,B_Married,0,2,20.65
+Holidays/Travelling,36,Female,D,21,Single,19 to 23,509,High school,3,3,0.27,31,1110,D_Female,Employed,2018,D_Single,0,0,50.46
+Car,24,Male,D,22,Single,19 to 23,385,High school,3,3,0.26,39,2205,D_Male,Employed,2018,D_Single,0,0,128.34
+Consolidation of Other Loans,47,Male,D,23,Single,23 to 30,541,Vocational education,1,3,0.28,2,5350,D_Male,Employed,2019,D_Single,0,0,215.09
+Other Purposes,39,Male,B,31,Single,30 to 40,182,Graduate,4,6,0.1842,46,770,B_Male,Employed Part Time,2016,B_Single,0,0,28.7
+Other Purposes,12,Female,B,53,Divorced,40 to 50,470,Vocational education,2,24,0.13,16,400,B_Female,Employed,2019,B_Divorced,0,0,375.7
+Car,33,Female,B,47,Married,40 to 50,380,Vocational education,4,3,0.1756,48,1020,B_Female,Employed,2016,B_Married,0,0,42.16
+Holidays/Travelling,26,Female,C,24,Single,23 to 30,604,High school,3,15,0.22,39,1070,C_Female,Employed,2018,C_Single,0,0,55.89
+Consolidation of Other Loans,36,Female,C,30,Single,30 to 40,651,Graduate,3,18,0.22,32,2130,C_Female,Employed,2017,C_Single,0,0,89.21
+Other Purposes,12,Male,B,47,Married,40 to 50,1317,Graduate,4,72,0.14,43,300,B_Male,Employed,2017,B_Married,0,1,27.76
+Other Purposes,12,Female,B,44,Married,40 to 50,743,High school,1,15,0.12,12,630,B_Female,Employed,2018,B_Married,0,1,224.57
+Consolidation of Other Loans,26,Female,B,48,Married,40 to 50,379,Vocational education,3,72,0.15,38,1140,B_Female,Employed,2017,B_Married,0,2,54.82
+Car,12,Male,C,21,Single,19 to 23,322,High school,1,3,0.1699,9,1110,C_Male,Employed,2017,C_Single,0,0,1008.43
+Consolidation of Other Loans,48,Male,C,48,Divorced,40 to 50,800,High school,3,12,0.2936,39,1200,C_Male,Employed,2015,C_Divorced,0,0,45.43
+Other Purposes,48,Male,C,43,Married,40 to 50,4146,Graduate,1,60,0.2392,1,3310,C_Male,Employed,2017,C_Married,0,2,3399.15
+Car,60,Male,B,51,Divorced,40 to 50,466,High school,1,15,0.17,13,4165,B_Male,Employed,2019,B_Divorced,0,2,119.43
+Consolidation of Other Loans,48,Male,A,55,Married,40 to 50,385,Graduate,2,24,0.1639,17,5100,A_Male,Employed,2017,A_Married,0,0,2908.71
+Other Purposes,24,Male,D,27,Single,23 to 30,180,Vocational education,2,3,0.26,24,560,D_Male,Employed,2018,D_Single,0,0,32.59
+Consolidation of Other Loans,36,Female,D,34,Married,30 to 40,329,Vocational education,3,48,0.2214,28,1100,D_Female,Employed,2017,D_Married,0,1,1108.48
+Other Purposes,24,Female,B,52,Married,40 to 50,1072,High school,2,72,0.13,21,2180,B_Female,Employed,2019,B_Married,0,0,110.78
+Other Purposes,60,Male,B,39,Divorced,30 to 40,355,Vocational education,2,12,0.18,15,2170,B_Male,Employed,2018,B_Divorced,0,5,62.12
+Home Improvements,30,Female,D,35,Married,30 to 40,512,High school,1,36,0.27,2,560,D_Female,Employed,2019,D_Married,0,2,576.52
+Consolidation of Other Loans,18,Male,B,44,Single,40 to 50,653,Graduate,4,72,0.14,48,1835,B_Male,Employed,2018,B_Single,0,0,118.63
+Home Improvements,60,Female,C,49,Married,40 to 50,894,High school,1,72,0.2172,1,5490,C_Female,Employed,2017,C_Married,0,1,173.19
+Home Improvements,39,Male,B,36,Single,30 to 40,455,High school,3,72,0.1749,29,2560,B_Male,Employed,2017,B_Single,0,1,94.14
+Home Improvements,58,Male,C,29,Single,23 to 30,601,Vocational education,4,18,0.23,45,2855,C_Male,Employed,2018,C_Single,0,0,93.7
+Other Purposes,24,Female,B,60,Married,60+,847,High school,2,72,0.1125,18,330,B_Female,Employed,2017,B_Married,0,0,16.32
+Other Purposes,12,Female,B,49,Married,40 to 50,357,Vocational education,2,72,0.14,18,330,B_Female,Employed,2018,B_Married,0,0,30.53
+Other Purposes,24,Female,B,44,Married,40 to 50,704,High school,4,15,0.14,49,1600,B_Female,Employed,2018,B_Married,0,1,81.25
+Consolidation of Other Loans,42,Female,C,52,Married,40 to 50,869,Vocational education,4,36,0.23,52,4850,C_Female,Employed,2017,C_Married,0,1,187.72
+Car,24,Male,B,31,Married,30 to 40,674,High school,1,18,0.1574,3,2170,B_Male,Employed,2017,B_Married,0,1,112.04
+Consolidation of Other Loans,54,Male,C,27,Single,23 to 30,1045,Vocational education,1,15,0.2198,2,4400,C_Male,Employed,2017,C_Single,0,0,146.59
+Car,36,Male,C,24,Single,23 to 30,445,Vocational education,3,24,0.22,37,300,C_Male,Employed,2018,C_Single,0,0,12.57
+Other Purposes,30,Male,A,51,Divorced,40 to 50,788,Vocational education,2,36,0.12,16,3690,A_Male,Employed,2019,A_Divorced,0,0,153.21
+Other Purposes,60,Male,B,51,Divorced,40 to 50,358,High school,2,72,0.18,18,2170,B_Male,Employed,2018,B_Divorced,0,0,62.12
+Consolidation of Other Loans,24,Female,C,25,Single,23 to 30,492,Vocational education,4,6,0.1789,41,850,C_Female,Employed,2016,C_Single,0,2,557.02
+Other Purposes,36,Female,A,55,Married,40 to 50,608,Vocational education,1,72,0.13,2,4130,A_Female,Employed,2019,A_Married,0,0,148.15
+Car,24,Male,D,35,Married,30 to 40,2834,Vocational education,4,36,0.1955,46,560,D_Male,Employed,2016,D_Married,0,2,498.12
+Other Purposes,24,Male,D,32,Single,30 to 40,313,High school,1,3,0.26,6,340,D_Male,Employed,2018,D_Single,0,2,218.35
+Other Purposes,24,Male,B,31,Single,30 to 40,581,High school,4,12,0.14,51,980,B_Male,Employed,2017,B_Single,0,0,49.76
+Holidays/Travelling,12,Female,B,32,Single,30 to 40,609,Graduate,3,36,0.24,36,670,B_Female,Employed,2017,B_Single,0,0,66.11
+Car,24,Female,C,54,Divorced,40 to 50,661,Vocational education,2,12,0.1997,24,1650,C_Female,Employed,2017,C_Divorced,0,1,89.67
+Consolidation of Other Loans,24,Male,B,29,Single,23 to 30,761,Vocational education,2,36,0.2484,25,3700,B_Male,Employed,2017,B_Single,0,0,3443.06
+Home Improvements,60,Female,B,34,Other,30 to 40,479,High school,1,9,0.18,1,5715,B_Female,Employed,2019,B_Other,0,2,163.61
+Consolidation of Other Loans,58,Female,C,56,Other,40 to 50,794,Graduate,3,48,0.23,34,4700,C_Female,Employed,2018,C_Other,0,0,154.24
+Other Purposes,30,Female,B,31,Divorced,30 to 40,587,High school,2,3,0.14,15,2180,B_Female,Employed,2019,B_Divorced,0,2,93.85
+Car,36,Male,B,34,Single,30 to 40,713,Graduate,2,24,0.15,15,2710,B_Male,Employed,2018,B_Single,0,1,101.77
+Car,24,Female,C,28,Single,23 to 30,300,Vocational education,4,48,0.21,43,560,C_Female,Employed,2018,C_Single,0,2,30.73
+Consolidation of Other Loans,36,Male,C,62,Married,60+,585,High school,4,12,0.22,41,4000,C_Male,Employed,2017,C_Married,0,0,3633.06
+Consolidation of Other Loans,12,Female,B,48,Married,40 to 50,1067,Graduate,1,72,0.1167,5,800,B_Female,Employed,2016,B_Married,0,1,72.71
+Consolidation of Other Loans,48,Female,D,39,Married,30 to 40,1083,Vocational education,2,6,0.2656,26,2480,D_Female,Employed,2016,D_Married,0,1,1133.53
+Home Improvements,12,Female,B,48,Divorced,40 to 50,452,Graduate,3,60,0.14,36,1090,B_Female,Employed,2017,B_Divorced,0,0,850.98
+Other Purposes,12,Female,B,41,Single,40 to 50,686,Post graduate,2,3,0.13,22,450,B_Female,Employed,2019,B_Single,0,0,41.65
+Medical expenses,36,Female,A,52,Single,40 to 50,667,Vocational education,1,12,0.13,3,2380,A_Female,Employed,2019,A_Single,0,0,85.38
+Consolidation of Other Loans,27,Male,C,36,Married,30 to 40,974,Vocational education,1,48,0.2281,12,3000,C_Male,Employed,2016,C_Married,0,1,154.12
+Car,18,Female,B,44,Married,40 to 50,1001,Graduate,2,72,0.1643,21,330,B_Female,Employed,2016,B_Married,0,3,21.75
+Other Purposes,15,Male,C,23,Single,23 to 30,413,Graduate,2,15,0.2,18,1655,C_Male,Self-Employed,2019,C_Single,0,0,131.87
+Other Purposes,30,Male,B,25,Single,23 to 30,571,Vocational education,3,3,0.15,32,2170,B_Male,Employed,2018,B_Single,0,0,93.33
+Other Purposes,12,Male,D,33,Married,30 to 40,935,Vocational education,2,6,0.26,21,340,D_Male,Employed,2018,D_Married,0,3,33.89
+Home Improvements,12,Female,C,61,Married,60+,1106,Graduate,3,72,0.19,28,340,C_Female,Employed,2018,C_Married,0,0,155.63
+Car,12,Male,C,24,Single,23 to 30,907,Vocational education,2,6,0.19,16,1650,C_Male,Employed,2018,C_Single,0,0,1171.16
+Home Improvements,12,Female,B,41,Married,40 to 50,389,Graduate,1,24,0.1233,7,340,B_Female,Employed,2017,B_Married,0,3,31.38
+Consolidation of Other Loans,18,Female,B,59,Single,40 to 50,508,Graduate,4,72,0.1265,41,850,B_Female,Employed,2016,B_Single,0,0,54.4
+Consolidation of Other Loans,24,Male,D,22,Single,19 to 23,1066,High school,1,18,0.25,13,1500,D_Male,Employed,2019,D_Single,0,0,87.46
+Medical expenses,36,Female,B,28,Single,23 to 30,3214,High school,4,12,0.15,47,3250,B_Female,Employed,2018,B_Single,0,0,122.04
+Other Purposes,58,Male,C,23,Married,23 to 30,388,High school,1,9,0.23,5,1250,C_Male,Employed,2018,C_Married,0,2,41.02
+Home Improvements,36,Female,A,47,Divorced,40 to 50,530,Post graduate,2,72,0.1246,21,1300,A_Female,Employed,2017,A_Divorced,0,1,46.28
+Consolidation of Other Loans,36,Female,B,31,Divorced,30 to 40,350,High school,1,36,0.1776,7,2710,B_Female,Employed Part Time,2017,B_Divorced,0,2,105.64
+Car,12,Male,B,27,Single,23 to 30,361,High school,4,36,0.14,45,1090,B_Male,Employed,2018,B_Single,0,0,393.7
+Other Purposes,30,Male,D,38,Married,30 to 40,381,High school,4,12,0.25,51,335,D_Male,Employed,2017,D_Married,0,3,16.62
+Consolidation of Other Loans,45,Female,C,32,Married,30 to 40,941,Graduate,1,18,0.28,2,4150,C_Female,Employed,2018,C_Married,0,0,4084.53
+Other Purposes,58,Female,C,29,Married,23 to 30,475,Post graduate,4,18,0.23,46,560,C_Female,Employed,2017,C_Married,0,0,564.85
+Other Purposes,12,Female,C,38,Married,30 to 40,634,High school,3,72,0.14,31,550,C_Female,Employed,2018,C_Married,0,2,50.89
+Other Purposes,47,Female,D,19,Other,to 19,500,High school,1,6,0.28,2,4625,D_Female,Employed,2019,D_Other,0,0,185.94
+Other Purposes,45,Female,B,37,Married,30 to 40,815,Vocational education,4,24,0.321,47,6000,B_Female,Employed,2016,B_Married,0,2,4014.85
+Other Purposes,41,Female,B,61,Married,60+,1002,Graduate,2,72,0.14,26,3615,B_Female,Employed Part Time,2018,B_Married,0,0,2822.06
+Other Purposes,24,Female,B,31,Married,30 to 40,843,Vocational education,2,72,0.1933,21,1830,B_Female,Employed,2016,B_Married,0,0,811.83
+Other Purposes,12,Female,D,46,Divorced,40 to 50,359,Graduate,1,15,0.25,13,340,D_Female,Employed,2019,D_Divorced,0,0,33.92
+Other Purposes,42,Male,C,21,Single,19 to 23,338,High school,4,18,0.23,44,1210,C_Male,Employed,2018,C_Single,0,0,46.83
+Other Purposes,48,Male,D,31,Single,30 to 40,514,Graduate,4,3,0.1964,52,1660,D_Male,Employed,2016,D_Single,0,0,57.89
+Other Purposes,12,Female,B,59,Married,40 to 50,839,Vocational education,1,48,0.14,1,700,B_Female,Self-Employed,2019,B_Married,0,0,64.76
+Other Purposes,18,Female,D,41,Divorced,40 to 50,473,Vocational education,1,48,0.26,6,1660,D_Female,Employed,2018,D_Divorced,0,1,119.34
+Business Purposes,12,Male,C,44,Married,40 to 50,1276,Graduate,3,72,0.2102,28,2200,C_Male,Employed,2016,C_Married,0,2,212.29
+Other Purposes,18,Female,A,38,Divorced,30 to 40,745,Graduate,4,72,0.12,49,730,A_Female,Employed,2018,A_Divorced,0,1,46.04
+Other Purposes,12,Female,B,49,Divorced,40 to 50,598,Vocational education,2,36,0.14,24,550,B_Female,Employed,2018,B_Divorced,0,0,50.89
+Other Purposes,12,Female,B,40,Married,40 to 50,3456,Graduate,4,60,0.12,46,1040,B_Female,Employed,2017,B_Married,0,3,94.58
+Medical expenses,24,Female,C,38,Married,30 to 40,654,High school,1,72,0.21,8,1550,C_Female,Employed,2018,C_Married,0,2,85.05
+Other Purposes,12,Male,D,25,Single,23 to 30,691,Vocational education,2,3,0.26,21,340,D_Male,Employed,2018,D_Single,0,0,33.89
+Home Improvements,36,Male,D,25,Single,23 to 30,313,High school,3,3,0.25,35,1110,D_Male,Employed,2017,D_Single,0,0,49.21
+Other Purposes,18,Female,B,54,Divorced,40 to 50,377,Vocational education,2,72,0.14,14,660,B_Female,Employed,2018,B_Divorced,0,0,245.84
+Other Purposes,12,Female,C,35,Married,30 to 40,916,Vocational education,2,48,0.19,17,665,C_Female,Employed,2018,C_Married,0,2,577.92
+Other Purposes,48,Female,B,31,Single,30 to 40,458,High school,1,6,0.16,10,1630,B_Female,Employed,2018,B_Single,0,2,1502.75
+Other Purposes,28,Female,B,45,Divorced,40 to 50,676,Vocational education,2,18,0.14,21,1095,B_Female,Employed,2019,B_Divorced,0,0,49.71
+Home Improvements,50,Female,C,36,Married,30 to 40,283,Vocational education,3,6,0.23,37,2200,C_Female,Employed,2017,C_Married,0,1,77.52
+Car,36,Male,C,27,Single,23 to 30,1705,High school,4,6,0.22,51,7130,C_Male,Employed,2018,C_Single,0,0,298.63
+Other Purposes,36,Female,B,26,Single,23 to 30,358,Graduate,2,12,0.15,17,3250,B_Female,Employed,2018,B_Single,0,0,122.04
+Other Purposes,12,Female,B,62,Married,60+,292,Vocational education,1,60,0.114,5,400,B_Female,Employed,2016,B_Married,0,0,244.28
+Consolidation of Other Loans,36,Male,C,66,Divorced,60+,591,Graduate,2,6,0.2615,26,3100,C_Male,Employed,2016,C_Divorced,0,0,2519.67
+Car,36,Male,B,30,Single,30 to 40,444,High school,1,6,0.15,1,3250,B_Male,Employed,2018,B_Single,0,1,1906.29
+Car,36,Male,B,25,Married,23 to 30,777,Vocational education,1,9,0.2531,7,1600,B_Male,Employed,2016,B_Married,0,1,332.63
+Car,58,Male,C,24,Single,23 to 30,273,Vocational education,4,3,0.23,48,3300,C_Male,Employed,2017,C_Single,0,0,108.3
+Car,27,Male,B,31,Single,30 to 40,543,Vocational education,1,24,0.15,2,3790,B_Male,Employed,2018,B_Single,0,0,176.89
+Consolidation of Other Loans,36,Female,D,26,Single,23 to 30,427,Vocational education,1,6,0.3769,5,2700,D_Female,Employed,2016,D_Single,0,0,140.2
+Other Purposes,30,Male,B,64,Divorced,60+,586,Vocational education,3,72,0.2112,27,1630,B_Male,Employed,2016,B_Divorced,0,0,75.33
+Other Purposes,12,Female,D,22,Single,19 to 23,292,High school,2,3,0.26,24,450,D_Female,Employed,2018,D_Single,0,0,44.85
+Other Purposes,24,Female,D,48,Divorced,40 to 50,507,Post graduate,2,6,0.25,21,2205,D_Female,Employed,2019,D_Divorced,0,0,128.57
+Consolidation of Other Loans,48,Male,B,31,Married,30 to 40,1092,Graduate,1,24,0.2267,9,2770,B_Male,Employed,2017,B_Married,0,1,2714.81
+Other Purposes,36,Male,B,40,Divorced,40 to 50,433,Graduate,4,24,0.15,49,1960,B_Male,Employed,2017,B_Divorced,0,3,73.6
+Car,24,Female,B,32,Divorced,30 to 40,380,Post graduate,4,48,0.2263,47,1600,B_Female,Employed,2015,B_Divorced,0,0,334.45
+Consolidation of Other Loans,48,Male,B,31,Single,30 to 40,1543,Post graduate,1,24,0.15,13,8800,B_Male,Employed,2019,B_Single,0,0,276.49
+Consolidation of Other Loans,47,Female,D,29,Single,23 to 30,597,Graduate,1,3,0.28,3,5000,D_Female,Employed,2018,D_Single,0,0,5100.82
+Home Improvements,58,Male,C,30,Married,30 to 40,703,Graduate,1,18,0.23,4,4390,C_Male,Employed,2018,C_Married,0,1,144.07
+Other Purposes,12,Male,D,29,Single,23 to 30,582,High school,4,3,0.24,51,450,D_Male,Employed,2017,D_Single,0,0,429.02
+Home Improvements,24,Male,C,33,Single,30 to 40,200,Vocational education,4,6,0.14,49,1090,C_Male,Employed,2017,C_Single,0,0,1069.93
+Other Purposes,24,Female,C,31,Divorced,30 to 40,462,High school,1,6,0.21,9,775,C_Female,Employed,2018,C_Divorced,0,1,42.52
+Other Purposes,12,Female,D,33,Married,30 to 40,709,Graduate,3,48,0.24,34,560,D_Female,Employed,2017,D_Married,0,1,55.26
+Consolidation of Other Loans,51,Female,D,34,Single,30 to 40,691,Post graduate,1,9,0.2999,11,5800,D_Female,Employed,2016,D_Single,0,0,4723.76
+Car,12,Male,C,35,Single,30 to 40,280,Vocational education,3,18,0.2391,39,400,C_Male,Employed,2015,C_Single,0,0,38.54
+Other Purposes,12,Female,A,53,Married,40 to 50,455,Post graduate,1,72,0.12,11,320,A_Female,Employed,2018,A_Married,0,0,29.1
+Consolidation of Other Loans,36,Female,C,58,Other,40 to 50,475,High school,3,60,0.371,37,3000,C_Female,Employed,2015,C_Other,0,0,145.88
+Car,24,Female,C,32,Married,30 to 40,607,Graduate,2,6,0.14,23,1960,C_Female,Employed,2018,C_Married,0,0,99.53
+Home Improvements,24,Male,A,56,Married,40 to 50,480,High school,1,36,0.1014,1,1560,A_Male,Employed,2017,A_Married,0,0,713.88
+Other Purposes,12,Female,C,22,Single,19 to 23,410,Vocational education,1,3,0.19,9,1110,C_Female,Employed,2018,C_Single,0,0,106.02
+Car,30,Female,B,29,Married,23 to 30,552,Vocational education,1,72,0.14,9,4355,B_Female,Employed,2019,B_Married,0,2,187.48
+Consolidation of Other Loans,60,Male,B,33,Married,30 to 40,1333,Post graduate,4,12,0.3383,41,1300,B_Male,Employed,2015,B_Married,0,1,1319.86
+Other Purposes,36,Female,D,51,Divorced,40 to 50,489,High school,4,72,0.2182,50,1110,D_Female,Employed,2016,D_Divorced,0,1,988.51
+Other Purposes,24,Female,B,32,Divorced,30 to 40,361,Vocational education,3,60,0.14,29,665,B_Female,Employed,2018,B_Divorced,0,2,479.34
+Other Purposes,24,Female,D,56,Other,40 to 50,497,Vocational education,4,15,0.26,52,450,D_Female,Employed,2018,D_Other,0,0,26.19
+Other Purposes,36,Female,D,47,Married,40 to 50,808,Graduate,1,24,0.1818,5,1110,D_Female,Employed,2017,D_Married,0,1,928.6
+Other Purposes,24,Female,B,50,Married,40 to 50,425,Vocational education,3,12,0.14,28,1500,B_Female,Employed,2018,B_Married,0,1,76.17
+Home Improvements,51,Male,D,36,Single,30 to 40,1188,High school,1,6,0.2862,7,6350,D_Male,Employed,2017,D_Single,0,2,6256.37
+Consolidation of Other Loans,48,Male,C,40,Married,40 to 50,1553,Vocational education,4,6,0.23,43,5250,C_Male,Employed,2017,C_Married,0,1,188.91
+Other Purposes,30,Male,B,59,Married,40 to 50,602,Vocational education,1,12,0.15,11,2670,B_Male,Employed,2018,B_Married,0,0,114.84
+Consolidation of Other Loans,58,Male,C,37,Married,30 to 40,796,High school,2,72,0.22,21,8200,C_Male,Employed,2019,C_Married,0,2,268.31
+Car,60,Female,B,52,Married,40 to 50,820,Vocational education,2,18,0.17,20,3265,B_Female,Employed,2019,B_Married,0,0,93.62
+Consolidation of Other Loans,39,Female,C,32,Single,30 to 40,326,Vocational education,4,12,0.2134,46,1000,C_Female,Employed,2016,C_Single,0,0,39.5
+Consolidation of Other Loans,30,Female,B,40,Married,40 to 50,1228,Vocational education,3,12,0.15,31,3150,B_Female,Employed,2018,B_Married,0,3,135.48
+Car,24,Female,B,26,Married,23 to 30,454,High school,3,36,0.14,37,1630,B_Female,Employed,2018,B_Married,0,1,82.77
+Home Improvements,30,Male,C,40,Single,40 to 50,5796,Post graduate,4,24,0.2228,50,5490,C_Male,Employed,2016,C_Single,0,0,260.09
+Other Purposes,30,Female,C,35,Single,30 to 40,1836,Vocational education,2,9,0.21,22,5500,C_Female,Employed,2019,C_Single,0,0,259.29
+Other Purposes,47,Female,D,21,Single,19 to 23,402,High school,1,3,0.28,7,3200,D_Female,Employed,2018,D_Single,0,0,128.65
+Other Purposes,24,Male,B,34,Divorced,30 to 40,457,Vocational education,3,3,0.21,27,1650,B_Male,Employed,2018,B_Divorced,0,1,960.14
+Other Purposes,18,Female,C,34,Single,30 to 40,1542,Post graduate,1,9,0.21,3,2200,C_Female,Employed,2018,C_Single,0,0,442.87
+Other Purposes,24,Male,C,33,Married,30 to 40,718,Vocational education,1,18,0.1846,4,3940,C_Male,Self-Employed,2017,C_Married,0,1,208.75
